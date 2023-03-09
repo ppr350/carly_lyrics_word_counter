@@ -1032,4 +1032,28 @@ sortable.sort(function(a, b) {
     /* Sort the array from most to least occurences */
     return b[1] - a[1];
 });
-console.log(sortable);
+console.table(sortable);
+
+function showTable(word, used) {
+    this.word = word;
+    this.used = used;
+}
+
+let getRunAwayWithMeLyrics = document.getElementById("run-away-with-me").innerText = `RUN AWAY WITH ME \n \n ${runAwayWithMeLyrics}`;
+let getEmotionLyrics = document.getElementById("emotion").innerText = `E.MO.TION \n \n ${emotionLyrics}`;
+let getIReallyLikeYou = document.getElementById("i-really-like-you").innerText = `I REALLY LIKE YOU \n \n ${iReallyLikeYouLyrics}`;
+let getGimmeLove = document.getElementById("gimme-love").innerText = `GIMME LOVE \n \n ${gimmeLoveLyrics}`;
+let getAllThat = document.getElementById("all-that").innerText = `ALL THAT \n \n ${allThatLyrics}`;
+let getBoyProblems = document.getElementById("boy-problems").innerText = `BOY PROBLEMS \n \n ${boyProblemsLyrics}`;
+let getMakingTheMostOfTheNight = document.getElementById("making-the-most-of-the-night").innerText = `MAKING THE MOST OF THE NIGHT \n \n ${makingTheMostOfTheNightLyrics}`;
+let getYourType = document.getElementById("your-type").innerText = `YOUR TYPE \n \n ${yourTypeLyrics}`;
+let getLetsGetLost = document.getElementById("lets-get-lost").innerText = `LET"S GET LOST \n \n ${letsGetLostLyrics}`;
+let getWarmBlood = document.getElementById("warm-blood").innerText = `WARM BLOOD \n \n ${warmBloodLyrics}`;
+let getWhenINeededYou = document.getElementById("when-i-needed-you").innerText = `WHEN I NEEDED YOU \n \n ${whenINeededYouLyrics}`;
+let getBlackHeart = document.getElementById("black-heart").innerText = `BLACK HEART \n \n ${blackHeartLyrics}`;
+let getIDidntJustComeHereToDance = document.getElementById("i-didnt-just-come-here-to-dance").innerText = `I DIDN'T JUST COME HERE TO DANCE \n \n ${iDidntJustComeHereToDanceLyrics}`;
+let getFavouriteColour = document.getElementById("favourite-colour").innerText = `FAVOURITE COLOUR \n \n ${favouriteColourLyrics}`;
+let getNeverGetToHoldYou = document.getElementById("never-get-to-hold-you").innerText = `NEVER GET TO HOLD YOU \n \n ${neverGetToHoldYouLyrics}`;
+let getLoveAgain = document.getElementById("love-again").innerText = `LOVE AGAIN \n \n ${loveAgainLyrics}`;
+
+let showResult = document.querySelector("#emotion-result tbody").innerHTML = sortable.map(word => `<tr><td>${word.word}</td><td>${word.used}</td></tr>`).join('')

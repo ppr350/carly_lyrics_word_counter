@@ -1,0 +1,74 @@
+/* Get this from UTOPIA Fluid Responsive Design */
+:root {
+  --step--2: clamp(0.33rem, calc(0.84rem + -0.71vw), 0.69rem);
+  --step--1: clamp(0.66rem, calc(0.90rem + -0.35vw), 0.83rem);
+  --step-0: clamp(1.00rem, calc(0.88rem + 0.61vw), 1.31rem);
+  --step-1: clamp(1.20rem, calc(0.64rem + 2.78vw), 2.63rem);
+  --step-2: clamp(1.44rem, calc(-0.05rem + 7.43vw), 5.25rem);
+  --step-3: clamp(1.73rem, calc(-1.70rem + 17.12vw), 10.50rem);
+  --step-4: clamp(2.07rem, calc(-5.31rem + 36.93vw), 21.00rem);
+  --step-5: clamp(2.49rem, calc(-12.93rem + 77.10vw), 42.00rem);
+}
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+html {
+  font-family: "Open Sans", sans-serif;
+  color: white;
+  font-size: 62.5%;
+}
+
+
+header {
+  margin: 0 auto;
+  width: min(90%, 1000px);
+}
+
+body {
+  box-sizing: border-box;
+  font-size: var(--step--1);
+  text-align: center;
+  margin: 0 auto;
+  background-color: black;
+  padding: 0 20px 20px 20px;
+}
+
+#title-image {
+  width: clamp(200px, 100%, 1000px);
+}
+
+.container {
+  width: min(90%, 1000px);
+  margin-inline: auto;
+}
+
+/*#result-emotion,*/
+.album-emotion {
+  padding: max(2.5vh, 1rem);
+  border: 2px solid hotpink;
+}
+
+.result,
+.lyrics-section {
+  background: #333;
+  color: white;
+  padding: max(3vh, 1rem);
+  margin-bottom: max(5vh, 2rem);
+}
+
+h2 {
+  font-size: var(--step-1);
+  line-height: 1;
+}
+
+h3 {
+  font-size: var(--step-0);
+  padding-top: 15px;
+}
+
