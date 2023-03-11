@@ -1057,10 +1057,41 @@ let getLoveAgain = document.getElementById("love-again").innerText = `LOVE AGAIN
 /*var array = [["A1", "B1"]
              ["A2", "B2"]
              ["A3", "B3"]
-             ["A4", "B4"]],*/
+             ["A4", "B4"]],
+
+table = document.getElementById("emotion-result");
+for (var i = 1; i < table.rows.length; i++) {
+    for (var j = 0; j < table.rows[i].cells.length; j++) {
+        table.rows[i].cells[j].innerHTML = sortable[i - 1][j];
+    }
+}*/
+
 table = document.getElementById("emotion-result");
 for (var i = 1; i < table.rows.length; i++) {
     for (var j = 0; j < table.rows[i].cells.length; j++) {
         table.rows[i].cells[j].innerHTML = sortable[i - 1][j];
     }
 }
+
+/*function createTable() {
+    //creates a <table> element and a <tbody> element
+    document.getElementById("result");
+    document.createElement("table");
+    const tblBody = document.createElement("tbody");
+
+    //create all cells
+    for (let i = 0; i < 2; i++) {
+        //create a table row
+        const row  = document.createElement("tr");
+        for (let j = 0; j < sortable; j++) {
+            //create a <td> element and a text node, make the text
+            //node the contents of the <td>, and put the <td> at
+            //the end of the table row
+            const cell = docuemnt.createElement("td");
+            const cellText = document.createTextNode(sortable[i]);
+            cell.appendChild(cellText);
+            row.appendChild(cell);
+        }
+    }
+}
+createTable()*/
