@@ -24,7 +24,6 @@ html {
   font-size: 62.5%;
 }
 
-
 header {
   margin: 0 auto;
   width: min(90%, 1000px);
@@ -72,3 +71,6 @@ h3 {
   padding-top: 15px;
 }
 
+#emotion-result {
+  margin: auto;
+}

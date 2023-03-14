@@ -1066,12 +1066,16 @@ for (var i = 1; i < table.rows.length; i++) {
     }
 }*/
 
-table = document.getElementById("emotion-result");
+/*table = document.getElementById("emotion-result");
 for (var i = 1; i < table.rows.length; i++) {
+    var row = table.insertRow;
+    var cell1 = row.insertCell(0);
+    var cell2 = row.insertCell(1);
     for (var j = 0; j < table.rows[i].cells.length; j++) {
+
         table.rows[i].cells[j].innerHTML = sortable[i - 1][j];
     }
-}
+}*/
 
 /*function createTable() {
     //creates a <table> element and a <tbody> element
@@ -1095,3 +1099,26 @@ for (var i = 1; i < table.rows.length; i++) {
     }
 }
 createTable()*/
+
+
+const tableElement = document.querySelector('#emotion-result');
+
+let generated = '';
+
+for (let i = 0; i < sortable.length; i++) {
+    let dat = sortable[i];
+
+    generated += `
+    <tr>
+        <td>
+            <input
+                type="text"
+                name="value${i+1}"
+                value="${dat} times"
+                //class="form-control input-md"
+            />
+        </td>
+    <tr>`
+}
+
+tableElement.innerHTML = generated;
