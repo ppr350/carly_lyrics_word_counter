@@ -1054,17 +1054,8 @@ let getFavouriteColour = document.getElementById("favourite-colour").innerText =
 let getNeverGetToHoldYou = document.getElementById("never-get-to-hold-you").innerText = `NEVER GET TO HOLD YOU \n \n ${neverGetToHoldYouLyrics}`;
 let getLoveAgain = document.getElementById("love-again").innerText = `LOVE AGAIN \n \n ${loveAgainLyrics}`;
 
-/*var array = [["A1", "B1"]
-             ["A2", "B2"]
-             ["A3", "B3"]
-             ["A4", "B4"]],
 
-table = document.getElementById("emotion-result");
-for (var i = 1; i < table.rows.length; i++) {
-    for (var j = 0; j < table.rows[i].cells.length; j++) {
-        table.rows[i].cells[j].innerHTML = sortable[i - 1][j];
-    }
-}*/
+
 
 /*table = document.getElementById("emotion-result");
 for (var i = 1; i < table.rows.length; i++) {
@@ -1100,10 +1091,24 @@ for (var i = 1; i < table.rows.length; i++) {
 }
 createTable()*/
 
+/*var array = [["A1", "B1"]
+             ["A2", "B2"]
+             ["A3", "B3"]
+             ["A4", "B4"]],
 
-const tableElement = document.querySelector('#emotion-result');
+
+table = document.getElementById("emotion-result");
+for (let i = 1; i < sortable.length; i++) {
+    for (var j = 0; j < table.rows[i].cells.length; j++) {
+        table.rows[i].cells[j].innerHTML = sortable[i - 1][j];
+    }
+}*/
+
+// Working, but it produces the results in a single cell manner
+/*const tableElement = document.querySelector('#emotion-result');
 
 let generated = '';
+generated += `<tr><th>WORD COUNT</th></tr>`;
 
 for (let i = 0; i < sortable.length; i++) {
     let dat = sortable[i];
@@ -1121,4 +1126,20 @@ for (let i = 0; i < sortable.length; i++) {
     <tr>`
 }
 
-tableElement.innerHTML = generated;
+tableElement.innerHTML = generated;*/
+
+function makeTable(array) {
+    var result = "";
+    result += "<thead><tr><th>Word</th><th>Count</th></thead><tbody>";
+    for(var i = 0; i < array.length; i++) {
+        result += "<tr>";
+        for (var j = 0; j < array[i].length; j++) {
+            result += "<td>"+array[i][j]+"</td>";
+        }
+        result += "</tr>";
+    }
+    result += "</tbody></table>";
+    document.getElementById("emotion-result").innerHTML = result;
+}
+
+makeTable(sortable)

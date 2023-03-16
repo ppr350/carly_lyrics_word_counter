@@ -48,11 +48,13 @@ body {
 }
 
 /*#result-emotion,*/
+.album-word-count,
 .album-emotion {
   padding: max(2.5vh, 1rem);
   border: 2px solid hotpink;
 }
 
+/*#emotion-result,*/
 .result,
 .lyrics-section {
   background: #333;
@@ -73,4 +75,23 @@ h3 {
 
 #emotion-result {
   margin: auto;
+  border-collapse: collapse;
 }
+
+th,
+td {
+  table-layout: fixed;
+
+  border: 2px solid teal;
+  background-color: black;
+  font-size: var(--step-0);
+  padding: max(2vh, 1rem);
+  text-align: center;
+
+}
+
+table td {
+  text-align: center;
+  border-collapse: collapse;
+}
+
