@@ -1010,7 +1010,7 @@ let emotionAlbum = runAwayWithMeLyrics.concat(
     );
     
 /* Use RegEx to seperate all the words into an array */
-const getAllLyrics = emotionAlbum.replace(/(\r\n|\n|\r)/gm, " ").replaceAll(',', '').replaceAll('?', '').replaceAll('(', '').replaceAll(')', '').toLowerCase().split(" ");
+const getAllLyrics = emotionAlbum.replace(/(\r\n|\n|\r)/gm, " ").replaceAll(',', '').replaceAll('?', '').replaceAll('(', '').replaceAll(')', '').replaceAll('"', '').toLowerCase().split(" ");
 console.log(getAllLyrics);
 
 /* Use Reduce to do word countand convert them into an Object as a result */
@@ -1043,6 +1043,7 @@ let getBoyProblems = document.getElementById("boy-problems").innerText = `BOY PR
 let getMakingTheMostOfTheNight = document.getElementById("making-the-most-of-the-night").innerText = `MAKING THE MOST OF THE NIGHT \n \n ${makingTheMostOfTheNightLyrics}`;
 let getYourType = document.getElementById("your-type").innerText = `YOUR TYPE \n \n ${yourTypeLyrics}`;
 let getLetsGetLost = document.getElementById("lets-get-lost").innerText = `LET"S GET LOST \n \n ${letsGetLostLyrics}`;
+let getlaHallucinations = document.getElementById("la-hallucinations").innerText = `LA HALLUCINATIONS \n \n ${laHallucinationsLyrics}`;
 let getWarmBlood = document.getElementById("warm-blood").innerText = `WARM BLOOD \n \n ${warmBloodLyrics}`;
 let getWhenINeededYou = document.getElementById("when-i-needed-you").innerText = `WHEN I NEEDED YOU \n \n ${whenINeededYouLyrics}`;
 let getBlackHeart = document.getElementById("black-heart").innerText = `BLACK HEART \n \n ${blackHeartLyrics}`;
