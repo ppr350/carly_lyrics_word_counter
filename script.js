@@ -1,4 +1,4 @@
-// Lyrics : EMOTION
+/* Lyrics : EMOTION */
 const runAwayWithMeLyrics = `You're stuck in my head, stuck on my heart, stuck on my body, body
 I wanna go, get out of here, I'm sick of the party, party
 I'd run away
@@ -1033,7 +1033,7 @@ sortable.sort(function(a, b) {
 });
 console.table(sortable);
 
-// Display Lyrics on site
+/* Display Lyrics on site*/
 let getRunAwayWithMeLyrics = document.getElementById("run-away-with-me").innerText = `RUN AWAY WITH ME \n \n ${runAwayWithMeLyrics}`;
 let getEmotionLyrics = document.getElementById("emotion").innerText = `E.MO.TION \n \n ${emotionLyrics}`;
 let getIReallyLikeYou = document.getElementById("i-really-like-you").innerText = `I REALLY LIKE YOU \n \n ${iReallyLikeYouLyrics}`;
@@ -1051,66 +1051,7 @@ let getFavouriteColour = document.getElementById("favourite-colour").innerText =
 let getNeverGetToHoldYou = document.getElementById("never-get-to-hold-you").innerText = `NEVER GET TO HOLD YOU \n \n ${neverGetToHoldYouLyrics}`;
 let getLoveAgain = document.getElementById("love-again").innerText = `LOVE AGAIN \n \n ${loveAgainLyrics}`;
 
-/*table = document.getElementById("emotion-result");
-for (var i = 1; i < table.rows.length; i++) {
-    var row = table.insertRow;
-    var cell1 = row.insertCell(0);
-    var cell2 = row.insertCell(1);
-    for (var j = 0; j < table.rows[i].cells.length; j++) {
-
-        table.rows[i].cells[j].innerHTML = sortable[i - 1][j];
-    }
-}*/
-
-/*function createTable() {
-    //creates a <table> element and a <tbody> element
-    document.getElementById("result");
-    document.createElement("table");
-    const tblBody = document.createElement("tbody");
-
-    //create all cells
-    for (let i = 0; i < 2; i++) {
-        //create a table row
-        const row  = document.createElement("tr");
-        for (let j = 0; j < sortable; j++) {
-            //create a <td> element and a text node, make the text
-            //node the contents of the <td>, and put the <td> at
-            //the end of the table row
-            const cell = docuemnt.createElement("td");
-            const cellText = document.createTextNode(sortable[i]);
-            cell.appendChild(cellText);
-            row.appendChild(cell);
-        }
-    }
-}
-createTable()*/
-
-
-
-// Working, but it produces the results in a single cell manner
-/*const tableElement = document.querySelector('#emotion-result');
-
-let generated = '';
-generated += `<tr><th>WORD COUNT</th></tr>`;
-
-for (let i = 0; i < sortable.length; i++) {
-    let dat = sortable[i];
-
-    generated += `
-    <tr>
-        <td>
-            <input
-                type="text"
-                name="value${i+1}"
-                value="${dat} times"
-                //class="form-control input-md"
-            />
-        </td>
-    <tr>`
-}
-
-tableElement.innerHTML = generated;*/
-
+/* Display Word Count on site */
 function makeTable(array) {
     var result = "";
     result += "<thead><tr><th>Word</th><th>Count</th></thead><tbody>";
@@ -1124,5 +1065,33 @@ function makeTable(array) {
     result += "</tbody></table>";
     document.getElementById("emotion-result").innerHTML = result;
 }
-
 makeTable(sortable)
+
+
+
+/* Lyrics : EMOTION SIDE B */
+
+
+
+
+/* Merge all lyrics (string) into one master string */
+
+
+
+/* Use RegEx to seperate all the words into an array */
+
+
+
+/* Use Reduce to do word countand convert them into an Object as a result */
+
+
+
+/* Use Push convert the Object back to Array */
+
+
+
+/* Display Lyrics on site*/
+
+
+
+/* Display Word Count on site */
