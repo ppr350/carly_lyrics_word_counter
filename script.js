@@ -1,3 +1,4 @@
+// Lyrics : EMOTION
 const runAwayWithMeLyrics = `You're stuck in my head, stuck on my heart, stuck on my body, body
 I wanna go, get out of here, I'm sick of the party, party
 I'd run away
@@ -1007,8 +1008,7 @@ let emotionAlbum = runAwayWithMeLyrics.concat(
     neverGetToHoldYouLyrics,
     loveAgainLyrics
     );
-//console.log(emotionAlbum)
-
+    
 /* Use RegEx to seperate all the words into an array */
 const getAllLyrics = emotionAlbum.replace(/(\r\n|\n|\r)/gm, " ").replaceAll(',', '').replaceAll('?', '').replaceAll('(', '').replaceAll(')', '').toLowerCase().split(" ");
 console.log(getAllLyrics);
@@ -1019,7 +1019,6 @@ const countLyrics = getAllLyrics.reduce( (lyricsBasket, word) => {
     return lyricsBasket;
 } , {})
 console.table(countLyrics);
-//console.log(countRunAwayWithMe);
 console.log(Array.isArray(countLyrics));
 
 /* Use Push convert the Object back to Array */
@@ -1034,9 +1033,7 @@ sortable.sort(function(a, b) {
 });
 console.table(sortable);
 
-
-
-
+// Display Lyrics on site
 let getRunAwayWithMeLyrics = document.getElementById("run-away-with-me").innerText = `RUN AWAY WITH ME \n \n ${runAwayWithMeLyrics}`;
 let getEmotionLyrics = document.getElementById("emotion").innerText = `E.MO.TION \n \n ${emotionLyrics}`;
 let getIReallyLikeYou = document.getElementById("i-really-like-you").innerText = `I REALLY LIKE YOU \n \n ${iReallyLikeYouLyrics}`;
@@ -1053,9 +1050,6 @@ let getIDidntJustComeHereToDance = document.getElementById("i-didnt-just-come-he
 let getFavouriteColour = document.getElementById("favourite-colour").innerText = `FAVOURITE COLOUR \n \n ${favouriteColourLyrics}`;
 let getNeverGetToHoldYou = document.getElementById("never-get-to-hold-you").innerText = `NEVER GET TO HOLD YOU \n \n ${neverGetToHoldYouLyrics}`;
 let getLoveAgain = document.getElementById("love-again").innerText = `LOVE AGAIN \n \n ${loveAgainLyrics}`;
-
-
-
 
 /*table = document.getElementById("emotion-result");
 for (var i = 1; i < table.rows.length; i++) {
@@ -1091,18 +1085,7 @@ for (var i = 1; i < table.rows.length; i++) {
 }
 createTable()*/
 
-/*var array = [["A1", "B1"]
-             ["A2", "B2"]
-             ["A3", "B3"]
-             ["A4", "B4"]],
 
-
-table = document.getElementById("emotion-result");
-for (let i = 1; i < sortable.length; i++) {
-    for (var j = 0; j < table.rows[i].cells.length; j++) {
-        table.rows[i].cells[j].innerHTML = sortable[i - 1][j];
-    }
-}*/
 
 // Working, but it produces the results in a single cell manner
 /*const tableElement = document.querySelector('#emotion-result');
