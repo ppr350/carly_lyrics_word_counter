@@ -51,6 +51,18 @@ body {
 .album-emotion {
   padding: max(2.5vh, 1rem);
   border: 2px solid hotpink;
+  background-color: black;
+  /*position: sticky;
+  top: 0;*/
+}
+
+.sticky {
+  position: sticky;
+  top: 0;
+}
+
+.album-emotion {
+
 }
 
 .result,
@@ -58,7 +70,8 @@ body {
   background: #333;
   color: white;
   padding: max(3vh, 1rem);
-  margin-bottom: max(5vh, 2rem);
+  /*margin-bottom: max(5vh, 2rem);*/
+  /*box-shadow: 0 0 1em white;*/
 }
 
 h2 {
