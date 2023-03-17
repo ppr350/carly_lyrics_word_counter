@@ -66,7 +66,7 @@ Run away with me
 Run away with me
 Run away with me
 Run away with me
-Run away with me`;
+Run away with me `;
 const emotionLyrics = `Be tormented by me, babe
 Wonder, wonder how I do
 How's the weather? Am I better?
@@ -124,7 +124,7 @@ I feel it
 (What if I turn the lights right down?)
 This emotion
 You feel it
-All that we could do with this emotion`;
+All that we could do with this emotion `;
 const iReallyLikeYouLyrics = `I really wanna stop, but I just got the taste for it
 I feel like I could fly with the boy on the moon
 So, honey, hold my hand, you like making me wait for it
@@ -178,7 +178,7 @@ Yeah! (I really, really, really, really, really, really like you)
 (And I want you, do you want me)
 Yeah I need to tell you something (Do you want me, too?)
 I really, really, really, really, really, really like you
-And I want you, do you want me, do you want me, too?`
+And I want you, do you want me, do you want me, too? `
 const gimmeLoveLyrics = `Worlds fly by
 Drove by your place and stopped again tonight
 I know I said that I'm too scared to try
@@ -234,7 +234,7 @@ Gimmie love, gimmie love, gimmie love, gimmie love
 Gimmie please
 'Cause I want what I want, boy you, it's what I need
 Gimmie love, gimmie love, gimmie love, gimmie love
-Gimmie love, gimmie love, gimmie love, gimmie love`
+Gimmie love, gimmie love, gimmie love, gimmie love `
 const allThatLyrics = `I wanna play this for you all the time
 I wanna play this for you when you're feeling used and tired
 I wanna make the best so you want more
@@ -310,7 +310,7 @@ I will be your friend
 (Oh, show me that you care)
 I will be that
 I will be your friend
-(Just show me that you care)`
+(Just show me that you care) `
 const boyProblemsLyrics = `Listen, just leave or stay
 But I'm done listening to it
 If you're gonna go then go
@@ -392,7 +392,7 @@ I've got 'em too
 Boy trouble, we've got double
 Don't know what to do
 Boy problems, who's got 'em?
-I've got 'em too`
+I've got 'em too `
 const makingTheMostOfTheNightLyrics = `You and me
 We've been hanging around for the longest time
 I know when you're down
@@ -460,7 +460,7 @@ I know you've had a rough time
 But here I come, I'ma hijack you, hijack you
 I'll love you while making the most of the night (oh)
 Making the most of the night (oh)
-Making the most of the night`
+Making the most of the night `
 const yourTypeLyrics = `I used to be in love with you
 You used to be the first thing on my mind
 I know I'm just a friend to you
@@ -516,7 +516,7 @@ I'm not the type of girl you'd call more than a friend
 I'll make time for you (time for you-ooh)
 I'll make time for you (time for you-ooh)
 I'll make time for you (time for you-ooh)
-I'll make time for you (time for you-ooh)`
+I'll make time for you (time for you-ooh) `
 const letsGetLostLyrics = `I was never one to want to
 Put my trust in someone else completely
 And I was always one to want to up and run
@@ -563,7 +563,7 @@ I don't wanna let you go
 Keeping my fingers crossed
 That maybe you'll take the long way home
 Baby, let's take the long way home
-Baby, let's take the long way home`
+Baby, let's take the long way home `
 const laHallucinationsLyrics = `I remember being naked
 We were young freaks just fresh to L.A.
 Never cared about the fake kids
@@ -613,7 +613,7 @@ And shake me from L.A. hallucinations
 Take me into your arms again
 And shake me from L.A. hallucinations
 Take me into your arms again
-And shake me from L.A. hallucinations`
+And shake me from L.A. hallucinations `
 const warmBloodLyrics = `I've got a cavern of secrets
 None of them are for you
 Even if you wanted to keep them
@@ -661,7 +661,7 @@ Warm blood, my heart is pumping
 Warm blood, underneath my skin
 Warm blood, my heart is pumping
 Warm blood, warm blood
-Warm blood, warm blood`
+Warm blood, warm blood `
 const whenINeededYouLyrics = `What if we could go back?
 We could take the words back
 You could take my love back
@@ -715,7 +715,7 @@ When I needed
 When I needed
 When I needed you?
 When I needed you?
-When I needed you?`
+When I needed you? `
 const blackHeartLyrics = `I don't care about your good intentions
 I care more about your bad dreams
 I want a love on a new dimension
@@ -756,7 +756,7 @@ Everything you ever wanted
 Now it's happening, now it's happening (black heart)
 Everything you ever wanted
 Now it's happening, under the blossom tree (black heart)
-Black heart`
+Black heart `
 const iDidntJustComeHereToDanceLyrics = `I didn't just come here to dance
 If you know what I mean
 Do you know what I mean?
@@ -811,7 +811,7 @@ I didn't just come here to dance
 If you know what I mean
 Do you know what I mean?
 If you just give me a chance, you'd see what I see
-Do you see what I see?`
+Do you see what I see? `
 const favouriteColourLyrics = `Hold on now
 This is getting kinda serious
 This is getting kinda out of control
@@ -868,7 +868,7 @@ You're my favourite colour
 Paint me up, me up, me up
 You're my favourite colour
 Paint me up, me up, me up
-You're my favourite colour`
+You're my favourite colour `
 const neverGetToHoldYouLyrics = `Oh baby, don't you go
 You know I didn't mean it, darling
 Sweet like the morning light
@@ -930,7 +930,7 @@ I never get to hold you
 As long as I want to
 Remember I told you
 You're all that I need
-You're all that I need, baby`
+You're all that I need, baby `
 const loveAgainLyrics = `Open up your heart to the ceiling
 Don't you know it hurts for a reason?
 Time will take you back to believing
@@ -1010,7 +1010,7 @@ let emotionAlbum = runAwayWithMeLyrics.concat(
     );
     
 /* Use RegEx to seperate all the words into an array */
-const getAllLyrics = emotionAlbum.replace(/(\r\n|\n|\r)/gm, " ").replaceAll(',', '').replaceAll('?', '').replaceAll('(', '').replaceAll(')', '').replaceAll('"', '').toLowerCase().split(" ");
+const getAllLyrics = emotionAlbum.replace(/(\r\n|\n|\r)/gm, " ").replaceAll(',', '').replaceAll('-', '').replaceAll('?', '').replaceAll('(', '').replaceAll(')', '').replaceAll('"', '').toLowerCase().split(" ");
 console.log(getAllLyrics);
 
 /* Use Reduce to do word countand convert them into an Object as a result */
@@ -1070,8 +1070,447 @@ makeTable(sortable)
 
 
 
-/* Lyrics : EMOTION SIDE B */
-
+/* Lyrics : EMOTION SIDE B+ */
+const cutToTheFeelingLyrics = `I had a dream, or was it real?
+We crossed the line and it was on
+We crossed the line, it was on this time
+I've been denying how I feel, you've been denying what you want
+You want from me, talk to me, baby
+I want some satisfaction, take me to the stars
+Just like ah-ah-ah, ah-ah-ah
+I wanna cut through the clouds, break the ceiling
+I wanna dance on the roof, you and me alone
+I wanna cut to the feeling, oh yeah
+I wanna cut to the feeling, oh yeah (woo)
+I wanna play where you play with the angels
+I wanna wake up with you all in tangles, oh
+I wanna cut to the feeling, oh yeah
+I wanna cut to the feeling, oh yeah
+Cancel your reservations, no more hesitations this is on
+Can't make it stop, give me all you got
+I want it all or nothing, no more in between, now give your
+Everything to me, let's get real, baby
+A chemical reaction, take me in your arms
+And make me (hey) ah-ah-ah, ah-ah-ah
+I wanna cut through the clouds, break the ceiling
+I wanna dance on the roof, you and me alone
+I wanna cut to the feeling, oh yeah
+I wanna cut to the feeling, oh yeah (woo)
+I wanna play where you play with the angels
+I wanna wake up with you all in tangles, oh
+I wanna cut to the feeling, oh yeah
+I wanna cut to the feeling, oh yeah
+Take me to emotion (hey), I want to go all the way (all the way)
+Show me devotion and take me all the way
+Take me to emotion, I want to go all the way
+Show me devotion and take me all the way (all the way, all the way, all the way)
+Take me, take me, take me all the way, ah-ah-ah
+I wanna cut through the clouds, break the ceiling
+I wanna dance on the roof, you and me alone
+I wanna cut to the feeling, oh yeah
+I wanna cut to the feeling, oh yeah (yeah, yeah, yeah)
+I wanna play where you play with the angels
+I wanna wake up with you all in tangles, oh
+I wanna cut to the feeling, oh yeah
+I wanna cut to the feeling, oh yeah
+I wanna cut through the clouds (mmm, cut to the feeling)
+I wanna dance on the roof (oh, yeah)
+I wanna cut to the feeling (I wanna cut to the feeling)
+I wanna cut to the feeling (I wanna cut to the feeling) `;
+const firstTimeLyrics = `You are the heartbreak
+We'll make it feel like the first time
+First time
+Catching tears like raindrops here in the glass
+Keep them safe in case you should ever ask
+Or if you'd like, we don't need to talk about it
+I don't care
+I will wait right here by my windowsill
+For the sun to come, if it ever will
+Everyone says I can never get my fill but I don't care
+We won't get too sentimental, not tonight
+I could meet you in the middle, we won't fight
+'Cause when my heart breaks
+It always feels like the first time, first time
+But if you stay here
+We could kiss away the goodbye, goodbye
+Through the heartbreak
+We'll make it feel like the first time, first time
+And if you stay here
+We could kiss away the goodbye, goodbye
+Looking back, I followed you everywhere
+We were kids just playing with truth and dare
+Let's be honest, no one else can take me there
+But I don't care
+We won't get too sentimental, not tonight
+I could meet you in the middle, we won't fight
+'Cause when my heart breaks
+It always feels like the first time, first time
+But if you stay here
+We could kiss away the goodbye, goodbye
+Through the heartbreak
+We'll make it feel like the first time, first time
+And if you stay here
+We could kiss away the goodbye, goodbye
+Don't you?
+I hope that you want to
+Make it up and start it over
+Don't you?
+I hope that you want to
+Make it up and start it over
+Feels like the first time
+'Cause when my heart breaks
+It always feels like the first time, first time
+But if you stay here
+We could kiss away the goodbye, goodbye (yeah, yeah)
+We'll make it feel like the first time (oh oh oh, feels like the first time)
+And if you stay here
+We could kiss away the goodbye, goodbye `;
+const higherLyrics = `I was lost alone and searchin'
+For someone who understands me for who I really am
+Didn't know that I was hurtin'
+'Til you left me up inside
+And he opens up my eyes, oh
+You wanna know what I'm thinkin'
+Ever since you came I'm livin'
+On top of the world, I can't deny
+Every one of my fears has vanished
+I don't know how you managed
+To wake me up and come alive
+You take me higher than the rest (hey)
+Everybody else is second best (oh oh oh)
+You pulled a gem out of the mess
+I was so cynical before, I must confess
+Oh you got me, high, high, higher
+Oh you got me, high, high, higher
+Toss and turn, a few mistakes but
+You slipped in and showed me how
+Never let me hit the ground
+All the love was hesitated
+But ever since you came around
+I feel more than safe and sound
+You wanna know what I'm thinkin'
+Ever since you came I'm livin'
+On top of the world, I can't deny
+Every one of my fears has vanished
+I don't know how you managed
+To wake me up and come alive
+You take me higher than the rest (hey)
+Oh, everybody else is second best (oh oh oh)
+You pulled a gem out of the mess
+I was so cynical before, I must confess
+Oh you got me, high, high, higher
+Oh you got me, high, high, higher
+Oh yeah your love turns me on
+Gets me higher
+Oh yeah your love takes me up
+Gets me higher
+Oh yeah your love turns me on
+Gets me higher
+Oh yeah your love takes me up
+Gets me higher
+You take me higher than the rest (hey)
+Oh, everybody else is second best (oh oh oh, second best, second best)
+You pulled a gem out of the mess
+I was so cynical before, I must confess
+Oh you got me, high, high, higher
+Oh you got me, high, high, higher
+Oh you got me, high, high, higher
+Oh you got me, high, high, higher, oh you got me `;
+const theOneLyrics = `Two fears I never thought of us together
+He's just a friend of mine
+We should know better
+This can't last forever
+Kiss me one more time
+Romance is fine, pour me some wine
+Tell me it's just for the fun of it
+Far from your eyes, hard to deny when
+I don't want love, don't want none of it
+If you want to, you can stay the night
+I don't want to be the one, the one
+If you want to, you can hold me tight
+I don't want to be the one, the one
+It's too much pressure
+It's too much pressure
+It's too much pressure
+I don't want to be the one, the one
+We're cookin' dinner, I wear your socks and slippers
+It's been a long, long day
+It's just so easy, love the way you read me
+I never have to say
+Romance is fine, pour me some wine
+Tell me it's just for the fun of it
+Far from your eyes, hard to deny when
+I don't want love, don't want none of it
+If you want to, you can stay the night
+I don't want to be the one, the one
+If you want to, you can hold me tight
+I don't want to be the one, the one
+It's too much pressure
+It's too much pressure
+It's too much pressure
+I don't want to be the one, the one
+Don't fall in love, fall in love, fall in love, fall in love
+Don't fall in love, fall in love, fall in love, fall in love
+Don't fall in love, fall in love, fall in love, fall in love
+Don't fall in love, fall in love, fall in love, fall in love
+If you want to, you can stay the night
+I don't want to be the one, the one
+If you want to, you can hold me tight
+I don't want to be the one, the one
+It's too much pressure
+It's too much pressure
+It's too much pressure
+I don't want to be the one, the one `;
+const feverLyrics = `Don't tell me this is how it ends
+I burn with fever that I caught from you
+My breath was lost when you said "friends"
+Well, that could work, but I'm still hot for you
+So I stole your bike
+And I rode all night
+But I'm so damn scared
+You don't even care
+You wanna break my heart, alright
+I caught your fever, I'll be feeling it forever
+You want a brand-new start, alright
+I caught your fever, I'll be feeling it forever
+I've still been sleeping at my friend's
+Dropped off your helmet and lock for me
+I wrote some things I didn't send
+Three words to say that meant a lot to me
+So I rode your bike
+To your house last night
+And I'm so damn scared
+'Cause your car's not there
+You wanna break my heart, alright
+I caught your fever, I'll be feeling it forever
+You want a brand-new start, alright
+I caught your fever, I'll be feeling it forever
+And my lights stay up, but your city sleeps
+It's a different world when you're not here with me
+Go on and break my heart tonight
+I caught your fever, I'll be feeling it forever
+Don't break my heart tonight
+Don't break my heart tonight
+Don't break my heart tonight
+Don't break my heart tonight
+You wanna break my heart, alright
+I caught your fever, I'll be feeling it forever
+You want a brand-new start, alright
+I caught your fever, I'll be feeling it forever
+And my lights stay up, but your city sleeps
+It's a different world when you're not here with me
+Go on and break my heart tonight
+I caught your fever, I'll be feeling it forever `;
+const bodyLanguageLyrics = `I think I'm in trouble, I can't see the end
+I call you my lover, you call me your friend
+I keep it a secret, yeah even from you
+I call you my lover, oh what can I do?
+I've been lonely baby, I
+I've been hangin' on the line
+Been hangin' on the line
+And if you love me baby
+Don't, don't, don't hang up this time
+Body language will do the trick
+If you stay with me tonight, then we'll talk it over
+That's the danger, you're missing it
+I just think we're overthinking it
+I think we're overthinking it
+Used to be perfect, that we could be free
+To do what we wanted, you do it to me
+We only just started, don't say it's the end
+So call me your lover, don't call me your friend
+I've been lonely baby, I
+I've been hangin' on the line
+Been hangin' on the line
+And if you love me baby
+Don't, don't, don't hang up this time
+'Cause you know
+Body language will do the trick
+If you stay with me tonight, then we'll talk it over
+That's the danger, you're missing it
+I just think we're overthinking it
+I think we're overthinking it
+Body language will do the trick
+If you stay with me tonight, then we'll talk it over
+That's the danger, you're missing it
+I just think we're overthinking it
+Don't think it over
+Oh
+I just think we're overthinking it
+Don't think it over
+Oh
+I just think we're overthinking it
+Don't think it over
+Oh
+I just think we're overthinking it
+Don't think it over
+Oh
+I just think we're overthinking it
+Don't think it over
+Body language will do the trick
+If you stay with me tonight, then we'll talk it over
+That's the danger, you're missing it
+I just think we're overthinking it
+I think we're overthinking it `;
+const cryLyrics = `You're king of the castle
+Whenever you're here, you know it feels right
+Don't need to worry
+Don't need to move, I've got the spotlight
+I want you to
+Do you want to?
+I want you to stay tonight
+I want you to say
+I want you to
+He never wants to strip down to his feelings
+He never wants to kiss and close his eyes
+He never wants to cry, cry
+I never really know when he'll be leaving
+And even with hello I hear goodbye
+He always makes me cry, cry
+Wake up without you
+Flood in my room, I see your headlights
+And you got your reasons
+You've got a way that makes it alright
+I want you to
+Do you want to?
+I want you to stay tonight
+I want you to stay
+I want you to
+He never wants to strip down to his feelings
+He never wants to kiss and close his eyes
+He never wants to cry, cry
+I never really know when he'll be leaving
+And even with hello I hear goodbye
+He always makes me cry, cry
+Wake up without you
+Wake up without you
+Wake up without you
+I wake up without you, boy
+Cry, cry
+Wake up without you
+Wake up without you
+Wake up without you
+I wake up without you, boy
+Cry, cry
+You're king of the castle
+Whenever you're here, you know it feels right
+Don't need to worry
+He never wants to strip down to his feelings
+He never wants to kiss and close his eyes
+He never wants to cry, cry
+I never really know when he'll be leaving
+And even with hello I hear goodbye
+He always makes me cry, cry
+Cry `;
+const storeLyrics = `Sunlight, moves upon my skin
+Wake up and I'm next to you
+But I wish that I was next to him
+Looks like this could be the end
+Know that you'll be alright
+Maybe one day we'll be friends
+But you know me, I'm
+I'm not that good at goodbyes
+Sometimes it's best to just fly
+Ask where we're going, oh, I
+Can't talk about it, can't talk about it 'cause
+I'm just goin' to the store, to the store
+I'm just goin' to the store
+You might not see me anymore, anymore
+I'm just goin' to the store
+I'm just goin' to the store, to the store
+I'm just goin' to the store
+You might not see me anymore, anymore
+I'm just goin' to the store
+Don't cry
+I can't play pretend
+Wish it hadn't come to this
+But you know there's some things you can't mend
+But you know me, I
+I'm not that good at goodbyes
+Sometimes it's best to just fly
+Ask where we're going, oh, I
+Can't talk about it, can't talk about it 'cause
+I'm just goin' to the store, to the store
+I'm just goin' to the store
+You might not see me anymore, anymore
+I'm just goin' to the store
+I'm just goin' to the store, to the store
+I'm just goin' to the store
+You might not see me anymore, anymore
+I'm just goin' to the store
+Alright, I'm so alright this time
+I just wanna say, I'm sorry
+I just wanna say, I'm sorry
+Alright (alright), I'm so alright this time
+I just wanna say, I'm sorry
+I just wanna say, I'm sorry
+I'm not that good at goodbyes
+Sometimes it's best to just fly
+I'm just goin' to the store, to the store
+I'm just goin' to the store
+You might not see me anymore, anymore
+I'm just goin' to the store
+I'm just goin' to the store, to the store
+I'm just goin' to the store
+You might not see me anymore, anymore
+I'm just goin' to the store
+I'm just going to the store (I'm just going to the store)
+I'm just going to the store (I'm just going to the store) `;
+const rosesLyrics = `Knock on the door, leaving it open
+It wasn't you, why was I hoping?
+Said it before and I'll say it again
+That I'll always be here when you need a friend
+I sat with you on my bedroom floor
+And I couldn't move, all that we were losing
+I saw you like I never did before
+I never did before
+And I can feel you reaching through the cracks
+A simple change of seasons and you're back
+All the roses in the garden fade to black, ooh, ooh
+Yeah I can feel you reaching through the cracks
+A simple change of heart and you attack
+All the roses in the garden fade to black, ooh, ooh
+I won't take it back
+Cat got your tongue, it's been forever
+Have you been good, have you been better?
+I've said it before and I'll say it again
+That I'll always be here if you need a friend
+I sat with you on my bedroom floor
+And I couldn't move, all that we were losing
+I saw you like I never did before
+I never did before
+And I can feel you reaching through the cracks
+A simple change of seasons and you're back
+All the roses in the garden fade to black, ooh, ooh
+Yeah, I can feel you reaching through the cracks
+A simple change of heart and you attack
+All the roses in the garden fade to black, ooh, ooh
+I won't take it back
+Drunk on cigarettes
+Last chance, say the words
+Dancing in the dark
+Love made in the park
+Big black blossom tree
+Baby cover me
+Hold me, left to blow
+Please don't let me go
+Please don't let me go
+And I can feel you reaching through the cracks
+A simple change of seasons and you're back
+All the roses in the garden fade to black, ooh, ooh
+Yeah I can feel you reaching through the cracks
+A simple change of heart and you attack
+All the roses in the garden fade to black, ooh, ooh
+I won't take it back
+Drunk on cigarettes
+Last chance, say the words
+I won't take it back
+Dancing in the dark
+I won't take it back (no I won't take it back)
+Big black blossom tree
+Baby cover me (I won't take it back)
+Hold me, left to blow
+Please don't let me go `;
 
 
 

@@ -52,8 +52,7 @@ body {
   padding: max(2.5vh, 1rem);
   border: 2px solid hotpink;
   background-color: black;
-  /*position: sticky;
-  top: 0;*/
+  box-shadow: 0 0 3em hotpink;
 }
 
 .sticky {
@@ -61,17 +60,11 @@ body {
   top: 0;
 }
 
-.album-emotion {
-
-}
-
 .result,
 .lyrics-section {
   background: #333;
   color: white;
   padding: max(3vh, 1rem);
-  /*margin-bottom: max(5vh, 2rem);*/
-  /*box-shadow: 0 0 1em white;*/
 }
 
 h2 {
@@ -88,6 +81,7 @@ h3 {
   margin: auto;
   border-collapse: collapse;
   width: clamp(100px, 100%, 400px);
+  box-shadow: 0 0 3em teal;
 }
 
 th,
