@@ -989,87 +989,6 @@ You'll learn to love again
 You'll learn to love again
 You'll learn to love again`
 
-/* Merge all lyrics (string) into one master string */
-let emotionAlbum = runAwayWithMeLyrics.concat(
-    emotionLyrics,
-    iReallyLikeYouLyrics,
-    gimmeLoveLyrics,
-    allThatLyrics,
-    boyProblemsLyrics,
-    makingTheMostOfTheNightLyrics,
-    yourTypeLyrics,
-    letsGetLostLyrics,
-    laHallucinationsLyrics,
-    warmBloodLyrics,
-    whenINeededYouLyrics,
-    blackHeartLyrics,
-    iDidntJustComeHereToDanceLyrics,
-    favouriteColourLyrics,
-    neverGetToHoldYouLyrics,
-    loveAgainLyrics
-    );
-    
-/* Use RegEx to seperate all the words into an array */
-const getAllLyrics = emotionAlbum.replace(/(\r\n|\n|\r)/gm, " ").replaceAll(',', '').replaceAll('-', '').replaceAll('?', '').replaceAll('(', '').replaceAll(')', '').replaceAll('"', '').toLowerCase().split(" ");
-console.log(getAllLyrics);
-
-/* Use Reduce to do word countand convert them into an Object as a result */
-const countLyrics = getAllLyrics.reduce( (lyricsBasket, word) => {
-    lyricsBasket[word] = (lyricsBasket[word] || 0) + 1;
-    return lyricsBasket;
-} , {})
-console.table(countLyrics);
-console.log(Array.isArray(countLyrics));
-
-/* Use Push convert the Object back to Array */
-let sortable = [];
-for (var word in countLyrics) {
-    sortable.push([word, countLyrics[word]]);
-}
-
-sortable.sort(function(a, b) {
-    /* Sort the array from most to least occurences */
-    return b[1] - a[1];
-});
-console.table(sortable);
-
-/* Display Lyrics on site*/
-let getRunAwayWithMeLyrics = document.getElementById("run-away-with-me").innerText = `RUN AWAY WITH ME \n \n ${runAwayWithMeLyrics}`;
-let getEmotionLyrics = document.getElementById("emotion").innerText = `E.MO.TION \n \n ${emotionLyrics}`;
-let getIReallyLikeYou = document.getElementById("i-really-like-you").innerText = `I REALLY LIKE YOU \n \n ${iReallyLikeYouLyrics}`;
-let getGimmeLove = document.getElementById("gimme-love").innerText = `GIMME LOVE \n \n ${gimmeLoveLyrics}`;
-let getAllThat = document.getElementById("all-that").innerText = `ALL THAT \n \n ${allThatLyrics}`;
-let getBoyProblems = document.getElementById("boy-problems").innerText = `BOY PROBLEMS \n \n ${boyProblemsLyrics}`;
-let getMakingTheMostOfTheNight = document.getElementById("making-the-most-of-the-night").innerText = `MAKING THE MOST OF THE NIGHT \n \n ${makingTheMostOfTheNightLyrics}`;
-let getYourType = document.getElementById("your-type").innerText = `YOUR TYPE \n \n ${yourTypeLyrics}`;
-let getLetsGetLost = document.getElementById("lets-get-lost").innerText = `LET"S GET LOST \n \n ${letsGetLostLyrics}`;
-let getlaHallucinations = document.getElementById("la-hallucinations").innerText = `LA HALLUCINATIONS \n \n ${laHallucinationsLyrics}`;
-let getWarmBlood = document.getElementById("warm-blood").innerText = `WARM BLOOD \n \n ${warmBloodLyrics}`;
-let getWhenINeededYou = document.getElementById("when-i-needed-you").innerText = `WHEN I NEEDED YOU \n \n ${whenINeededYouLyrics}`;
-let getBlackHeart = document.getElementById("black-heart").innerText = `BLACK HEART \n \n ${blackHeartLyrics}`;
-let getIDidntJustComeHereToDance = document.getElementById("i-didnt-just-come-here-to-dance").innerText = `I DIDN'T JUST COME HERE TO DANCE \n \n ${iDidntJustComeHereToDanceLyrics}`;
-let getFavouriteColour = document.getElementById("favourite-colour").innerText = `FAVOURITE COLOUR \n \n ${favouriteColourLyrics}`;
-let getNeverGetToHoldYou = document.getElementById("never-get-to-hold-you").innerText = `NEVER GET TO HOLD YOU \n \n ${neverGetToHoldYouLyrics}`;
-let getLoveAgain = document.getElementById("love-again").innerText = `LOVE AGAIN \n \n ${loveAgainLyrics}`;
-
-/* Display Word Count on site */
-function makeTable(array) {
-    var result = "";
-    result += "<thead><tr><th>Word</th><th>Count</th></thead><tbody>";
-    for(var i = 0; i < array.length; i++) {
-        result += "<tr>";
-        for (var j = 0; j < array[i].length; j++) {
-            result += "<td>"+array[i][j]+"</td>";
-        }
-        result += "</tr>";
-    }
-    result += "</tbody></table>";
-    document.getElementById("emotion-result").innerHTML = result;
-}
-makeTable(sortable)
-
-
-
 /* Lyrics : EMOTION SIDE B+ */
 const cutToTheFeelingLyrics = `I had a dream, or was it real?
 We crossed the line and it was on
@@ -1510,28 +1429,114 @@ I won't take it back (no I won't take it back)
 Big black blossom tree
 Baby cover me (I won't take it back)
 Hold me, left to blow
-Please don't let me go `;
+Please don't let me go`;
 
-
-
-/* Merge all lyrics (string) into one master string */
-
-
-
+/* Merge all lyrics from all albums (string) into one master string */
+let lyricsBank = runAwayWithMeLyrics.concat(
+    emotionLyrics,
+    iReallyLikeYouLyrics,
+    gimmeLoveLyrics,
+    allThatLyrics,
+    boyProblemsLyrics,
+    makingTheMostOfTheNightLyrics,
+    yourTypeLyrics,
+    letsGetLostLyrics,
+    laHallucinationsLyrics,
+    warmBloodLyrics,
+    whenINeededYouLyrics,
+    blackHeartLyrics,
+    iDidntJustComeHereToDanceLyrics,
+    favouriteColourLyrics,
+    neverGetToHoldYouLyrics,
+    loveAgainLyrics,
+    cutToTheFeelingLyrics,
+    firstTimeLyrics,
+    higherLyrics,
+    theOneLyrics,
+    feverLyrics,
+    bodyLanguageLyrics,
+    cryLyrics,
+    storeLyrics,
+    rosesLyrics
+    );
+    
 /* Use RegEx to seperate all the words into an array */
+const getAllLyrics = lyricsBank
+    .replace(/(\r\n|\n|\r)/gm, " ")
+    .replaceAll(',', '')
+    .replaceAll('-', '')
+    .replaceAll('?', '')
+    .replaceAll('(', '')
+    .replaceAll(')', '')
+    .replaceAll('"', '')
+    .toLowerCase()
+    .split(" ");
+console.log(getAllLyrics);
 
-
-
-/* Use Reduce to do word countand convert them into an Object as a result */
-
-
+/* Use Reduce to do word count and convert them into an Object as a result */
+const countLyrics = getAllLyrics.reduce( (lyricsBasket, word) => {
+    lyricsBasket[word] = (lyricsBasket[word] || 0) + 1;
+    return lyricsBasket;
+} , {})
+console.table(countLyrics);
+console.log(Array.isArray(countLyrics));
 
 /* Use Push convert the Object back to Array */
+let sortable = [];
+for (var word in countLyrics) {
+    sortable.push([word, countLyrics[word]]);
+}
 
-
+sortable.sort(function(a, b) {
+    /* Sort the array from most to least occurences */
+    return b[1] - a[1];
+});
+console.table(sortable);
 
 /* Display Lyrics on site*/
+/* E.MO.TION */
+let getRunAwayWithMeLyrics = document.getElementById("run-away-with-me").innerText = `RUN AWAY WITH ME \n \n ${runAwayWithMeLyrics}`;
+let getEmotionLyrics = document.getElementById("emotion").innerText = `E.MO.TION \n \n ${emotionLyrics}`;
+let getIReallyLikeYou = document.getElementById("i-really-like-you").innerText = `I REALLY LIKE YOU \n \n ${iReallyLikeYouLyrics}`;
+let getGimmeLove = document.getElementById("gimme-love").innerText = `GIMME LOVE \n \n ${gimmeLoveLyrics}`;
+let getAllThat = document.getElementById("all-that").innerText = `ALL THAT \n \n ${allThatLyrics}`;
+let getBoyProblems = document.getElementById("boy-problems").innerText = `BOY PROBLEMS \n \n ${boyProblemsLyrics}`;
+let getMakingTheMostOfTheNight = document.getElementById("making-the-most-of-the-night").innerText = `MAKING THE MOST OF THE NIGHT \n \n ${makingTheMostOfTheNightLyrics}`;
+let getYourType = document.getElementById("your-type").innerText = `YOUR TYPE \n \n ${yourTypeLyrics}`;
+let getLetsGetLost = document.getElementById("lets-get-lost").innerText = `LET"S GET LOST \n \n ${letsGetLostLyrics}`;
+let getlaHallucinations = document.getElementById("la-hallucinations").innerText = `LA HALLUCINATIONS \n \n ${laHallucinationsLyrics}`;
+let getWarmBlood = document.getElementById("warm-blood").innerText = `WARM BLOOD \n \n ${warmBloodLyrics}`;
+let getWhenINeededYou = document.getElementById("when-i-needed-you").innerText = `WHEN I NEEDED YOU \n \n ${whenINeededYouLyrics}`;
+let getBlackHeart = document.getElementById("black-heart").innerText = `BLACK HEART \n \n ${blackHeartLyrics}`;
+let getIDidntJustComeHereToDance = document.getElementById("i-didnt-just-come-here-to-dance").innerText = `I DIDN'T JUST COME HERE TO DANCE \n \n ${iDidntJustComeHereToDanceLyrics}`;
+let getFavouriteColour = document.getElementById("favourite-colour").innerText = `FAVOURITE COLOUR \n \n ${favouriteColourLyrics}`;
+let getNeverGetToHoldYou = document.getElementById("never-get-to-hold-you").innerText = `NEVER GET TO HOLD YOU \n \n ${neverGetToHoldYouLyrics}`;
+let getLoveAgain = document.getElementById("love-again").innerText = `LOVE AGAIN \n \n ${loveAgainLyrics}`;
 
-
+/* E.MO.TION SIDE B+ */
+let getCutToTheFeelingLyrics = document.getElementById("cut-to-the-feeling").innerText = `CUT TO THE FEELING \n \n ${cutToTheFeelingLyrics}`;
+let getFirstTimeLyrics = document.getElementById("first-time").innerText = `FIRST TIME \n \n ${firstTimeLyrics}`;
+let getHigherLyrics = document.getElementById("higher").innerText = `HIGHER \n \n ${higherLyrics}`;
+let getTheOneLyrics = document.getElementById("the-one").innerText = `THE ONE \n \n ${theOneLyrics}`;
+let getFeverLyrics = document.getElementById("fever").innerText = `FEVER \n \n ${feverLyrics}`;
+let getBodyLanguageLyrics = document.getElementById("body-language").innerText = `BODY LANGUAGE \n \n ${bodyLanguageLyrics}`;
+let getCryLyrics = document.getElementById("cry").innerText = `CRY \n \n ${cryLyrics}`;
+let getStoreLyrics = document.getElementById("store").innerText = `STORE \n \n ${storeLyrics}`;
+let getRosesLyrics = document.getElementById("roses").innerText = `ROSES \n \n ${rosesLyrics}`;
 
 /* Display Word Count on site */
+function makeTable(array) {
+    var result = "";
+    result += "<thead><tr><th>Word</th><th>Count</th></thead><tbody>";
+    for(var i = 0; i < array.length; i++) {
+        result += "<tr>";
+        for (var j = 0; j < array[i].length; j++) {
+            result += "<td>"+array[i][j]+"</td>";
+        }
+        result += "</tr>";
+    }
+    result += "</tbody></table>";
+    document.getElementById("final-result").innerHTML = result;
+}
+makeTable(sortable)
+
