@@ -49,7 +49,8 @@ body {
 
 .album-word-count,
 .album-emotion,
-.album-emotion-side-b-plus {
+.album-emotion-side-b-plus,
+.album-dedicated {
   padding: max(2.5vh, 1rem);
   border: 2px solid hotpink;
   background-color: black;

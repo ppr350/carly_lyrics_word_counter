@@ -1898,6 +1898,218 @@ I want the sound, sound, sound, sound, sound
 (Sound, sound, sound, sound, sound)
 (I give up, I give up)
 I don't need the words, I want the... `;
+const automaticallyInLoveLyrics = `I never thought about you
+You never thought about us
+Yeah, it came out of the blue
+And I was just dreaming
+That took a night as insane
+To feel the need of your touch
+And I could never explain
+How I was just dreaming
+Ooh, ooh, ooh
+Never guessed what came after
+Ooh, ooh, ooh
+I fell
+Automatically in love
+Right away, baby, it's a real rollercoaster
+When the wind goes the other way
+But you and me, right away, baby
+We were automatically in love (in love)
+Right away, right away, baby
+Just a girl undercover and a boy with the getaway
+You and me, right away, baby
+We were automatically in love (in love)
+It's not the fear that you trust
+It's not the voice in your head
+We got the chemical rush
+And now we're just dreaming
+And we could wait for the proof
+A little time to adjust
+But every moment with you
+I wake up just dreaming
+Ooh, ooh, ooh
+Never guessed what came after
+Ooh, ooh, ooh
+I fell
+Automatically in love
+Right away, baby, it's a real rollercoaster
+When the wind goes the other way
+But you and me, right away, baby
+We were automatically in love (in love)
+Right away, right away, baby
+Just a girl undercover and a boy with the getaway
+You and me, right away, baby
+We were automatically in love (in love)
+In love, in love
+Mhm, La da da da da da da
+Love so fast, I can't go slow
+Hold me back
+Baby boy, hold me close
+Love's so real
+I can't go slow
+Can't imagine, by the way, I'm feeling slow
+Automatically in love
+Right away, baby, it's a real rollercoaster
+When the wind goes the other way
+But you and me, right away, baby
+We were automatically in love (in love)
+Right away, right away, baby
+Just a girl undercover and a boy with the getaway
+You and me, right away, baby
+We were automatically in love (in love)
+Mhm, mhm
+Hmm, hmm
+Automatically `;
+const feelsRightLyrics = `Feels good waking up in your way
+My heart needed a holiday
+I bet we can make things slide into monday
+I bet, baby, with no regrets
+Love was just a night at best
+Two step, making the weekend slide into something
+One more night with you, always turns to two
+I can't help it 'cause it feels right, when it feels right
+'Cause it feels like I've never loved
+Now I got ya
+And I only think of you
+'Cause it feels like I've never loved
+Now I'd do 'bout anything
+To stick with you
+True fact
+Maybe I love you back, don't ask
+Nothing I want to say
+We know timing isn't right (maybe one day)
+'Til then, steal me a free weekend
+You're my complicated friend
+I'm just keeping the dream alive
+But I must say
+One more night with you always turns to two
+I can't help it 'cause it feels right, when it feels right
+'Cause it feels like I've never loved
+Now I got ya
+And I only think of you
+'Cause it feels like I've never loved
+And I'd do 'bout anything
+To stick with you
+Feels like I've been wasting time
+Look at all the things I've left behind
+You're the one to change my mind
+'Cause it feels right, when it feels right
+I don't know a thing I've done
+Livin' all my life for no damn one
+You're the one to change my mind
+'Cause it feels right, when it feels right
+'Cause it feels like I've never loved
+Now I got ya
+And I only think of you
+'Cause it feels like I've never loved
+Now I'd do 'bout anything
+To stick with you `;
+const rightWordsWrongTimeLyrics = `We put everything away
+California wasn't made for you
+Hate the traffic in LA
+I drove through it all to get to you
+Took a million miles to feel the final separation
+Don't you tell me now you know what you need
+I need to find a love to love me with no hesitation
+Don't you tell me now you're ready for me
+My baby, my baby
+You always got the right words at the wrong time
+This time, it's heartbreaking
+You always got the right words at the wrong time
+For me, for me
+You always got the right words at the wrong time
+For me, for me
+You always got the right words at the wrong...
+I don't wanna see your face
+I'm afraid I couldn't wait for you
+I'm afraid that I would break
+Only want me when I'm leaving you
+Took a million miles to feel the final separation
+Don't you tell me now you know what you need
+I need to find a love to love me with no hesitation
+Don't you tell me now you're ready for me
+My baby, my baby
+You always got the right words at the wrong time
+This time, it's heartbreaking
+You always got the right words at the wrong time
+For me, for me
+You always got the right words at the wrong time
+For me, for me
+You always got the right words at the wrong time
+It's getting late, I gotta say now
+That you should go, yeah, you should go home
+It's getting late
+My baby (it's getting late)
+My baby (and you should go, and you should go)
+You always got the right words at the wrong time
+(It's getting late)
+This time, it's heartbreaking (it's getting late now)
+(And you should go, and you should go)
+You always got the right words at the wrong time
+(And you should go, you should go)
+For me, for me
+(And you should go, you should go)
+You always got the right words at the wrong time
+(And you should go, you should go)
+For me, for me
+('Cause) You always got the right words at the wrong time `;
+const realLoveLyrics = `The world is going crazy
+And it feels like I just don't know who to trust sometimes
+Thunder's coming over me, I need to get a hold of you now
+We're getting good at lying
+No one's saying what's keeping us all awake at night
+Something's coming over me, I need to get a hold of you now
+Standing here with you tonight
+How did we turn on the light?
+I've got the feeling that the writing's on the wall
+And I'm so used to the lie, and you're so down to deny
+I've got the feeling you're the right thing after all
+I go everyday without it
+All I want is real, real love
+And I've been feeling weak without it
+Only want a real, real love
+I'm not even scared about it
+All I want is real, real love
+Well, I don't know a thing about it
+All I want is real, real love
+Real, real, real love
+Real, real, real love
+Real, real, real love
+All the chaos falling 'round
+I watch it like a movie that has come to life
+Something kind of normal
+'Bout the way I keep on drowning it out
+Danger, I feel danger
+And I cannot find the breath to scream the words out right
+Every thought is paralyzing
+Need to find a way to you now
+Standing here with you tonight
+How did we turn on the light?
+I've got the feeling that the writing's on the wall
+And I'm so used to the lie, and you're so down to deny
+I've got the feeling you're the right thing after all
+I go everyday without it
+All I want is real, real love
+And I've been feeling weak without it
+Only want a real, real love
+I'm not even scared about it
+All I want is real, real love
+Well, I don't know a thing about it
+All I want is real, real love
+Real, real, real love
+Real, real, real love
+Real, real, real love
+I go everyday without it
+All I want is real, real love
+(Real, real, real love)
+And I've been feeling weak without it
+Only want a real, real love
+(Real, real, real love)
+I'm not even scared about it
+All I want is real, real love
+But I don't know a thing about it
+All I want is real, real love`;
+
 
 /* Merge all lyrics from all albums (string) into one master string */
 let lyricsBank = runAwayWithMeLyrics.concat(
@@ -1925,7 +2137,20 @@ let lyricsBank = runAwayWithMeLyrics.concat(
     bodyLanguageLyrics,
     cryLyrics,
     storeLyrics,
-    rosesLyrics
+    rosesLyrics,
+    julienLyrics,
+    noDrugsLikeMeLyrics,
+    nowThatIFoundYouLyrics,
+    wantYouInMyRoomLyrics,
+    everythingHeNeedsLyrics,
+    happyNotKnowingLyrics,
+    iLLBeYourGirlLyrics,
+    tooMuchLyrics,
+    theSoundLyrics,
+    automaticallyInLoveLyrics,
+    feelsRightLyrics,
+    rightWordsWrongTimeLyrics,
+    realLoveLyrics
     );
     
 /* Use RegEx to seperate all the words into an array */
@@ -1963,34 +2188,49 @@ console.table(sortable);
 
 /* Display Lyrics on site*/
 /* E.MO.TION */
-let getRunAwayWithMeLyrics = document.getElementById("run-away-with-me").innerText = `RUN AWAY WITH ME \n \n ${runAwayWithMeLyrics}`;
-let getEmotionLyrics = document.getElementById("emotion").innerText = `E.MO.TION \n \n ${emotionLyrics}`;
-let getIReallyLikeYou = document.getElementById("i-really-like-you").innerText = `I REALLY LIKE YOU \n \n ${iReallyLikeYouLyrics}`;
-let getGimmeLove = document.getElementById("gimme-love").innerText = `GIMME LOVE \n \n ${gimmeLoveLyrics}`;
-let getAllThat = document.getElementById("all-that").innerText = `ALL THAT \n \n ${allThatLyrics}`;
-let getBoyProblems = document.getElementById("boy-problems").innerText = `BOY PROBLEMS \n \n ${boyProblemsLyrics}`;
-let getMakingTheMostOfTheNight = document.getElementById("making-the-most-of-the-night").innerText = `MAKING THE MOST OF THE NIGHT \n \n ${makingTheMostOfTheNightLyrics}`;
-let getYourType = document.getElementById("your-type").innerText = `YOUR TYPE \n \n ${yourTypeLyrics}`;
-let getLetsGetLost = document.getElementById("lets-get-lost").innerText = `LET"S GET LOST \n \n ${letsGetLostLyrics}`;
-let getlaHallucinations = document.getElementById("la-hallucinations").innerText = `LA HALLUCINATIONS \n \n ${laHallucinationsLyrics}`;
-let getWarmBlood = document.getElementById("warm-blood").innerText = `WARM BLOOD \n \n ${warmBloodLyrics}`;
-let getWhenINeededYou = document.getElementById("when-i-needed-you").innerText = `WHEN I NEEDED YOU \n \n ${whenINeededYouLyrics}`;
-let getBlackHeart = document.getElementById("black-heart").innerText = `BLACK HEART \n \n ${blackHeartLyrics}`;
-let getIDidntJustComeHereToDance = document.getElementById("i-didnt-just-come-here-to-dance").innerText = `I DIDN'T JUST COME HERE TO DANCE \n \n ${iDidntJustComeHereToDanceLyrics}`;
-let getFavouriteColour = document.getElementById("favourite-colour").innerText = `FAVOURITE COLOUR \n \n ${favouriteColourLyrics}`;
-let getNeverGetToHoldYou = document.getElementById("never-get-to-hold-you").innerText = `NEVER GET TO HOLD YOU \n \n ${neverGetToHoldYouLyrics}`;
-let getLoveAgain = document.getElementById("love-again").innerText = `LOVE AGAIN \n \n ${loveAgainLyrics}`;
+let getRunAwayWithMeLyrics = document.getElementById("run-away-with-me").innerText = `RUN AWAY WITH ME \n \n ${runAwayWithMeLyrics} \n \n`;
+let getEmotionLyrics = document.getElementById("emotion").innerText = `E.MO.TION \n \n ${emotionLyrics} \n \n`;
+let getIReallyLikeYou = document.getElementById("i-really-like-you").innerText = `I REALLY LIKE YOU \n \n ${iReallyLikeYouLyrics} \n \n`;
+let getGimmeLove = document.getElementById("gimme-love").innerText = `GIMME LOVE \n \n ${gimmeLoveLyrics} \n \n`;
+let getAllThat = document.getElementById("all-that").innerText = `ALL THAT \n \n ${allThatLyrics} \n \n`;
+let getBoyProblems = document.getElementById("boy-problems").innerText = `BOY PROBLEMS \n \n ${boyProblemsLyrics} \n \n`;
+let getMakingTheMostOfTheNight = document.getElementById("making-the-most-of-the-night").innerText = `MAKING THE MOST OF THE NIGHT \n \n ${makingTheMostOfTheNightLyrics} \n \n`;
+let getYourType = document.getElementById("your-type").innerText = `YOUR TYPE \n \n ${yourTypeLyrics} \n \n`;
+let getLetsGetLost = document.getElementById("lets-get-lost").innerText = `LET"S GET LOST \n \n ${letsGetLostLyrics} \n \n`;
+let getlaHallucinations = document.getElementById("la-hallucinations").innerText = `LA HALLUCINATIONS \n \n ${laHallucinationsLyrics} \n \n`;
+let getWarmBlood = document.getElementById("warm-blood").innerText = `WARM BLOOD \n \n ${warmBloodLyrics} \n \n`;
+let getWhenINeededYou = document.getElementById("when-i-needed-you").innerText = `WHEN I NEEDED YOU \n \n ${whenINeededYouLyrics} \n \n`;
+let getBlackHeart = document.getElementById("black-heart").innerText = `BLACK HEART \n \n ${blackHeartLyrics} \n \n`;
+let getIDidntJustComeHereToDance = document.getElementById("i-didnt-just-come-here-to-dance").innerText = `I DIDN'T JUST COME HERE TO DANCE \n \n ${iDidntJustComeHereToDanceLyrics} \n \n`;
+let getFavouriteColour = document.getElementById("favourite-colour").innerText = `FAVOURITE COLOUR \n \n ${favouriteColourLyrics} \n \n`;
+let getNeverGetToHoldYou = document.getElementById("never-get-to-hold-you").innerText = `NEVER GET TO HOLD YOU \n \n ${neverGetToHoldYouLyrics} \n \n`;
+let getLoveAgain = document.getElementById("love-again").innerText = `LOVE AGAIN \n \n ${loveAgainLyrics} \n \n`;
 
 /* E.MO.TION SIDE B+ */
-let getCutToTheFeelingLyrics = document.getElementById("cut-to-the-feeling").innerText = `CUT TO THE FEELING \n \n ${cutToTheFeelingLyrics}`;
-let getFirstTimeLyrics = document.getElementById("first-time").innerText = `FIRST TIME \n \n ${firstTimeLyrics}`;
-let getHigherLyrics = document.getElementById("higher").innerText = `HIGHER \n \n ${higherLyrics}`;
-let getTheOneLyrics = document.getElementById("the-one").innerText = `THE ONE \n \n ${theOneLyrics}`;
-let getFeverLyrics = document.getElementById("fever").innerText = `FEVER \n \n ${feverLyrics}`;
-let getBodyLanguageLyrics = document.getElementById("body-language").innerText = `BODY LANGUAGE \n \n ${bodyLanguageLyrics}`;
-let getCryLyrics = document.getElementById("cry").innerText = `CRY \n \n ${cryLyrics}`;
-let getStoreLyrics = document.getElementById("store").innerText = `STORE \n \n ${storeLyrics}`;
-let getRosesLyrics = document.getElementById("roses").innerText = `ROSES \n \n ${rosesLyrics}`;
+let getCutToTheFeelingLyrics = document.getElementById("cut-to-the-feeling").innerText = `CUT TO THE FEELING \n \n ${cutToTheFeelingLyrics} \n \n`;
+let getFirstTimeLyrics = document.getElementById("first-time").innerText = `FIRST TIME \n \n ${firstTimeLyrics} \n \n`;
+let getHigherLyrics = document.getElementById("higher").innerText = `HIGHER \n \n ${higherLyrics} \n \n`;
+let getTheOneLyrics = document.getElementById("the-one").innerText = `THE ONE \n \n ${theOneLyrics} \n \n`;
+let getFeverLyrics = document.getElementById("fever").innerText = `FEVER \n \n ${feverLyrics} \n \n`;
+let getBodyLanguageLyrics = document.getElementById("body-language").innerText = `BODY LANGUAGE \n \n ${bodyLanguageLyrics} \n \n`;
+let getCryLyrics = document.getElementById("cry").innerText = `CRY \n \n ${cryLyrics} \n \n`;
+let getStoreLyrics = document.getElementById("store").innerText = `STORE \n \n ${storeLyrics} \n \n`;
+let getRosesLyrics = document.getElementById("roses").innerText = `ROSES \n \n ${rosesLyrics} \n \n`;
+
+/* DEDICATED */
+let getJulienLyrics = document.getElementById("julien").innerText = `JULIEN \n \n  ${julienLyrics} \n \n`;
+let getNoDrugsLikeMeLyrics = document.getElementById("no-drug-like-me").innerText = `NO DRUG LIKE ME \n \n ${noDrugsLikeMeLyrics} \n \n`;
+let getNowThatIFoundYouLyrics = document.getElementById("now-that-i-found-you").innerText = `NOW THAT I FOUND YOU \n \n ${nowThatIFoundYouLyrics} \n \n`;
+let getWantYouInMyRoomLyrics = document.getElementById("want-you-in-my-room").innerText = `WANT YOU IN MY ROOM \n \n ${wantYouInMyRoomLyrics} \n \n`;
+let getEverythingHeNeedsLyrics = document.getElementById("everything-he-needs").innerText = `EVERYTHING HE NEEDS \n \n ${everythingHeNeedsLyrics} \n \n`;
+let getHappyNotKnowingLyrics = document.getElementById("happy-not-knowing").innerText = `HAPPY NOT KNOWING \n \n ${happyNotKnowingLyrics} \n \n`;
+let getILLBeYourGirlLyrics = document.getElementById("i-ll-be-your-girl").innerText = `I'LL BE YOUR GIRL \n \n ${iLLBeYourGirlLyrics} \n \n`;
+let getTooMuchLyrics = document.getElementById("too-much").innerText = `TOO MUCH \n \n ${tooMuchLyrics} \n \n`;
+let getTheSoundLyrics = document.getElementById("the-sound").innerText = `THE SOUND \n \n ${theSoundLyrics} \n \n`;
+let getAutomaticallyInLoveLyrics = document.getElementById("automatically-in-love").innerText = `AUTOMATICALLY IN LOVE \n \n ${automaticallyInLoveLyrics} \n \n`;
+let getFeelsRightLyrics = document.getElementById("feels-right").innerText = `FEELS RIGHT \n \n ${feelsRightLyrics} \n \n`;
+let getRightWordsWrongTimeLyrics = document.getElementById("right-words-wrong-time").innerText = `RIGHT WORDS WRONG TIME \n \n ${rightWordsWrongTimeLyrics} \n \n`;
+let getRealLoveLyrics = document.getElementById("real-love").innerText = `REAL LOVE \n \n ${realLoveLyrics} \n \n`;
 
 /* Display Word Count on site */
 function makeTable(array) {
