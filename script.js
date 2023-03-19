@@ -1431,6 +1431,474 @@ Baby cover me (I won't take it back)
 Hold me, left to blow
 Please don't let me go`;
 
+/* Lyrics : DEDICATED */
+const julienLyrics = `Woke up this mornin', it feels like everyday
+I got the blues, babe, not going away
+Another bad dream when you were running away
+I'm forever haunted by our time
+We had a moment, we had a summertime
+Asked me to leave with you, but I could never decide
+I've been so torn up, I've been so out of it
+I'm forever haunted by our time
+I've been all alone, on my own
+Every single night, I pray
+When you coming home? Coming home?
+'Cause I've been livin' for that day
+Julien, in your heart, yeah, you must believe
+Julien, it was more than a fantasy
+To the end, through the last breath that I breathe
+I'll be whispering, "Julien"
+I'll be whispering, "Julien" (Julien, Julien)
+Through the last breath that I breathe (Julien)
+I tried another to keep me satisfied
+But all your colors are still dancing in my mind
+More than just lovers, I
+I'm forever haunted by our time
+I've been all alone, on my own
+Every single night, I pray
+When you coming home? Coming home?
+'Cause I've been livin' for that day for
+Julien, in your heart, yeah, you must believe
+Julien, it was more than a fantasy
+To the end, through the last breath that I breathe
+I'll be whispering, "Julien"
+I'll be whispering, "Julien" (Julien, Julien)
+Through the last breath that I breathe (Julien)
+Julien, to the last breath that I breathe
+Julien, in your heart, yeah
+Julien, it was more than a fantasy
+To the end, to the last breath that I breathe
+Julien, in your heart, yeah, you must believe
+Julien, it was more than a fantasy
+To the end, through the last breath that I breathe (Julien)
+I'll be whispering, "Julien"
+I'll be whispering, "Julien" (Julien, Julien)
+Through the last breath that I breathe (Julien)
+(Ah yeah, all night, yeah, Julien, Julien)
+(Julien, Juli—, Julien) `;
+const noDrugsLikeMeLyrics = `Take me to the limit, hold me down there
+You say you love me but you wouldn't dare-are
+You're tryna make it easy, you know that I care
+You say you love me but you wouldn't dare-are
+Oh, starry eyes, blurry eyes
+Feeling so intoxicated
+Worried eyes, I'm open wide
+Take me so up and down
+And if you make me feel in love then I'll blossom for you
+If you make me open up I'll tell only the truth
+When your mouth is running dry
+Your head high, hold on baby
+You ain't tried no drug like me
+And if you make me feel in love then I'll blossom for you
+If you make me open up I'll tell only the truth
+When your mouth is running dry
+Keep head high, hold on baby
+You ain't tried no drug like me
+I can see you spinning around in your head (There's a little ghost of us)
+A little history of us in there (Oh)
+And now we've finally got to the safe other side (Something's coming over us)
+Why would we risk it for another try? (Another try, come alive)
+Oh, starry eyes, blurry eyes
+Feeling so intoxicated
+Worried eyes, I'm open wide
+Take me so up and down
+And if you make me feel in love then I'll blossom for you
+If you make me open up I'll tell only the truth
+When your mouth is running dry
+Your head high, hold on baby
+You ain't tried no drug like me
+And if you make me feel in love then I'll blossom for you
+If you make me open up I'll tell only the truth
+When your mouth is running dry
+Keep head high, hold on baby
+You ain't tried no drug like me
+Oh, starry eyes, blurry eyes
+Feeling so intoxicated
+Worried eyes, I'm open wide
+Take me so up and down
+And if you make me feel in love then I'll blossom for you (All for you)
+If you make me open up I'll tell only the truth (All for you)
+When your mouth is running dry
+Your head high, hold on baby
+You ain't tried no drug like me
+And if you make me feel in love then I'll blossom for you (All for you)
+If you make me open up I'll tell only the truth (All for you)
+When your mouth is running dry
+Keep head high, hold on baby
+You ain't tried no drug like me `;
+const nowThatIFoundYouLyrics = `Waking up next to you, every morning
+How did we get this far?
+It came without a warning
+And in the night time, you tell me your whole life
+You and me get too real, but all I feel is alright
+My heart's a secret, mmm
+I think I'm coming alive, yeah
+I think I'm coming alive with you
+Tell me you'll keep it
+I think I'm coming alive, yeah
+I come alive with you
+Don't give it up
+Don't say it hurts
+'Cause there's nothing like this feeling, baby
+Now that I found you
+I want it all
+No, there's nothing like this feeling, baby
+Now that I found you
+Now that I found you
+Now that I found you
+Give me the words I want, baby, just say it
+You know me way too well to keep it complicated
+I don't wanna hide my love
+I don't wanna waste it (I don't wanna waste it)
+But I can't deny the moment when I taste it
+My heart's a secret, mmm
+I think I'm coming alive, yeah
+I think I'm coming alive with you
+Tell me you'll keep it
+I think I'm coming alive, yeah
+I come alive with you
+Don't give it up (Don't give it up)
+Don't say it hurts (Don't say it hurts)
+'Cause there's nothing like this feeling, baby
+Now that I found you
+I want it all (I want it all)
+No, there's nothing like this feeling, baby
+Now that I found you
+Now that I found you
+Now that I found you
+Thought it was impossible
+It's just like a miracle
+Say nothing's impossible now
+Now that I found, now that I found you
+Now that I found, now that I found you
+Don't say it hurts (Don't say it hurts)
+'Cause there's nothing like this feeling, baby
+Now that I found you
+I want it all (I want it all)
+No, there's nothing like this feeling, baby
+Now that I found you
+Oh
+Now that I found you (Now that I found you)
+Oh
+Now that I found you (Now that I found you) `;
+const wantYouInMyRoomLyrics = `When all the lights out (Hey), where you going?
+I keep a window for you, it's always open
+I'm like a lighthouse, I'm a reminder of where you're going
+I'm in your head now, from every second now
+Is your love growing?
+Oh, with you (Hey), a girl could get bolder
+I just wanna get a little bit closer (Ha-ah-ah)
+And I'll press you to the pages of my heart
+Don't go, no (Hey), the night's not over
+I just wanna get a little bit closer (A little bit closer)
+And I'll press you to the pages of my heart (Hey)
+On the bed, on the floor
+(I want you in my room)
+I don't care anymore
+I wanna do bad things to you
+Slide on through my window
+(I want you in my room)
+Baby, don't you want me, too?
+When no one loves you like they really mean it
+I got you covered, under covers
+Can you feel it?
+Oh, with you (Hey), a girl could get bolder
+I just wanna get a little bit closer (Ha-ah-ah)
+And I'll press you to the pages of my heart
+Don't go, no (Hey), the night's not over
+I just wanna get a little bit closer (A little bit closer)
+And I'll press you to the pages of my heart (Hey)
+On the bed, on the floor
+(I want you in my room)
+I don't care anymore
+I wanna do bad things to you
+Slide on through my window
+(I want you in my room)
+Baby, don't you want me, too? `;
+const everythingHeNeedsLyrics = `He's strong
+Not one to settle down
+You know he's that guy
+Electric
+Those lips can wear me out
+Wild thing, he's all mine
+It's crazy, but when he can't sleep, I understand
+Like pressure points, my love can ease him in my hand, 'cause
+(He needs me)
+He needs me, he needs me
+He needs me, he needs me
+He needs me, he needs me
+(I got everything he needs)
+(He needs me)
+He needs me, he needs me
+He needs me, he needs me
+He needs me, he needs me
+(I got everything he needs)
+Soft rain (soft rain)
+We roll the windows down
+Sweat disco all night
+It's clear (it's clear)
+We'd like to fool around
+His hands reach for mine
+I know it's tough, baby, keep both eyes on the road
+Pull right, a burnt-out streetlight, only halfway home
+(He needs me)
+He needs me, he needs me
+He needs me, he needs me
+He needs me, he needs me
+(I got everything he needs)
+(He needs me)
+He needs me, he needs me
+He needs me, he needs me
+He needs me, he needs me
+(I got everything he needs)
+Can never give him enough
+Enough of my love, enough of my love
+Enough of my-
+I can never give him enough
+Enough of my love
+(He needs me)
+Can never give him enough
+Enough of my love, enough of my love
+Enough of my-
+I can never give him enough
+Enough of my love (He needs me)
+You know, not just physically
+Emotionally, spiritually, intellectually, sexually
+All the ways
+He needs me, he needs me
+He needs me, he needs me
+He needs me, he needs me
+(I got everything he needs)
+(He needs me)
+He needs me, he needs me
+He needs me, he needs me
+He needs me, he needs me
+(He needs me)
+(I got everything he needs)
+Can never give him enough
+Enough of my love, enough of my love
+Enough of my-
+I can never give him enough
+Enough of my love
+(He needs me)
+Can never give him enough
+Enough of my love, enough of my love
+Enough of my-
+I can never give him enough
+Enough of my love
+(He needs me) `;
+const happyNotKnowingLyrics = `I fight, I fight
+All my feelings for you all night, all night
+Don't stare, don't stare
+I've got feelings for you, I hide, I hide
+But I'll only go so far
+I don't have the energy
+To risk a broken heart
+When you're already killing me
+But if there's something between you and me
+Baby, I have no time for it
+I'm happy not knowing
+And please don't stir it up
+I'm sure it's nothing but some heartburn, baby
+And I'm happy not knowing
+All our friends that I know
+They've been trying to set us up together
+(Up together)
+I lie, I lie
+I say somebody else would suit you better
+(Suit you better)
+But I'll only go so far
+I don't have the energy
+To risk a broken heart
+When you're already killing me
+But if there's something between you and me
+Baby, I have no time for it
+I'm happy not knowing
+And please don't stir it up
+I'm sure it's nothing but some heartburn, baby
+And I'm happy not knowing
+I turn your love away 'cause I want to sleep at night
+It's just like my broken heart is my alibi
+I'm afraid, afraid, afraid, afraid of knowing
+What I'm knowing, what I'm knowing
+I'm happy not knowing
+But if there's something between you and me
+Baby, I have no time for it
+I'm happy not knowing
+And please don't stir it up
+I'm sure it's nothing but some heartburn, baby
+And I'm happy not knowing
+Where this goes
+How this goes (happy not)
+If this goes (I'm happy not)
+Well, I'm happy not knowing
+Where this goes
+How this goes (happy not)
+If this goes (I'm happy not)
+Well, I'm happy not knowing `;
+const iLLBeYourGirlLyrics = `Now you're in love, I can see you sold out
+Where was I, pic-picture, cut my eyes out
+"He's so hypnotizing", said every girl you ever met
+Win or lose, win or lose, I hold out
+You're my baby
+Come to bed, I'll be your girl
+Living for you
+Oh, but you're living for her
+I go crazy, see red when she's touching you now
+You're my baby
+Come to bed, I'll be your girl
+Turn me on, I'm jealous of that night watch
+I'm the voyeur searching through my laptop
+It's so truth defying, everything you've ever said
+Right or wrong, right or wrong, I won't stop
+You're my baby
+Come to bed, I'll be your girl
+Living for you
+Oh, but you're living for her
+I go crazy, see red when she's touching you now
+You're my baby
+Come to bed, I'll be your girl
+I'll be your girl
+I'll be your girl
+I'll be your girl
+Come to bed, I'll be your girl
+Standing at your door, calling out your name
+Found me in the dark, find me here again
+I got nothing left, make a little protest
+Banging on your door, calling out your name
+Found me in your heart, find me here again
+I got nothing left, make a little protest
+You're my baby
+Come to bed, I'll be your girl
+Living for you
+Oh, but you're living for her
+I go crazy, see red when she's touching you, now
+You're my baby
+Come to bed, I'll be your girl
+All I mean is, I'm going out of breath
+For the way that I feel when you hold me like this
+All I pray is, I'm getting over it
+I'll trade places today if you love me like that `;
+const tooMuchLyrics = `Am I bad for you?
+'Cause I live for the fire, and the rain, and the drama too, boy
+And it feels like you never say what you want
+And it feels like I can't get through, babe
+Ooh, babe
+'Cause when I get so low, it takes me higher (feel the love)
+I'm not afraid to know my heart's desire, ooh ah!
+When I party, then I party too much
+When I feel it, then I feel it too much
+When I'm thinking, then I'm thinking too much
+When I'm drinking, then I'm drinking too much
+I'll do anything to get to the rush
+Now I'm dancing, and I'm dancing too much
+So be careful if you're wanting this touch
+'Cause if I love you, then I love you too much
+Is this too, is this too
+Is this too much?
+Is this too, is this too
+Is this too much?
+Am I too close?
+'Cause you fold into me like a heart with a beat
+I know now, I know now
+And did you know that I'm wild for your skin
+And the dance that we're in, so close now, so close now
+'Cause when I get so low, it takes me higher (feel the love)
+I'm not afraid to know my heart's desire, ooh ah!
+When I party, then I party too much
+When I feel it, then I feel it too much
+When I'm thinking, then I'm thinking too much
+When I'm drinking, then I'm drinking too much
+I'll do anything to get to the rush
+Now I'm dancing, and I'm dancing too much
+So be careful if you're wanting this touch
+'Cause if I love you, then I love you too much
+Is this too, is this too
+Is this too much?
+Is this too, is this too
+Is this too much?
+It's a hot and rainy season
+It's hard to get to know me
+Are you down, down?
+Down, down
+Trust the, trust the feeling
+It's hard to get to know you
+But I'm down, down
+I'm down, down
+When I party, then I party too much
+When I feel it, then I feel it too much
+When I'm thinking, then I'm thinking too much
+When I'm drinking, then I'm drinking too much
+I'll do anything to get to the rush
+Now I'm dancing, and I'm dancing too much
+So be careful if you're wanting this touch
+'Cause if I love you, then I love you too much
+Is this too, is this too
+Is this too much?
+Is this too, is this too
+Is this too much? `;
+const theSoundLyrics = `I've been testing out the waters
+I don't think I can swim, love
+With the way you rock me 'round
+And I feel it, more than just desire
+I don't think I can breathe
+With the way you let me down
+God, you make me so tired
+Isn't this the vision that you wanted?
+Guess I'll never understand you now
+Love is more than telling me you want it
+I don't need the words
+I want the sound, sound, sound, sound, sound
+(Sound, sound, sound, sound, sound)
+I don't need the words
+I want the sound, sound, sound, sound, sound
+(Sound, sound, sound, sound, sound)
+I don't need the words, I want the...
+Fool's gold landed on my shoulder
+In the weight of your hand
+But you know the answer's no
+(Know the answer's no)
+And you know I'm a liar
+Oh, the night's my weakness
+I believe every word
+'Cause your lips are waterfalls
+God, you make me so tired
+Isn't this the vision that you wanted?
+Guess I'll never understand you now
+Love is more than telling me you want it
+I don't need the words
+I want the sound, sound, sound, sound, sound
+(Sound, sound, sound, sound, sound)
+I don't need the words
+I want the sound, sound, sound, sound, sound
+(Sound, sound, sound, sound, sound)
+I'm for you now
+I feel my fortune tell me
+I'm the only one, the only one
+I'm for you now (is it desire?)
+It's sweet until it's over
+I'm the only one (is it desire?)
+The only one
+God, you make me so tired
+Isn't this the vision that you wanted?
+Guess I'll never understand you now
+Love is more than telling me you want it
+I don't need the words
+I want the sound, sound, sound, sound, sound
+(Sound, sound, sound, sound, sound)
+I don't need the words
+I want the sound, sound, sound, sound, sound
+(Sound, sound, sound, sound, sound)
+I don't need the words
+I want the sound, sound, sound, sound, sound (I need it, yeah)
+(Sound, sound, sound, sound, sound)
+(I give up, I give up)
+I don't need the words
+I want the sound, sound, sound, sound, sound
+(Sound, sound, sound, sound, sound)
+(I give up, I give up)
+I don't need the words, I want the... `;
+
 /* Merge all lyrics from all albums (string) into one master string */
 let lyricsBank = runAwayWithMeLyrics.concat(
     emotionLyrics,
