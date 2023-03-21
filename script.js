@@ -2108,7 +2108,153 @@ Only want a real, real love
 I'm not even scared about it
 All I want is real, real love
 But I don't know a thing about it
-All I want is real, real love`;
+All I want is real, real love` ;
+const forSureLyrics = `Six in the morning, can I hold you?
+Are we done talking? Do we have to?
+
+I've been thinking, we were over
+I've been thinking, got to know for sure
+I've been thinking, we were over
+I've been thinking, got to know for sure
+
+I've been thinking, we were over
+I've been thinking, got to know for sure
+I've been thinking, we were over
+I've been thinking, got to know for sure
+(Da-da-da-da, da-da-da-da, da-da-da-da)
+(Da-da-da-da, da-da-da-da, da-da-da-da)
+Got to know for sure
+(Da-da-da-da, da-da-da-da, da-da-da-da)
+(Da-da-da-da, da-da-da-da, da-da-da-da)
+
+Now I know what you want
+But it's too late (Ayy, ayy, ah-ah)
+You're trying to bring me good love-loving
+But it won't take (Ayy, ayy, ayy, ayy)
+
+I've been thinking (I've been thinking)
+We were over (We were over)
+I've been thinking, got to know for sure
+I've been thinking (I've been thinking), we were over
+I've been thinking, got to know for sure
+
+I've been thinking, we were over
+I've been thinking, got to know for sure
+I've been thinking, we were over
+I've been thinking, got to know for sure
+(Da-da-da-da, da-da-da-da, da-da-da-da)
+(Da-da-da-da, da-da-da-da, da-da-da-da)
+Got to know for sure
+(Da-da-da-da, da-da-da-da, da-da-da-da)
+(Da-da-da-da, da-da-da-da, da-da-da-da)
+
+I've been thinking, we were over
+I've been thinking, got to know for sure
+I've been thinking, we were over
+I've been thinking, got to know for sure
+
+I was thinking we were over
+(Da-da-da-da, da-da-da-da, da-da-da-da)
+Ahh!
+I was thinking we were over
+(Da-da-da-da, da-da-da-da, da-da-da-da)
+I was thinking we were over
+Ahh!
+(Da-da-da-da, da-da-da-da, da-da-da-da)
+(Ayy, ayy, ah-ah!)
+I was thinking we were over `;
+const partyForOneLyrics = `If you didn't know that you were right for me
+Then there's nothing I can say
+Tried to call you out to spend some time to see
+But somebody's in your way
+Tried to let it go and say I'm over you
+I'm not over you
+But I'm trying
+
+Party for one
+If you don't care about me
+I'll just dance for myself
+Back on my beat
+I'll be the one
+If you don't care about me
+Making love to myself
+Back on my beat
+
+You don't want my love
+If you don't care about me
+I'll just dance for myself
+Back on my beat
+Party for one
+If you don't care about me
+Making love to myself
+Back on my beat
+Ah, ah, ah
+
+Once upon a time, I thought you wanted me
+Was there no one else to kiss?
+(No one else to kiss)
+Was it all a dream I let myself believe?
+I'm not over this
+(I'm not over this)
+But I'm trying
+
+Party for one (Hey)
+If you don't care about me
+I'll just dance for myself
+Back on my beat
+I'll be the one
+If you don't care about me
+(You don't care that I'm)
+Making love to myself
+Back on my beat
+
+You don't want my love
+If you don't care about me
+I'll just dance for myself
+Back on my beat
+(Back on my beat)
+Party for one
+If you don't care about me
+(You don't care about me)
+Making love to myself
+(Hey)
+Back on my beat
+
+Ah, ah, ah (Back on my beat)
+Ah, ah, ah
+
+(Back on my beat)
+Back on my beat
+Back on my beat
+Party for one
+'Cause you don't care about me
+Back on my beat
+Back on my beat
+Party for one
+Back on my beat
+
+You don't want my love
+If you don't care about me
+(You don't care about me)
+I'll just dance for myself
+Back on my beat
+(Back on my beat)
+Party for one
+If you don't care about me
+(You don't care that I'm)
+Making love to myself
+Back on my beat
+Ah
+
+Back on my beat
+Back on my beat (Ah)
+Party for one (Ah)
+(Back on my beat)
+Back on my beat
+Back on my beat (Ah)
+Party for one
+Ah `;
+
 
 /* Lyrics : DEDICATED SIDE B */
 const thisLoveIsntCrazyLyrics = `For some time
@@ -2623,7 +2769,7 @@ The night we painted over your fake Mona Lisa
 Lipstick on the corners, said her smile was teasin' ya
 Oh, you took my clothes off, said, "It's gettin' hotter."
 Don't know how to swim, but let's breathe underwater `;
-const letsSortTheWholeThingOut = `What it feels like when I'm next to you
+const letsSortTheWholeThingOutLyrics = `What it feels like when I'm next to you
 It's a soft touch that I read into
 Was it just me, did you linger for too long?
 But it's alright if it's on your mind
@@ -2849,7 +2995,8 @@ Moon in the water and the open sky
 Ooh, ooh
 
 Ooh, ooh `;
-const letsBeFriends = `Call out your persuasions
+const letsBeFriendsLyrics = `
+Call out your persuasions
 I got the feeling that you don't know what to say, it's a
 A black-dress occasion
 Nobody's dying, it's a dinner, not a date, but I
@@ -3016,7 +3163,23 @@ let lyricsBank = runAwayWithMeLyrics.concat(
     automaticallyInLoveLyrics,
     feelsRightLyrics,
     rightWordsWrongTimeLyrics,
-    realLoveLyrics
+    realLoveLyrics,
+    forSureLyrics,
+    partyForOneLyrics,
+    thisLoveIsntCrazyLyrics,
+    windowLyrics,
+    feltThisWayLyrics,
+    stayAwayLyrics,
+    thisIsWhatTheySayLyrics,
+    heartBeatLyrics,
+    summerLoveLyrics,
+    fakeMonaLisaLyrics,
+    letsSortTheWholeThingOutLyrics,
+    comebackLyrics,
+    soloLyrics,
+    nowIDontHateCaliforniaAfterAllLyrics,
+    letsBeFriendsLyrics,
+    alwaysOnMyMindLyrics
     );
     
 /* Use RegEx to seperate all the words into an array */
@@ -3097,6 +3260,25 @@ let getAutomaticallyInLoveLyrics = document.getElementById("automatically-in-lov
 let getFeelsRightLyrics = document.getElementById("feels-right").innerText = `FEELS RIGHT \n \n ${feelsRightLyrics} \n \n`;
 let getRightWordsWrongTimeLyrics = document.getElementById("right-words-wrong-time").innerText = `RIGHT WORDS WRONG TIME \n \n ${rightWordsWrongTimeLyrics} \n \n`;
 let getRealLoveLyrics = document.getElementById("real-love").innerText = `REAL LOVE \n \n ${realLoveLyrics} \n \n`;
+let getForSureLyrics = document.getElementById("for-sure").innerText = `FOR SURE \n \n ${forSureLyrics} \n \n`;
+let getPartyForOneLyrics = document.getElementById("party-for-one").innerText = `PARTY FOR ONE \n \n ${partyForOneLyrics} \n \n`;
+
+/* DEDICATED SIDE B */
+let getThisLoveIsntCrazyLyrics = document.getElementById("this-love-isnt-crazy").innerText = `THIS LOVE ISN'T CRAZY \n \n ${thisLoveIsntCrazyLyrics} \n \n`;
+let getWindowLyrics = document.getElementById("window").innerText = `WINDOWS \n \n ${windowLyrics} \n \n`;
+let getFeltThisWayLyrics = document.getElementById("felt-this-way").innerText = `FELT THIS WAY \n \n ${feltThisWayLyrics} \n \n`;
+let getStayAwayLyrics = document.getElementById("stay-away").innerText = `STAY AWAY \n \n ${stayAwayLyrics} \n \n`;
+let getThisIsWhatTheySayLyrics = document.getElementById("this-is-what-they-say").innerText = `THIS IS WHAT THEY SAY \n \n ${thisIsWhatTheySayLyrics} \n \n`;
+let getHeartBeatLyrics = document.getElementById("heartbeat").innerText = `HEARTBEART \n \n ${heartBeatLyrics} \n \n`;
+let getSummerLoveLyrics = document.getElementById("summer-love").innerText = `SUMMER LOVE \n \n ${summerLoveLyrics} \n \n`;
+let getFakeMonaLisaLyrics = document.getElementById("fake-mona-lisa").innerText = `FAKE MONA LISA \n \n ${fakeMonaLisaLyrics} \n \n`;
+let getLetsSortTheWholeThingOutLyrics = document.getElementById("lets-sort-the-whole-thing-out").innerText = `LET'S SORT THE WHOLE THING OUT \n \n ${letsSortTheWholeThingOutLyrics} \n \n`;
+let getComebackLyrics = document.getElementById("comeback").innerText = `COMEBACK \n \n ${comebackLyrics} \n \n`;
+let getSoloLyrics = document.getElementById("solo").innerText = `SOLO \n \n ${soloLyrics} \n \n`;
+let getNowIDontHateCaliforniaAfterAllLyrics = document.getElementById("now-i-dont-hate-california-after-all").innerText = `NOW I DON'T HATE CALIFORNIA AFTER ALL \n \n ${nowIDontHateCaliforniaAfterAllLyrics} \n \n`;
+let getLetsBeFriendsLyrics = document.getElementById("lets-be-friends").innerText = `LET'S BE FRIENDS \n \n ${letsBeFriendsLyrics} \n \n`;
+let getAlwaysOnMyMindLyrics = document.getElementById("always-on-my-mind").innerText = `ALWAYS ON MY MIND \n \n ${alwaysOnMyMindLyrics} \n \n`;
+
 
 /* Display Word Count on site */
 function makeTable(array) {
