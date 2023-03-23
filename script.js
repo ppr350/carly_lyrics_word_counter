@@ -2111,57 +2111,49 @@ But I don't know a thing about it
 All I want is real, real love` ;
 const forSureLyrics = `Six in the morning, can I hold you?
 Are we done talking? Do we have to?
-
 I've been thinking, we were over
 I've been thinking, got to know for sure
 I've been thinking, we were over
 I've been thinking, got to know for sure
-
 I've been thinking, we were over
 I've been thinking, got to know for sure
 I've been thinking, we were over
 I've been thinking, got to know for sure
-(Da-da-da-da, da-da-da-da, da-da-da-da)
-(Da-da-da-da, da-da-da-da, da-da-da-da)
+(Da da da da, da da da da, da da da da)
+(Da da da da, da da da da, da da da da)
 Got to know for sure
-(Da-da-da-da, da-da-da-da, da-da-da-da)
-(Da-da-da-da, da-da-da-da, da-da-da-da)
-
+(Da da da da, da da da da, da da da da)
+(Da da da da, da da da da, da da da da)
 Now I know what you want
-But it's too late (Ayy, ayy, ah-ah)
-You're trying to bring me good love-loving
-But it won't take (Ayy, ayy, ayy, ayy)
-
-I've been thinking (I've been thinking)
-We were over (We were over)
-I've been thinking, got to know for sure
-I've been thinking (I've been thinking), we were over
-I've been thinking, got to know for sure
-
+But it's too late (hey, hey, ah ah)
+Trying to bring the color of loving
+But it won't take (hey, hey, hey)
 I've been thinking, we were over
 I've been thinking, got to know for sure
 I've been thinking, we were over
 I've been thinking, got to know for sure
-(Da-da-da-da, da-da-da-da, da-da-da-da)
-(Da-da-da-da, da-da-da-da, da-da-da-da)
+I've been thinking, we were over
+I've been thinking, got to know for sure
+I've been thinking, we were over
+I've been thinking, got to know for sure
+(Da da da da, da da da da, da da da da)
+(Da da da da, da da da da, da da da da)
 Got to know for sure
-(Da-da-da-da, da-da-da-da, da-da-da-da)
-(Da-da-da-da, da-da-da-da, da-da-da-da)
-
+(Da da da da, da da da da, da da da da)
+(Da da da da, da da da da, da da da da)
 I've been thinking, we were over
 I've been thinking, got to know for sure
 I've been thinking, we were over
 I've been thinking, got to know for sure
-
 I was thinking we were over
-(Da-da-da-da, da-da-da-da, da-da-da-da)
+(Da da da da, da da da da)
 Ahh!
 I was thinking we were over
-(Da-da-da-da, da-da-da-da, da-da-da-da)
+(Da da da da, da da da da, da da da da)
 I was thinking we were over
 Ahh!
-(Da-da-da-da, da-da-da-da, da-da-da-da)
-(Ayy, ayy, ah-ah!)
+(Da da da da, da da da da)
+(Hey, hey, ah ah!)
 I was thinking we were over `;
 const partyForOneLyrics = `If you didn't know that you were right for me
 Then there's nothing I can say
@@ -2170,7 +2162,6 @@ But somebody's in your way
 Tried to let it go and say I'm over you
 I'm not over you
 But I'm trying
-
 Party for one
 If you don't care about me
 I'll just dance for myself
@@ -2179,7 +2170,6 @@ I'll be the one
 If you don't care about me
 Making love to myself
 Back on my beat
-
 You don't want my love
 If you don't care about me
 I'll just dance for myself
@@ -2188,8 +2178,9 @@ Party for one
 If you don't care about me
 Making love to myself
 Back on my beat
-Ah, ah, ah
-
+Ahh, ahh, ahh
+Ahh, ahh, ahh
+Ahh, ahh...
 Once upon a time, I thought you wanted me
 Was there no one else to kiss?
 (No one else to kiss)
@@ -2197,8 +2188,7 @@ Was it all a dream I let myself believe?
 I'm not over this
 (I'm not over this)
 But I'm trying
-
-Party for one (Hey)
+Party for one (hey)
 If you don't care about me
 I'll just dance for myself
 Back on my beat
@@ -2207,7 +2197,6 @@ If you don't care about me
 (You don't care that I'm)
 Making love to myself
 Back on my beat
-
 You don't want my love
 If you don't care about me
 I'll just dance for myself
@@ -2216,14 +2205,14 @@ Back on my beat
 Party for one
 If you don't care about me
 (You don't care about me)
-Making love to myself
-(Hey)
+Making love to myself (hey)
 Back on my beat
-
-Ah, ah, ah (Back on my beat)
-Ah, ah, ah
-
+Ahh, ahh, ahh
+Ahh, ahh, ahh
 (Back on my beat)
+Ahh, ahh, ahh
+Ahh, ahh, ahh
+Ahh, ahh...
 Back on my beat
 Back on my beat
 Party for one
@@ -2232,7 +2221,6 @@ Back on my beat
 Back on my beat
 Party for one
 Back on my beat
-
 You don't want my love
 If you don't care about me
 (You don't care about me)
@@ -2244,16 +2232,14 @@ If you don't care about me
 (You don't care that I'm)
 Making love to myself
 Back on my beat
-Ah
-
-Back on my beat
-Back on my beat (Ah)
-Party for one (Ah)
+Ahh...
+Back on my beat (ahh)
+Party for one (ahh)
 (Back on my beat)
 Back on my beat
-Back on my beat (Ah)
+Back on my beat (ahh)
 Party for one
-Ah `;
+Ahh...`;
 
 
 /* Lyrics : DEDICATED SIDE B */
@@ -2322,244 +2308,211 @@ This loving could save me
 This love isn't crazy (this loving isn't crazy) `;
 const windowLyrics = `Baby, I could praise you
 Try to turn your head around
-Could you take a compliment? Oh, oh, oh
-Everything I say, you
+Could you take a compliment
+Oh-oh, and
+Everything I say you
 I find a way to drown it out
 Make it like an argument
-
 I see you a different way
 So take my eyes to borrow
-
-Keep a window for me open
-Open for me always
-Please don't lock the door
-Ooh, I'll be your special somebody
+Keep a window for me open, open for me
+Always, please don't lock the door
+I'll be your special somebody
 Hands over your body
-Keep you wantin' more
-
+Keep you wanting more
 I know you're not sleepin'
-Thinkin' that the sky could fall
-You never let the dreams get in, oh, oh, oh
+Thinking that the sky could fall
+You never let the dreams get in
+Oh-oh, and
 The secrets that you're keepin'
 Well, I want you to share them all
-'Cause, baby, I can handle it
-
+'Cause baby, I can handle it
 Just hold my hand a different way
 And take my eyes to borrow
-
-Keep a window for me open
-Open for me always
-Please don't lock the door
-Ooh, I'll be your special somebody
+Keep a window for me open, open for me
+Always, please don't lock the door
+I'll be your special somebody
 Not just anybody
-Keep you wantin' more
-
-You were the one, you were the one, you were the one
+Keep you wanting more
+You were the one
+You were the one
+You were the one
 And I'm needin' ya
-You were the one, you were the one, you were the one
+You were the one
+You were the one
+You were the one
 And I need your love
-You were the one, you were the one, you were the one
+You were the one
+You were the one
+You were the one
 And I'm needin' ya
-You were the one, you were the one, you were the one
-
-Keep a window for me open
-Open for me always
-Please don't lock the door
+You were the one
+You were the one
+You were the one
+Keep a window for me open, open for me
+Always, please don't lock the door
 Ooh, I'll be your special somebody
 God, I love your body
-Keep me wantin' more
-Keep a window for me open
-Open for me always
-Please don't lock the door
-Ooh, I'll be your special somebody
+Keep me wanting more
+Keep a window for me open, open for me
+Always, please don't lock the door
+I'll be your special somebody
 Hands over your body
-Keep me wantin' more
-
-You were the one, you were the one, you were the one
+Keep me wanting more
+You were the one
+You were the one
+You were the one
 And I'm needin' ya
-You were the one, you were the one, you were the one
+You were the one
+You were the one
+You were the one
 And I need your love
-You were the one, you were the one, you were the one
+You were the one
+You were the one
+You were the one
 And I'm needin' ya
-You were the one, you were the one, you were the one
+You were the one
+You were the one
+You were the one
 And I need your love `;
 const feltThisWayLyrics = `I tried your mouth and I can't come back
 So little time and I'm way off track
 I can't stay away
-(Away away away away)
+(Away, away, away, away)
 I can't stay away
-(Away away away away)
-
+(Away, away, away, away)
 The city's so hard when you sleep alone
 I need your hands when you drive me home
 I can't stay away
-(Away away away away)
+(Away, away, away, away)
 I can't stay away
-(Away away away away)
-
+(Away, away, away, away)
 But I can't take much more of your hesitating
 Both our hands speak for us and complicate it
 My home is your body
 How can I stay away?
-
 And if my love's too strong for you, walk away
 But I can't make this wrong when I see your face
 My home is your body
 How can I stay away?
-
 Oh, if it was only an attraction
 How come nobody ever felt this way?
 If it was only a distraction
 How come I can't stay away?
-
 Oh, you were a party to the action
 I think nobody ever felt this way
 If it was only a distraction
 How come I can't stay away?
-
 Wherever I go I still see your face
 So little time there's no time to waste
 I can't stay away
-(Away away away away)
+(Away, away, away, away)
 I can't stay away
-(Away away away away)
-
+(Away, away, away, away)
 Reading your mind's getting hard to do
 Breaking my heart if you don't come through
 I can't stay away
-(Away away away away)
+(Away, away, away, away)
 I can't stay away
-(Away away away away)
-
+(Away, away, away, away)
 But, I can't take much more of your hesitating
 Both our hands speak for us and complicate it
 My home is your body
 How can I stay away?
-
 And if my love's too strong for you, walk away
 But I can't make this wrong when I see your face
 My home is your body
 How can I stay away?
-
 Oh, if it was only an attraction
 How come nobody ever felt this way?
 If it was only a distraction
 How come I can't stay away?
-
 Oh, you were a party to the action
 I think nobody ever felt this way
 If it was only a distraction
 How come I can't stay away?
-
 Those sweet summer lies
 Your night after night
 Come closer I'll hold you
 I need you now, now
-
 It's still on my mind
 Yeah time after time
 Come closer, come closer
-
 Oh, if it was only an attraction
 How come nobody ever felt this way?
 If it was only a distraction
 How come I can't stay away?
-
 Oh, you were a party to the action
 I think nobody ever felt this way
 If it was only a distraction
 How come I can't stay away? `;
 const stayAwayLyrics = `How can I stay away?
-
-I tried your mouth and I can't come back
-So little time and I'm way off track
-I can't stay away, away, away, away for one night
-
-Hey, wherever I go I still see your face
+I tried your mouth, and I can't come back
+So little time, and I'm way off track
+I can't stay away, away, away, away
+For one night
+Wherever I go, I still see your face
 So little time, there's no time to waste
-I can't stay away, away, away, away for one night
-
-Hey, I don't know where your head is now
-I've been only thinkin 'bout us
-(Thinkin 'bout us)
-
-Don't know what your hands are doin'
-I've been only thinkin 'bout touch
-Touch, touch, touch me
-
-I can't take much more of your hesitating
+I can't stay away, away, away, away
+For one night
+I don't know where your head is now
+I've been only thinking 'bout us (Thinking bout us)
+Don't know what your hands are doing
+I've been only thinking 'bout touch
+(Touch, touch, touch me)
+Can't take much more of your hesitating
 Both our hands speak for us and complicate it
-My home is your body
-How can I stay away?
+My home is your body, how can I stay away?
 (Away, away, away, away)
-
 If my love's too strong for you, walk away
 But I can't make this wrong when I see your face
-My home is your body
-How can I stay away?
+My home is your body, how can I stay away?
 (Away, away, away, away)
-
 The city's so hard when you sleep alone
 I need your hands when you drive me home
-I can't stay away, away, away, away for one night
-
-Hey, I don't know where your head is now
-I've been only thinkin 'bout us
-(Thinkin 'bout us)
-
-Don't know what your hands are doin'
-I've been only thinkin 'bout touch
-Touch, touch, touch me
-
-I can't take much more of your hesitating
+I can't stay away, away, away, away
+For one night
+I don't know where your head is now
+I've been only thinking 'bout us (Thinking bout us)
+Don't know what your hands are doing
+I've been only thinking 'bout touch
+(Touch, touch, touch me)
+Can't take much more of your hesitating
 Both our hands speak for us and complicate it
-My home is your body
-How can I stay away?
+My home is your body, how can I stay away?
 (Away, away, away, away)
-
 If my love's too strong for you, walk away
 But I can't make this wrong when I see your face
-My home is your body
-How can I stay away?
+My home is your body, how can I stay away?
 (Away, away, away, away)
-
+How can I stay away? (Ooh)
 How can I stay away?
-How can I stay away?
-
-Don't know where your head is now
-I've been only thinkin 'bout us
-
-Don't know what your hands are doin'
-I've been only thinkin 'bout touch
-Touch, touch, touch me
-
-I can't take much more of your hesitating
+I don't know where your head is now
+I've been only thinking 'bout us (Oh)
+Don't know what your hands are doing
+I've been only thinking 'bout touch
+(Touch, touch, touch me)
+Can't take much more of your hesitating
 Both our hands speak for us and complicate it
-My home is your body
-How can I stay away?
+My home is your body, how can I stay away?
 (Away, away, away, away)
-
 If my love's too strong for you, walk away
 But I can't make this wrong when I see your face
-My home is your body
-How can I stay away?
+My home is your body, how can I stay away?
 (Away, away, away, away)
-
 How can I stay away? `;
 const thisIsWhatTheySayLyrics = `We're on the right track, I can feel it
 I came alive first day that we met
 I know what everybody's talkin' 'bout
 Wanna say it loud and proud
 Got me feelin' confident
-Yeah (Yeah yeah yeah)
-
-You make my heartbeat work overtime (Work overtime)
-I want your body right over mine (Right over mine)
+Yeah (yeah, yeah, yeah)
+You make my heartbeat work overtime (work overtime)
+I want your body right over mine (right over mine)
 So won't you cover me like full eclipse
 Can't remember loneliness
 Got me feelin' delicate
-Yeah (Yeah yeah yeah)
-
+Yeah (yeah, yeah, yeah)
 This is what they say
 Falling in love supposed to feel like
 This is what they say
@@ -2568,176 +2521,148 @@ Feels like
 Never gonna be the same
 Feels like
 Never gonna be the same
-
 This is what they say
 Falling in love supposed to feel like
-
-I like to give as good as I get (Good as I get)
-Don't be surprised if this is the best (This is the best)
+I like to give as good as I get (good as I get)
+Don't be surprised if this is the best (this is the best)
 I'm always fallin' for your open mind
 Love the way you open mine
-Sweatin' like it's summertime
-Yeah (Yeah yeah yeah)
-
-And when you hear me callin' your name (Callin' your name)
-It's always different never the same (Never the same)
+Sweatin' like its summertime
+Yeah (yeah, yeah, yeah)
+And when you hear me callin' your name (callin' your name)
+It's always different never the same (never the same)
 And every morning when I wake you up
 Sugar you won't need a cup
 You got me feelin' confident
-Yeah (Yeah yeah yeah)
-
+Yeah (yeah, yeah, yeah)
 This is what they say
 Falling in love supposed to feel like
 This is what they say
 Falling in love supposed to feel like
 Feels like
-Never gonna be the same (I got you now)
+Never gonna be the same
+(Without ya now)
 Feels like
-Never gonna be the same (I got you now)
-
+Never gonna be the same
+(Without ya now)
 This is what they say
 Falling in love supposed to feel like
-
 Ah, ah, ah, ah, ah, ah
-Ah, ah, ah, ah, ah, ah (This is what they say)
+Ah, ah, ah, ah, ah, ah (this is what they say)
 Ah, ah, ah, ah, ah, ah
-Ah, ah, ah, ah, ah, ah (This is what they say)
-
-Can't look back at broken pieces
-Of the hearts we broke
+Ah, ah, ah, ah, ah, ah (this is what they say)
+Can't look back the broken pieces
+All the hearts we broke
 We broke for reasons
 No I can't look back at broken pieces
 Of the hearts we broke
 Broke for reasons
-
-This is what they say (No, I can't look back at broken pieces)
-Falling in love supposed to feel like (Of the hearts we broke)
+This is what they say (No I can't look back the broken pieces)
+Falling in love supposed to feel like (all the hearts we broke)
 (We broke for reasons)
-This is what they say (No, I can't look back at broken pieces)
-Falling in love supposed to feel like (Of the hearts we broke)
+This is what they say (no I can't look back at broken pieces)
+Falling in love supposed to feel like (of the hearts we broke)
 (Broke for reasons)
-
-Feels like
-(No, I can't look back at broken pieces)
+Feels like (can't look back the broken pieces)
 Never gonna be the same
-Feels like (Of the hearts we broke)
-Never gonna be the same (We broke for reasons)
-This is what they say (No, I can't look back at broken pieces)
-Falling in love supposed to feel like (Of the hearts we broke)
+Feels like (all the hearts we broke)
+Never gonna be the same (we broke for reasons)
+This is what they say (no I can't look back at broken pieces)
+Falling in love supposed to feel like (of the hearts we broke)
 (Broke for reasons, no I) `;
-const heartBeatLyrics = `Thinking that I need you to go now
-'Cause this could really get out of hand (Oh, wow)
-I'm hiding things I don't wanna show now (Oh, wow)
+const heartBeatLyrics = `Thinkin' that I need you to go now
+'Cause this could really get out of hand
+I'm hidin' things I don't wanna show now
 'Cause I don't know if you're ready for that
-
-I was busy sleeping, sleeping with you
+I was busy sleepin', sleepin' with you
 I thought I'd never feel this way, but I do
-
 And I don't wanna tell you
 Anything about me
 'Cause everything about you
-Is speeding up my heartbeat
+Is speedin' up my heartbeat
 And I don't wanna tell you
-You're better off without me, ah, ah
+You're better off without me
 'Cause everything about you
-Is speeding up my, speeding up my
-Speeding up my, speeding up my
-Heartbeat, heartbeat
-Heartbeat, heart
-
+Is speedin' up my, speedin' up my, speedin' up my, speedin' up my
+Heartbeat
+Heartbeat
+Heartbeat
+Heart
 Everything's a little bit clearer
 How my body feels in your hands
 It makes me want to get a little bit nearer
-Yeah, but I don't know if you're ready for that
-
-I was busy sleeping, sleeping with you
+But I don't know if you're ready for that
+I was busy sleepin', sleepin', with you
 I thought I'd never feel this way, but I do
-
-And I don't wanna tell you (I don't wanna tell you)
-Anything about me (Anything about me)
-'Cause everything about you ('Cause everything about you)
-Is speeding up my heartbeat
-And I don't wanna tell you (I don't wanna tell you)
-You're better off without me, ah, ah
-'Cause everything about you ('Cause everything about you)
-Is speeding up my, speeding up my
-Speeding up my, speeding up my
-Heartbeat, heartbeat
-Heartbeat, heart
-
+And I don't wanna tell you
+Anything about me
+'Cause everything about you
+Is speedin' up my heartbeat
+And I don't wanna tell you
+You're better off without me
+'Cause everything about you
+Is speedin' up my, speedin' up my, speedin' up my, speedin' up my
+Heartbeat
+Heartbeat
+Heartbeat
+Heart
 I don't know if you should hear this
 'Cause it's a mess inside my head
-Maybe you should go instead (You should go)
+Maybe you should go instead
 I'm suddenly scared of my feelings
 This might be all I ever wanted
-All I ever wanted to happen to me
-To me, to me
+All I ever wanted to happen to me, to me, to me
 You've been like a light
 Like a light
-
-And I don't wanna tell you (I don't wanna tell you)
-Anything about me (Anything about me)
-'Cause everything about you ('Cause everything about you)
-Is speeding up my heartbeat
-And I don't wanna tell you (I don't wanna tell you)
-You're better off without me, ah, ah
+And I don't wanna tell you
+Anything about me
 'Cause everything about you
-Is speeding up my, speeding up my
-Speeding up my, speeding up my
-Heartbeat (Heartbeat), heartbeat (Speeding)
-Heartbeat, heart `;
-const summerLoveLyrics = `Summer love wild and free
+Is speedin' up my heartbeat
+And I don't wanna tell you
+You're better off without me
+'Cause everything about you
+Is speedin' up my, speedin' up my, speedin' up my, speedin' up my
+Heartbeat
+Heartbeat
+Heartbeat
+Heart `;
+const summerLoveLyrics = `Summer love, wild and free
 And I'd like to get to know ya
-Summertime wild and free
+Summertime, wild and free
 And I'd like to get to know ya
-
 'Cause I live for the feeling
 Dance to the feeling
 Wait for the feeling of you
-
 I just live for the feeling
 Dance to the feeling
 Wait for the feeling of you
-
 I was down for the first night
 And I'm down for a second try
-When you touch me I wanna fly
+When you touch me, I wanna fly
 I'm so down for you all the time
-All the time
-All the time
-
-All the time
-All the time
-
-It's my turn it's our time
+All the time, all the time
+All the time, all the time
+It's my turn, it's our time
 And I'd like to talk it over
-Summer love sweet as wine
+Summer love, sweet as wine
 And I'd like to have you over
-
 'Cause I live for the feeling
 Dance to the feeling
 Wait for the feeling of you
-
 I just live for the feeling
 Dance to the feeling
 Wait for the feeling of you
-
 I was down for the first night
 And I'm down for a second try
-When you touch me I wanna fly
+When you touch me, I wanna fly
 I'm so down for you all the time
-All the time
-All the time
-
-All the time
-All the time
-
+All the time, all the time
+All the time, all the time
 I was down for the first night
 And I'm down for a second try
 When you touch me, I wanna fly
 I'm so down for you all the time, all the time
-
-I was down for the first night (Down for the first night)
+I was down for the first night
 And I'm down for a second try
 When you touch me, I wanna fly
 I'm so down for you all the time, all the time, all the time
@@ -2749,47 +2674,42 @@ const fakeMonaLisaLyrics = `He's born in Vegas among the stars
 And on his cheek beauty mark
 Barely noticed it from the start
 A constellation to stir my heart
-
-Every night I'm wearing my black in case you're comin' 'round
-Fifty-seven days and it still feels like I'm not comin' down
-
+Every night I'm wearing my black in case you're coming 'round
+Fifty-seven days and it still feels like I'm not coming down
 The night we painted over your fake Mona Lisa
-Lipstick on the corners, said her smile was teasin' ya
-Oh, you took my clothes off, said, "It's gettin' hotter."
+Lipstick on the corners, said her smile was teasing ya
+Oh, you took my clothes off, said, "It's getting hotter"
 Don't know how to swim, but let's breathe underwater
-
 I was born a dreamer
-And I'm still that way
+I'm still that way
 Live for tomorrow or yesterday
-
-Every night I'm wearing my black in case you're comin' 'round
-Fifty-seven days and it still feels like I'm not comin' down
-
+Every night I'm wearing my black in case you're coming 'round
+Fifty-seven days and it still feels like I'm not coming down
 The night we painted over your fake Mona Lisa
-Lipstick on the corners, said her smile was teasin' ya
-Oh, you took my clothes off, said, "It's gettin' hotter."
+Lipstick on the corners, said her smile was teasing ya
+Oh, you took my clothes off, said, "It's getting hotter"
 Don't know how to swim, but let's breathe underwater `;
 const letsSortTheWholeThingOutLyrics = `What it feels like when I'm next to you
-It's a soft touch that I read into
-Was it just me, did you linger for too long?
+It's a soft touch that I read in to
+Was it just me?
+Did you linger for too long?
 But it's alright if it's on your mind
-'Cause it's all I'm thinkin' all the time
-There was one thing that I wanted all my life
+'Cause it's all I'm thinking all the time
+There was one thing that I wanted all my life (all my life)
 For real
-
-Somebody wants you, somebody cares (For real)
-Somebody wants you, somebody cares (Then he said)
-
+Somebody wants you
+Somebody cares (for real)
+Somebody wants you
+Somebody cares (then he said)
 I love you, this is a new thing
 One more drink, let's get to the bottom of it
-I love you, let's sort the whole thing out (Then he said)
+I love you, let's sort the whole thing out
+(Then he said)
 I love you, this is a new thing
 One more drink, let's get to the bottom of it
 I love you, let's sort the whole thing out
 Let's sort the whole thing out
-
 Let's sort the whole thing out
-
 I was broken in a million ways
 Then I met you and I saw your face
 I was certain I could not want something more
@@ -2797,39 +2717,37 @@ Goin' crazy 'cause you're hard to read
 But I know you want this bad as me
 It's a good thing and I want you to be sure
 For real
-
-Somebody wants you, somebody cares (For real)
-Somebody wants you, somebody cares (Then he said)
-
+Somebody wants you
+Somebody cares (for real)
+Somebody wants you
+Somebody cares (then he said)
 I love you, this is a new thing
 One more drink, let's get to the bottom of it
-I love you, let's sort the whole thing out (Then he said)
+I love you, let's sort the whole thing out
+(Then he said)
 I love you, this is a new thing
 One more drink, let's get to the bottom of it
 I love you, let's sort the whole thing out
 Let's sort the whole thing out
-
 Let's sort the whole thing out
-
 I love you
 I love you
-
 Never thought I'd hear you say
-I've been hopin' every day
+I've been hoping every day
 Never thought I'd hear you say
-I've been hopin' every day (Then he said)
-
+I've been hoping every day
+(Then he said)
 I love you, this is a new thing
 One more drink, let's get to the bottom of it
-I love you, let's sort the whole thing out (Then he said)
+I love you, let's sort the whole thing out
+(Then he said)
 I love you, this is a new thing
 One more drink, let's get to the bottom of it
 I love you, let's sort the whole thing out
 Let's sort the whole thing out
-
 Let's sort the whole thing out
 I love you `;
-const comebackLyrics = `I'm at a war with myself
+const comebackLyrics = `I'm in a war with myself
 We go back to my place
 Take my makeup off
 Show you my best disguise
@@ -2837,37 +2755,32 @@ You believe in my heart
 You believe in my kind
 It's a tragedy boy
 Every time you ask me
-
 I don't know what I'm feelin', but I believe
 I was thinkin' 'bout makin' a comeback
 Back to me
 And I won't say you're the reason I was on my knees
 But I'm thinkin' 'bout makin' a comeback
 Back to me
-
 I'm at peace in the dark
 When I know that you're near
 Hear the breath of your heart
 Singing me a lullaby
 All those travelin' years
-'Til we said our goodbye
+Till we said our goodbye
 And I show up to your place
 You don't even ask me why
-
 I don't know what I'm feelin', but I believe
 I was thinkin' 'bout makin' a comeback
 Back to me
 And I won't say you're the reason I was on my knees
 But I'm thinkin' 'bout makin' a comeback
 Back to me
-
-And if you wanna know why I have no regrets
+And if you wanna know why I have had no regrets
 Sometimes you've gotta dig low to get 'round to it
 And there is nothing I'm so sure of
 Nothing I'm so sure of
-If you wanna know why I have no regrets
-
-Well, then you'll come with me, I'm the keeper of that beat
+If you wanna know why I have no regrets then
+Come with me, I'm the keeper of that beat
 And the fire under your feet
 I'm the keeper man
 I am the keeper
@@ -2875,20 +2788,16 @@ Come baby, dance the night down on your knees
 Dance your heart down onto your sleeve
 I'm the keeper man
 And I am the keeper
-
 And I am the keeper
-
 I don't know what I'm feelin', but I believe
 I was thinkin' 'bout makin' a comeback
 Back to me
-
 I don't know what I'm feelin', but I believe
 I was thinkin' that maybe you'll come back
 Back to me
 And I won't say you're the reason I was on my knees
 But I'm thinkin' that maybe you'll come back
 Come back to me
-
 Come with me, I'm the keeper of that beat
 And the fire under your feet
 I'm the keeper man
@@ -2899,221 +2808,179 @@ I'm the keeper man
 I am the keeper `;
 const soloLyrics = `And I know what it feels like
 To be alone on a cold night
-No one you can hold tight (Hold tight, ah, ah, ah)
-And I'm not trying to play it down
+No one you can hold tight (hold tight)
+And I'm not tryin' to play it down
 But it's all gonna turn around
-And I swear it'll be alright (Alright, ah, ah, ah)
-
-You let go, she moved on
+And I swear you'll be all right (all right)
+He let go, she moved on
 A thousand stories before
 You felt it, then lost it
 You're lonely, your heart aches
 But get yourself off the floor
-I can't stand to see you crying
-
-So what you're not in love?
-Don't go wasting your nights getting so low
-So what you're not in love?
+I can't stand to see you cryin'
+So what, you're not in love
+Don't go wasting your nights gettin' so low
+So what, you're not in love
 You shine bright by yourself dancing solo
-
 It looks nice from the outside
 When they all got the perfect guy
-Hold on for the long ride (Long ride, ah, ah, ah)
+Hold on for the long ride (long ride)
 But your fears got it all wrong
 That he's right and there's something wrong
-'Cause I swear, you'll be alright (Alright, ah, ah, ah)
-
-You let go, she moved on
+'Cause I swear you'll be all right (all right)
+He let go, she moved on
 A thousand stories before
 You felt it, then lost it
 You're lonely, your heart aches
 But get yourself off the floor
-I can't stand to see you crying
-
-So what you're not in love?
-Don't go wasting your nights getting so low
-So what you're not in love?
+I can't stand to see you cryin'
+So what, you're not in love
+Don't go wasting your nights gettin' so low
+So what, you're not in love
 You shine bright by yourself dancing solo
-
-You let go, she moved on
+He let go, she moved on
 A thousand stories before
 You felt it, then lost it
 You're lonely, your heart aches
 But get yourself off the floor
-I can't stand to see you crying
-
-So what you're not in love?
-Don't go wasting your nights getting so low
-So what you're not in love?
+I can't stand to see you cryin'
+So what, you're not in love
+Don't go wasting your nights gettin' so low
+So what, you're not in love
 You shine bright by yourself dancing solo `;
 const nowIDontHateCaliforniaAfterAllLyrics = `My lover don't mind if
 I follow him 'round
 I'm high as a kite when I'm with him
 All of the time
-
-He gives me the holiday I needed all the time (Ooh, ooh, ooh)
-Maybe this is temporary, I don't even mind (Ooh, ooh, ooh)
+He gives me the holiday I needed all the time
+Maybe this is temporary I don't even mind
 Now I don't hate California after all
 Now I don't hate California after all
-
 Love on the beach and the tide is high
 Ooh, ooh
 Moon in the water and the open sky
 Ooh, ooh
-
-And now that he noticed
+I know that he noticed
 I follow him 'round
 He's all kinds of hardness and heartless
 But I know he's down
-
-He gives me the holiday I needed all the time (Ooh, ooh, ooh)
-Maybe this is temporary, I don't even mind (Ooh, ooh, ooh)
+He gives me the holiday I needed all the time
+Maybe this is temporary I don't even mind
 Now I don't hate California after all
 Now I don't hate California after all
-
 Love on the beach and the tide is high
 Ooh, ooh
 Moon in the water and the open sky
 Ooh, ooh
-
 I just wanna stay
 Another night, another day
 We could wash the world away
 We could play like children play
-
 Love on the beach and the tide is high
-(Love on the beach and the tide is high)
 Ooh, ooh
 Moon in the water and the open sky
-(Moon in the water and the open sky)
 Ooh, ooh
 Love on the beach and the tide is high
-(Love on the beach and the tide is high)
 Ooh, ooh
 Moon in the water and the open sky
-(Moon in the water and the open sky)
 Ooh, ooh
-
+Ooh, ooh
 Ooh, ooh `;
-const letsBeFriendsLyrics = `
-Call out your persuasions
-I got the feeling that you don't know what to say, it's a
-A black-dress occasion
-Nobody's dying, it's a dinner, not a date, but I
+const letsBeFriendsLyrics = `Call out your persuasions
+I got the feeling that you don't know what to say
+It's a, a black dress occasion
+Nobody's dying, it's a dinner not a date, but I
 Feel young and inspired
-That this is over and I'm hoping you'll agree, so I
+That this is over and I'm hoping you'll agree so I
 Phase out and smile over
-That little phrase, "It isn't you, baby, it's me"
-
-So take the tarot card
-And tell a fortune gold
+That little phrase, it isn't you, baby, it's me
+So take the tarot card and tell a fortune gold
 The past heartbreaks, the lies we told, we tell again
-
-Let's be friends, then never speak again (Ooh)
-It's cool (Cool), we can just pretend
-We're friends and never speak again (Never speak again)
+Let's be friends then never speak again
+It's cool, we can just pretend
+We're friends and never speak again
 See you soon, hope we can remain good friends
-
 You take it, the bottle down
 Man, this is easier than how I thought it'd go
 You're smiling like a devil
 You tell me you were coming here to let me know that
 It's over when it's over
 And it's over, baby
-
-So take the tarot card (Take the tarot card)
-And tell a fortune gold
+So take the tarot card and tell a fortune gold
 The past heartbreaks, the lies we told, we tell again
-
-Let's be friends, then never speak again (Ooh)
-It's cool (Cool), we can just pretend
-We're friends and never speak again (Never speak again)
+Let's be friends then never speak again
+It's cool, we can just pretend
+We're friends and never speak again
 See you soon, hope we can remain good friends
-
-Catch you later
 Never gonna see you again
-See you never
+(See you never)
 Let's be friends
-Catch you later
+(Catch you later)
 Never gonna see you again
-See you never
-
+(See you never)
 I had a really nice time with you
-I mean, you're sort of a dick sometimes
-But someone out there is surely gonna love a dick
-Uh, check, please
-
-Let's be friends, then never speak again (Ooh)
-It's cool (Cool), we can just pretend
-We're friends and never speak again (Never speak again)
+I mean, you're sort of a dick sometimes but
+Someone out there is surely gonna love a dick
+Uh, check please?
+Let's be friends then never speak again
+It's cool, we can just pretend
+We're friends and never speak again
 See you soon, hope we can remain good friends
-
-Catch you later
 Never gonna see you again
-See you never
+(I'll see you never)
 Let's be friends
-Catch you later
+(Catch you later)
 Never gonna see you again
-See you never
-Let's be friends
-
+(I'll see you never)
 Let's be friends
 Let's be friends
+Let's be
+Friends
 Not really though `;
 const alwaysOnMyMindLyrics = `And it hit me like a lightning bolt
 I know, I know the feeling
 When I'm just about to lose control
 I know, I know the feeling
-
 I don't wanna be another one of your loves
 I don't wanna be another one of your loves
 'Cause you never wanna get too close
 Right now I'm on your lips
-
 But you are always on my mind
 You're always on my mind
 You're always on my mind
 You are always on my mind
 Like every day and night
 You're always on my mind (always on my mind)
-
 Scared of thunder when I hear it calling
 I know, I know the danger
 You're looking at me like the sky is falling
 I know, I know the danger
-
 I don't wanna be another one of your loves
 I don't wanna be another one of your loves
 Got me feeling like a lightning bolt
 Right now I'm on your lips
-
 But you are always on my mind
 You're always on my mind
 You're always on my mind
 You are always on my mind
 Like every day and night
 You're always on my mind (always on my mind)
-
 You're like a holiday
 I hope it lasts a lifetime
 And I'm not scared to say
 That you are always on my mind
-
 (Always on my mind)
 (Always on my mind)
-
 I don't wanna be another one of your loves
 I don't wanna be another one of your loves
 I don't wanna be another one of your loves
 I don't wanna be another one, I want only you
-
 You are always on my mind
 You're always on my mind
 You're always on my mind (always on my mind)
 You are always on my mind
 Like every day and night
 You're always on my mind (always on my mind)
-
 You're like a holiday
 I hope it lasts a lifetime
 And I'm not scared to say
@@ -3121,7 +2988,7 @@ That you are always on my mind
 I know we'll make it, babe
 I hope it lasts a lifetime
 And I'm not scared to say
-That you are always on my mind `;
+That you are always on my mind`;
 
 
 /* Merge all lyrics from all albums (string) into one master string */
