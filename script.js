@@ -2990,6 +2990,697 @@ I hope it lasts a lifetime
 And I'm not scared to say
 That you are always on my mind`;
 
+/* Lyrics : THE LONELIEST TIME */
+const surrenderMyHeartLyrics = `So, I've been tryin' hard to open up
+When I lost someone, it hit me rough
+I paid to toughen up in therapy
+She said to me, "Soften Up"
+I'm sorry if I push your good away
+Especially when I'm needin' you to stay
+I know you hate that I still test your love
+I'm tryin' not to fuck this up
+But the benefit of all the broken hearts
+That I broke before they could break me
+Is a little bit of life regrets
+I won't bring that mess to you when you're with me
+And I wanna be brave enough to show you my not-so-perfect family
+And I wanna be brave enough for everything
+Surrender my heart
+(I'm out here in the open)
+I wanna get closer
+(I'll believe in you every night)
+Surrender my heart
+I wanna be open, I wanna be honest with you
+I used to soldier through my hardest days
+I used to switch it off, ignore the pain
+I craved to feel it all entirely
+In your arms, baby
+But the benefit of all the broken hearts
+That I broke before they could break me
+Is a little bit of life regrets
+I won't bring that mess to you when you're with me
+And I wanna be brave enough to show you my not-so-perfect family
+And I wanna be brave enough for everything
+Surrender my heart
+I'm out here in the open
+I wanna get closer
+I'll believe in you every night
+Surrender my heart
+I wanna be open, I wanna be honest with you
+I'll believe in you every night (na-na-na, na-na-na-na)
+Every night (na-na-na, na-na-na-na)
+Every night (I'll believe in you every night)
+I'll believe in you every night (na-na-na, na-na-na-na)
+Every night (na-na-na, na-na-na-na)
+Every night (I'll believe in you every night)
+Surrender my heart
+(I'm out here in the open)
+I wanna get closer
+(I'll believe in you every night)
+Surrender my heart
+I wanna be open, I wanna be honest with you `;
+const joshuaTreeLyrics = `Running from the night
+I drove miles away to finally feel alone
+There's no morn in sight
+But the desert lights could lead the way back home
+I'm in the moment, living undercover
+Painting on each other
+All the colors, I can't get enough
+California dreaming's never what it seems
+But here it comes, I know what I must do now
+I need it (da-da, da-da-da)
+I feel it (da-da, da-da-da)
+I see it (da-da, da-da-da, da-da-da, da-da-da-da)
+I know it (da-da, da-da-da)
+I own it (da-da, da-da-da)
+I show it (da-da, da-da-da, da-da-da, da-da-da-da)
+Give me paradise
+I'll eclipse the stars and fall like once before
+I'm like Aphrodite
+And it's fine to only know the things I know
+I'm in the moment, living undercover
+Painting on each other
+All the colors, I can't get enough
+California dreaming's never what it seems
+But here it comes, I know what I must do now
+I need it (da-da, da-da-da)
+I feel it (da-da, da-da-da)
+I see it (da-da, da-da-da, da-da-da, da-da-da-da)
+I know it (da-da, da-da-da)
+I own it (da-da, da-da-da)
+I show it (da-da, da-da-da, da-da-da, da-da-da-da)
+I'm feeling dramatic
+I like the moon and the magic of this
+Oh, I, Oh, I, I-
+I'm feeling dramatic
+I like the moon and the magic of this
+Oh, I, Oh, I, I- `;
+const talkingToYourselfLyrics = `I was always invisible
+Consequences are difficult to face
+Could've been something beautiful, mmm
+But you made it impossible to stay
+So tell me what you got on your mind
+What you got on your mind?
+What you got on your mind?
+Am I keeping you up at night?
+Keeping you up at night?
+I'll never let you be, no
+Are you thinking of me when you're with somebody else?
+Do you talk to me when you're talking to yourself?
+Are you reaching for me making love to someone else?
+Do you talk to me (to me)
+When you're talking to yourself, self?
+When you're talking to your
+Talk to me (to me)
+When you're talking to yourself
+You were never just miserable
+Without taking me with you all the way
+Don't it hit you subliminal?
+Now that I'm not the only one who's taking the blame?
+So tell me, what you got on your mind?
+What you got on your mind?
+What you got on your mind?
+Am I keeping you up at night?
+Keeping you up at night?
+I'll never let you be, no
+Are you thinking of me when you're with somebody else?
+Do you talk to me when you're talking to yourself?
+Are you reaching for me making love to someone else?
+Do you talk to me (to me)
+When you're talking to yourself, self?
+When you're talking to your
+Talk to me (to me)
+When you're talking to your
+Are you thinking of me?
+Does it kill you that you're thinking of me?
+Are you thinking of me when you're with somebody else?
+Do you talk to me when you're talking to yourself?
+Are you reaching for me, making love to someone else?
+Do you talk to me (to me)
+When you're talking to yourself, self?
+When you're talking to your
+Talk to me (to me)
+When you're talking to yourself, self
+When you're talking to your
+Talk to me (to me)
+When you're talking to yourself `;
+const farAwayLyrics = `I'd give this love a second try
+First, I just imagined all your qualities and that's my fault
+But if you could put my feet back on the ground
+We could try to introduce ourselves
+I'd like to get to know you
+Let me kiss all of these tears comin' down
+I heard a night bird singin', oh-oh-oh, oh-oh-oh
+Your face is calmin' me down
+Maybe I'll just stop thinkin', oh-oh-oh, oh-oh-oh
+Just tell me you need me side by side
+The sweetest words of my whole life
+Oh, baby, not far away, not far away
+From that conversation (that conversation)
+Just tell me you need me side by side
+The sweetest words of my whole life
+Oh, baby, not far away, not far away
+From that conversation (that conversation)
+Tryin' not to talk first 'cause words don't mean authority
+And you look powerful just standin' tall in front of me
+But if you could put my feet back on the ground
+We could try to introduce ourselves
+I'd like to get to know you
+Let me kiss all of these tears comin' down
+I heard a night bird singin'
+The sweetest words of my whole life
+Oh, baby, not far away, not far away
+From that conversation (that conversation)
+Just tell me you need me side by side
+The sweetest words of my whole life
+Oh, baby, not far away, not far away
+From that conversation (that conversation)
+A night bird singin'
+Oh-whoa
+Just tell me you need me side by side
+The sweetest words of my whole life
+Oh, baby, not far away, not far away
+From that conversation (that conversation)
+Just tell me you need me side by side
+The sweetest words of my whole life
+Oh, baby, not far away, not far away
+From that conversation (that conversation) `;
+const sidewaysLyrics = `Smudged red lipstick on you
+I'm so satisfied
+We spilled that coffee cup
+On my couch a thousand times
+Oh, now I smile at strangers
+I'm that annoying type
+Who don't care if there's traffic
+'Cause I've got plans tonight, oh
+Later we'll meet at your place
+Later we'll be together (ah)
+Ever since you said that you were mine
+Everything's going my way
+And I like to get my way
+Even when things go sideways
+Raining on my parade
+I get all my confidence from you
+I get all my confidence from you
+Hmm
+One more cute disaster
+Said, "I love you" twice
+Before you could even answer
+It's hard here in paradise
+I'm living to look at your face
+Living it up together (ah)
+Ever since you said that you were mine
+Everything's going my way
+And I like to get my way
+Even when things go sideways
+Raining on my parade
+I get all my confidence from you
+I get all my confidence from you
+Hmm
+Ever since you said `;
+const beachHouseLyrics = `Boy number one made a picnic for two
+Saw he was nervous, I thought it was cute
+Until I found out that his mom made the food (it was good though)
+Boy number two had a beautiful face
+Highly agreed to go back to his place
+His wife really had some impeccable taste (she was sweet though)
+I've been on this ride
+This rollercoaster's a carousel
+And I'm getting nowhere
+Boys around the world
+I want to believe that when you chase a girl
+It's not just hunting season
+I can see the future, say it like you mean it
+I've got a beach house in Malibu
+And I'm probably gonna hurt your feelings
+I'm probably gonna hurt your feelings
+I'm probably gonna hurt your
+Boy number twelve had a look in his eye
+Brought up his ex and he started to cry
+Told me he loved me the very first night (oh, no)
+Who knows what I'm in for with
+Boy number I can't keep count any more
+I've been on this ride
+This rollercoaster's a carousel
+And I'm getting nowhere
+Boys around the world
+I want to believe that when you chase a girl
+It's not just hunting season
+I can see the future, say it like you mean it
+I've got a beach house in Malibu
+And I'm probably gonna hurt your feelings
+I'm probably gonna hurt your
+I've got a weekend in paradise
+And I'm probably gonna never call you
+I'm probably gonna hurt your
+I got big plans to take care of you
+I just need to borrow ten thousand dollars
+I'm probably gonna hurt your
+I've got a lake house in Canada
+And I'm probably gonna harvest your organs
+I'm probably gonna hurt your
+I've got a beach house in Malibu
+And I'm probably gonna hurt your feelings
+Boys around the world
+I want to believe that when you chase a girl
+It's not just hunting season
+I can see the future, say it like you mean it
+I've got a beach house in Malibu
+And I'm probably gonna hurt your feelings `;
+const bendsLyrics = `Sunshine, somewhere in Mexico
+Long day, I didn't feel so good
+Lonely, am I being sensitive?
+Blue eyes, you were the sensitive one
+Just say this isn't happening
+Do do, do do do do do do
+It's too late for that flight
+To see you, how can this be life?
+How can this be life?
+I can feel the sun on you
+Warm me up the way you do
+After all the clouds have dried
+Here's a jar of tears I've cried
+Keep it in a sacred place
+Hold me in your humble grace
+'Cause I can feel the darkness sometimes too
+Moonlight, stars in the water glow
+Swim out, baptize me indigo
+Just me and all of my cousins know
+Blue eyes, we are the sensitive ones
+Tell me this isn't happening (this isn't happening)
+Do do, do do do do do do
+In tree forts I'll see you
+True wild one, where are you tonight?
+Where are you tonight?
+Where's your home tonight?
+How can this be life?
+And I can feel the sun on you
+Warm me up the way you do (warm me up the way you do)
+After all the clouds have dried
+Here's a jar of tears I've cried
+Oh, keep it in a sacred place
+Hold me in your humble grace
+'Cause I can feel the darkness sometimes too
+But I can feel the sun on you `;
+const westernWindLyrics = `California, it crossed my mind
+Once we were pressed into the
+Love, we were pressed into the breeze up on the mountain
+I was by your side
+Do you remember a conversation
+With our heads against the pillow?
+Dust my shoes before I enter through your doorstep
+I was on your side
+Comin' in like a western wind
+Do you feel home from all directions?
+First bloom, you know it's spring
+Remindin' me, love, that it's all connected
+(What is love?)
+Comin' in like a western wind
+A jubilation, a celebration
+Take me back into your corner
+To the center of the room
+We made a dancefloor
+I was charmed to let go
+Comin' in like a western wind
+Do you feel home from all directions?
+First bloom, you know it's spring
+Remindin' me, love, that it's all connected
+(What is love?)
+Comin' in like a western wind
+But could you give me peace of mind?
+If I return to you in time, my golden arrow, mmm
+Ooh, ooh, ooh, ooh
+Ooh, ooh, ooh, ooh
+Comin' in like a western wind
+Do you feel home from all directions?
+First bloom, you know it's spring
+Remindin' me, love, that it's all connected
+(What is love?)
+Comin' in like a western wind
+Comin' in like a western wind
+Do you feel home from all directions?
+First bloom, you know it's spring
+Remindin' me, love, that it's all connected
+(What is love?)
+Comin' in like a western wind
+Comin' in like a western wind
+Do you feel home from all directions?
+First bloom, you know it's spring
+Remindin' me, love, that it's all connected
+(What is love?)
+Comin' in like a western wind `;
+const soNiceLyrics = `La, la, la, la-la
+La, la, la, la-la
+La, la, la, la-la
+La, la, la, la-la
+So nice, how refreshing
+You crush all the competition
+You can ask me if I'm busy tonight
+I could be free for you and me
+And maybe we can go for a drive
+So light, keep it easy
+'Cause I'm kinda independent
+But I really need to stay on your mind
+No other guy can help me fly
+And hold me down at the same time
+So nice
+Incredibly honest
+Polite
+So nice, all night
+He's right to me
+It's turning me on that
+He's the kind of superstar
+That would only steal your heart
+So nice
+La, la, la, la-la
+La, la, la, la-la (la, la, la, la)
+La, la, la, la-la (all of the reasons I know)
+La, la, la, la-la
+I'm back in the middle of what could be complicated
+But it's different, yeah, it's easy this time
+Communicate, don't make me wait
+And say whatever comes to your mind (I love you)
+So nice
+Incredibly honest
+Polite (polite)
+So nice, all night
+He's right to me
+It's turning me on that
+He's the kind of superstar
+That would only steal your heart
+So nice
+La, la, la, la-la
+La, la, la, la-la (la, la, la, la)
+La, la, la, la-la (give me all of the reasons)
+La, la, la, la-la (all of the reasons)
+(So ni-ni-ni)
+He's my cup of tea
+Sugar on my street
+Hope he never leaves
+I hope he never leaves me
+'Cause he's all of the reasons I know
+Give me all of the reasons
+Apple of my eye
+He took me by surprise
+He swept me off my feet
+I hope he never leaves me
+'Cause he's all of the reasons I know
+Give me all of the reasons `;
+const badThingTwiceLyrics = `I don't remember, I don't remember you
+I try not to go there
+I need a spotless mind
+I was born in November
+You were born in a different moon
+The push and the pull there
+What do you want this time?
+Cross the rivers of my mind
+You're my little rock skipper, skipper, skipper, skipper
+Every time I close my eyes
+You're my little heart hiccup, give it up, give it up, yeah
+Is it my, is it my destiny?
+I wanna do a bad thing twice
+A critical, critical test to me
+I wanna do a bad thing twice
+Can't stop feelin' the rain before the thunder
+I thought it through and I wanna do a bad thing twice
+Is it my, is it my destiny?
+I wanna do a bad thing twice
+You were the king, and I was a soldier, babe
+I fought for your attention
+Fought for your lonely eyes
+I had a vision I had to run away, hmm
+Let's play this thing over
+I wanna go back in time
+Cross the rivers of my mind
+You're my little rock skipper, skipper, skipper, skipper
+Every time I close my eyes
+You're my little heart hiccup, give it up, give it up, yeah
+Is it my, is it my destiny?
+I wanna do a bad thing twice
+A critical, critical test to me
+I wanna do a bad thing twice
+Can't stop feelin' the rain before the thunder
+I thought it through and I wanna do a bad thing twice
+Is it my, is it my destiny?
+I wanna do a bad thing twice
+Caught that fever, I shouldn't be here
+Only got me to blame (only got me to blame)
+Caught that fever, I shouldn't be here (only, only)
+Only got me to blame (only got me to blame)
+Caught that fever, I shouldn't be here
+Only got me to blame
+Caught that fever, I shouldn't be here
+Only got me to blame `;
+const shootingStarLyrics = `I might sleep with you tonight
+If you wanna know why
+Just because summertime and you look fine
+Press my back against the door
+Of the refrigerator when the heatwave comes
+Ice can't melt how hot we felt
+But I still believe in my New York City
+Lots to do and the boys so pretty
+Can't believe I've been gone so long
+We can turn it on
+Just sweat all my fears away
+Dancing through the dark
+Saw your angel face
+Caught my shooting star
+I got you now, I'm a Scorpio
+It's physical, it's natural
+My spiritual, my animal
+Caught my shooting star
+I got you now, I'm a Scorpio
+It's physical, it's natural
+My spiritual, my animal
+Caught my shooting star
+I believe there's a true connection
+With you and me
+So I might sleep with you tonight
+If you wanna know why, just because
+I still believe in my New York City
+We could turn it on
+Just sweat all my fears away
+Dancing through the dark
+Saw your angel face
+Caught my shooting star
+I got you now, I'm a Scorpio
+It's physical, it's natural
+My spiritual, my animal
+Caught my shooting star
+I got you now, I'm a Scorpio
+It's physical, it's natural
+My spiritual, my animal
+Caught my shooting star
+Last chance, you turn to me
+I'd like to let, let you get, get to know me
+Romance, walk down the street
+I'd like to let, let you get, get to know me
+Do you wanna? Do you wanna?
+Do you wanna? Do you wanna?
+Do you wanna? Do you wanna?
+We could turn it on
+Just sweat all my fears away
+Dancing through the dark
+Saw your angel face
+Caught my shooting star
+I got you now, I'm a Scorpio
+It's physical, it's natural
+My spiritual, my animal
+Caught my shooting star
+I got you now, I'm a Scorpio
+It's physical, it's natural
+My spiritual, my animal
+Caught my shooting star
+Somebody told me that the night's done
+If I play the right song, we could keep the lights on, baby
+(Caught my shooting star)
+Somebody told me there's a full moon
+If I play the right tune, would you give me all you, baby?
+(Caught my shooting star) `;
+const goFindYourselfOrWhateverLyrics = `Tell me that your mind's been changin'
+I'll tell you that I'm no good at goodbyes
+I could cut a thousand roses
+Show you that I'm all torn up inside
+You feel safe in sorrow
+You feel safe on an open road
+Go find yourself or whatever
+And I wake up alone, you made me vulnerable
+So go find yourself or whatever
+I hope it treats you better than I could do
+And I'll wait for you
+Tell me that we'll meet up someday
+I'll tell you that I'm no good at tellin' lies
+Maybe when my heart's done breakin'
+Then I could forgive what you've tried
+You feel safe in sorrow
+You feel safe on an open road
+Go find yourself or whatever
+And I wake up alone, you made me vulnerable
+So go find yourself or whatever
+I hope it treats you better than I could do
+And I'll wait for you
+You could spend your whole life searchin'
+And I could spend the whole day just gettin' by
+But every time the red moon rises
+I'll stay up and I'll keep some up inside
+You feel safe in sorrow
+You feel safe on an open road
+Go find yourself or whatever
+And I wake up alone, you made me vulnerable
+So go find yourself or whatever
+I hope it treats you better than I could do
+And I'll wait for you `;
+const theLoneliestTimeLyrics = `I've had one of those bad dreams
+Where we're standing on your street
+I quit smoking those cigarettes
+But I'm never getting over it
+And you're looking right through me
+Just like Shakespeare wrote a tragedy
+'Bout our story never finished it
+'Cause our love we never finished it
+I'm coming over tonight
+Knock on your door just like before
+I need that look in your eyes (look in your eyes)
+'Cause we've had the loneliest time (loneliest time)
+I'm thinking all through the night (all through the night)
+I could be yours just like before
+Rewrite another try
+'Cause we've had the loneliest time
+If you wanna try it, if you wanna try me
+If you wanna try, love, if you leave the light on for me
+If you wanna try it, if you wanna try it
+If you wanna try, love
+I've had more of those bad dreams
+You were ten feet in front of me
+I went running but I couldn't catch
+Just the shadow of your silhouette
+Then you spoke the words to me
+When you left, I still need to unpack it
+Let's save sorry for another night
+'Cause this time, love, we're gonna get it right
+I'm coming over tonight (over tonight)
+Knock on your door just like before
+I need that look in your eyes (look in your eyes)
+'Cause we've had the loneliest time (loneliest time)
+I'm thinking all through the night (all through the night)
+I could be yours just like before
+Rewrite another try
+'Cause we've had the loneliest time
+If you wanna try, love (If you wanna try me)
+(If you wanna try, love)
+If you wanna try me (If you leave the light on for me)
+(If you wanna try it)
+If you leave the light on for me (If you wanna try it)
+I just need back into (If you wanna try, love)
+I just need back into your life (If you leave the light on for me)
+What happened was
+We reached the moon
+But lost in space, I think we got there all too soon
+But you know what
+I'm coming back for you, baby
+I'm coming back for you
+And in the morning
+Sun hits the water
+Is this nirvana?
+And in the morning
+Sun hits the water
+Is this nirvana?
+And in the morning
+Sun hits the water
+Is this nirvana? `;
+const anxiousLyrics = `I thought love would keep me satisfied
+But you know, but you know
+I want more than what they advertised
+And you're so rational
+But you didn't even notice (even notice)
+I was hoping you would open up (open up)
+Ooh, boy, you've got a reputation
+I get anxious 'cause I need a little headroom (head room)
+Slow it down (slow it down) baby, could we move it to the bedroom?
+Ooh, boy you've got a reputation
+I get anxious, could we move it to the bedroom?
+I should cool it off, I know you're tired
+But you know (but you know), but you know (but you know)
+But I never take my own advice
+And you're so rational
+But you didn't even notice (even notice)
+I was jealous of your company
+Ooh, boy, you've got a reputation
+I get anxious 'cause I need a little headroom (I need a little headroom)
+Slow it down (slow it down) baby, could we move it to the bedroom?
+Ooh, boy you've got a reputation
+I get anxious, could we move it to the bedroom?
+Ooh, boy, you got a reputation `;
+const noThinkingOverTheWeekendLyrics = `I was looking for you on the beach
+When it's good, was it always out of reach?
+In the hotel, someone sent me flowers
+Getting dressed now, meet you in an hour
+Lavender sunset, ocean air
+Feeling it, stealing kisses from your neck
+Summer haze, the nights are getting hotter
+Wake me up when you're ready for the water
+Do you think about star signs?
+'Cause I think I saw Jupiter
+Dive into the black sky
+No thinking over the weekend (our lips have no secrets)
+No thinking over the weekend (this love has no limits)
+I'm in this beautiful dreamin' (dreamin', dreamin', dreamin')
+No thinking (thinking, thinking, thinking)
+Holiday, take the train off the track
+The windows were closed, so we kick the door open
+Everyone waved at us
+Do you think about star signs?
+'Cause I think I saw Jupiter
+Dive into the black sky
+No thinking over the weekend (our lips have no secrets)
+No thinking over the weekend (this love has no limits)
+I'm in this beautiful dreamin' (dreamin', dreamin', dreamin')
+No thinking (thinking, thinking, thinking)
+I'm in this beautiful dreamin' (dreamin', dreamin', dreamin')
+No thinking (thinking, thinking, thinking)
+Tried but I couldn't get away (tried but I couldn't get away with it)
+Tried but I couldn't get away (tried but I couldn't get away with it)
+No thinking over the weekend, no thinking over the weekend
+I'm in this beautiful dreamin' (this love has no limits)
+No thinking (this love has no limits) `;
+const keepAwayLyrics = `Hands touch all night, I remember
+I stayed behind and you were tender
+In my whole life, I wish I never knew this kind of love
+I'm keeping company
+Company with all the friends I got from you
+It's not easy, you said, I think you're onto me
+Hard to keep it cool, I know you want me too
+I, I'm trying to keep away from you
+Gonna need some land between our bodies though
+I'm trying to keep away from you
+I, can't control the things I do
+God, I miss your hands over my body though
+I'm trying to keep away from you
+Think of this time, it's now or never
+You've made your mind up and I surrender
+My heart was blind, I wish I never knew this kind of love
+I'm keeping company
+Company with all the friends I got from you
+It's not easy, you said, I think you're onto me
+It's hard to keep it cool, I know you want me too
+It takes over my pain
+I, I'm trying to keep away from you
+We're gonna need some land between our bodies though
+I'm trying to keep away from you
+I, can't control the things I do
+God, I miss your hands over my body though
+I'm trying to keep away from you
+I'm trying keep away from you (keep away, away - keep away, away)
+(Keep away, away - keep away, away)
+I'm trying keep away from you (keep away, away - keep away, away)
+Just one word from you and I run out of reasons
+Waking up, making up for the last time
+Just one word from you and I'm all out of reasons
+Close the door, I've been yours for the longest time
+God, I miss your hands over my body (keep away, away - keep away, away)
+(Keep away, away - keep away, away)
+God, I miss your hands over my body (keep away, away - keep away, away)`;
+
 
 /* Merge all lyrics from all albums (string) into one master string */
 let lyricsBank = runAwayWithMeLyrics.concat(
@@ -3046,7 +3737,23 @@ let lyricsBank = runAwayWithMeLyrics.concat(
     soloLyrics,
     nowIDontHateCaliforniaAfterAllLyrics,
     letsBeFriendsLyrics,
-    alwaysOnMyMindLyrics
+    alwaysOnMyMindLyrics,
+    surrenderMyHeartLyrics,
+    joshuaTreeLyrics,
+    talkingToYourselfLyrics,
+    farAwayLyrics,
+    sidewaysLyrics,
+    beachHouseLyrics,
+    bendsLyrics,
+    westernWindLyrics,
+    soNiceLyrics,
+    badThingTwiceLyrics,
+    shootingStarLyrics,
+    goFindYourselfOrWhateverLyrics,
+    theLoneliestTimeLyrics,
+    anxiousLyrics,
+    noThinkingOverTheWeekendLyrics,
+    keepAwayLyrics
     );
     
 /* Use RegEx to seperate all the words into an array */
@@ -3146,6 +3853,23 @@ let getNowIDontHateCaliforniaAfterAllLyrics = document.getElementById("now-i-don
 let getLetsBeFriendsLyrics = document.getElementById("lets-be-friends").innerText = `LET'S BE FRIENDS \n \n ${letsBeFriendsLyrics} \n \n`;
 let getAlwaysOnMyMindLyrics = document.getElementById("always-on-my-mind").innerText = `ALWAYS ON MY MIND \n \n ${alwaysOnMyMindLyrics} \n \n`;
 
+/* THE LONELIEST TIME */
+let getSurrenderMyHeartLyrics = document.getElementById("surrender-my-heart").innerText = `SURRENDER MY HEART \n \n ${surrenderMyHeartLyrics} \n \n`;
+let getJoshuaTreeLyrics = document.getElementById("joshua-tree").innerText = `JOSHUA TREE \n \n ${joshuaTreeLyrics} \n \n`;
+let getTalkingToYourselfLyrics = document.getElementById("talking-to-yourself").innerText = `TALKING TO YOURSELF \n \n ${talkingToYourselfLyrics} \n \n`;
+let getFarAwayLyrics = document.getElementById("far-away").innerText = `FAR AWAY \n \n ${farAwayLyrics} \n \n`;
+let getSidewaysLyrics = document.getElementById("sideways").innerText = `SIDEWAYS \n \n ${sidewaysLyrics} \n \n`;
+let getBeachHouseLyrics = document.getElementById("beach-house").innerText = `BEACH HOUSE \n \n ${beachHouseLyrics} \n \n`;
+let getBendsLyrics = document.getElementById("bends").innerText = `BENDS \n \n ${bendsLyrics} \n \n`;
+let getWesternWindLyrics = document.getElementById("western-wind").innerText = `WESTERN WIND \n \n ${westernWindLyrics} \n \n`;
+let getSoNiceLyrics = document.getElementById("so-nice").innerText = `SO NICE \n \n ${soNiceLyrics} \n \n`;
+let getBadThingTwiceLyrics = document.getElementById("bad-thing-twice").innerText = `BAD THING TWICE \n \n ${badThingTwiceLyrics} \n \n`;
+let getShootingStarLyrics = document.getElementById("shooting-star").innerText = `SHOOTING STAR \n \n ${shootingStarLyrics} \n \n`;
+let getGoFindYourselfOrWhateverLyrics = document.getElementById("go-find-yourseld-or-whatever").innerText = `GO FIND YOURSELS OR WHATEVER \n \n ${goFindYourselfOrWhateverLyrics} \n \n`;
+let getTheLoneliestTimeLyrics = document.getElementById("the-loneliest-time").innerText = `THE LONELIEST TIME \n \n ${theLoneliestTimeLyrics} \n \n`;
+let getAnxiousLyrics = document.getElementById("anxious").innerText = `ANXIOUS \n \n ${anxiousLyrics} \n \n`;
+let getNoThinkingOverTheWeekendLyrics = document.getElementById("no-thinking-over-the-weekend").innerText = `NO THINKING OVER THE WEEKEND \n \n ${noThinkingOverTheWeekendLyrics} \n \n`;
+let getKeepAwayLyrics = document.getElementById("keep-away").innerText = `KEEP AWAY \n \n ${keepAwayLyrics} \n \n`
 
 /* Display Word Count on site */
 function makeTable(array) {

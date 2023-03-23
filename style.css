@@ -47,12 +47,13 @@ body {
   margin-inline: auto;
 }
 
+.album-kiss,
 .album-word-count,
 .album-emotion,
 .album-emotion-side-b-plus,
 .album-dedicated,
 .ablbum-dedicated-side-b,
-.footer {
+.album-the-loneliest-time {
   padding: max(2.5vh, 1rem);
   border: 2px solid hotpink;
   background-color: black;
