@@ -5220,7 +5220,7 @@ console.table(sortable);
 /* CURIOUSITY EP */
 let getCallMeMaybeCuriousityEpLyrics = document.getElementById("call-me-maybe-curiousity-ep").innerText = `CALL ME MAYBE \n \n ${callMeMaybeCuriousityEpLyrics} \n \n`;
 let getCuriousityCuriousityEpLyrics = document.getElementById("curiousity-curiousity-ep").innerText = `CURIOUSITY \n \n ${curiousityCuriousityEpLyrics} \n \n`;
-let getPictureCuriousityEpLyrics = document.getElementById("picture-curiousity-ep").innerText = `PICUTRE \n \n ${pictureCuriousityEpLyrics} \n \n`;
+let getPictureCuriousityEpLyrics = document.getElementById("picture-curiousity-ep").innerText = `PICTURE \n \n ${pictureCuriousityEpLyrics} \n \n`;
 let getTalkToMeCuriousityEpLyrics = document.getElementById("talk-to-me-curiousity-ep").innerText = `TALK TO ME \n \n ${talkToMeCuriousityEpLyrics} \n \n`;
 let getJustAStepAwayCuriousityEpLyrics = document.getElementById("just-a-step-away-curiousity-ep").innerText = `JUST A STEP AWAY \n \n ${justAStepAwayCuriousityEpLyrics} \n \n`;
 let getBothSideNowCuriousityEpLyrics = document.getElementById("both-side-now-curiousity-ep").innerText = `BOTH SIDE NOW \n \n ${bothSideNowCuriousityEpLyrics} \n \n`;
