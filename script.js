@@ -1,3 +1,354 @@
+/* Lyrics : CURIOUSITY EP */
+const callMeMaybeCuriousityEpLyrics = `I threw a wish in the well
+Don't ask me, I'll never tell
+I looked to you as it fell
+And now you're in my way
+I trade my soul for a wish
+Pennies and dimes for a kiss
+I wasn't looking for this
+But now you're in my way
+Your stare was holdin'
+Ripped jeans, skin was showin'
+Hot night, wind was blowin'
+Where you think you're going, baby?
+Hey, I just met you, and this is crazy
+But here's my number, so call me, maybe
+It's hard to look right at you, baby
+But here's my number, so call me, maybe
+Hey, I just met you, and this is crazy
+But here's my number, so call me, maybe
+And all the other boys try to chase me
+But here's my number, so call me, maybe
+You took your time with the call
+I took no time with the fall
+You gave me nothing at all
+But still, you're in my way
+I beg and borrow and steal
+At first sight, and it's real
+I didn't know I would feel it
+But it's in my way
+Your stare was holdin'
+Ripped jeans, skin was showin'
+Hot night, wind was blowin'
+Where you think you're going, baby?
+Hey, I just met you, and this is crazy
+But here's my number, so call me, maybe
+It's hard to look right at you, baby
+But here's my number, so call me, maybe
+Hey, I just met you, and this is crazy
+But here's my number, so call me, maybe
+And all the other boys try to chase me
+But here's my number, so call me, maybe
+Before you came into my life, I missed you so bad
+I missed you so bad, I missed you so, so bad
+Before you came into my life, I missed you so bad
+And you should know that
+I missed you so, so bad
+(Bad, bad, bad, bad, bad, bad)
+It's hard to look right at you, baby
+But here's my number, so call me, maybe
+Hey, I just met you, and this is crazy
+But here's my number, so call me, maybe
+And all the other boys try to chase me
+But here's my number, so call me, maybe
+Before you came into my life, I missed you so bad
+I missed you so bad, I missed you so, so bad
+Before you came into my life, I missed you so bad
+And you should know that
+So call me maybe `;
+const curiousityCuriousityEpLyrics = `Break a bone
+Got me on my knees
+You break my heart
+Just to watch it bleed
+I'm sick, with love
+Sick, like a disease
+Don't call me up
+Just so I can please you
+I can't stand the way you're smiling
+I can't stand the way I'm lying
+I know, I know, I know
+You've got the key
+And you know, you know, you know
+That it's for me
+It's not up to you, you know it's up to me, but
+Curiosity
+Will never let me go
+Oh-oh-oh-oh-oh
+Uh-oh-oh, oh-oh-oh-oh
+Will never let me go
+Oh-oh-oh-oh-oh
+Uh-oh-oh, oh-oh-oh-oh
+Look at me
+Left here in the corner
+Stupid girl, I really tried to warn her
+Walked the streets all night until you came around
+Knew that you would come before
+You ever even made a sound
+I know, I know, I know
+You've got the key
+And you know, you know, you know
+That it's for me
+It's not up to you, you know, it's up to me, but
+Curiosity
+Will never let me go
+Oh-oh-oh-oh-oh
+Uh-oh-oh, oh-oh-oh-oh
+Will never let me go
+Oh-oh-oh-oh-oh
+Uh-oh-oh
+Curiosity
+So don't break me tonight
+This is crazy love
+And you know I'm gonna follow you home
+Through the rain
+'Cause I need your love
+And you know I'm gonna follow you home
+'Cause I need your love
+And you know I'm gonna follow you
+I know, I know, I know
+You've got the key
+You know, you know, you know
+That it's for me
+Well
+I think that we should try it out to see, yeah
+Curiosity
+So don't break me tonight
+This is crazy love
+And you know I'm gonna follow you home
+Through the rain
+'Cause I need your love
+Yes, I need your love
+So don't break (don't break)
+Me tonight (me tonight)
+This is crazy love
+And you know I'm gonna follow you home
+Through the rain
+'Cause I need your love
+Yes, I need your love
+Will never let me go
+Oh-oh-oh-oh-oh
+Uh-oh-oh, oh-oh-oh-oh
+Will never let me go
+Oh-oh-oh-oh-oh
+Uh-oh-oh
+Curiosity
+Will never let me go
+Oh-oh-oh-oh-oh
+Uh-oh-oh, oh-oh-oh-oh
+Oh-oh-oh-oh-oh
+Uh-oh-oh, oh-oh-oh-oh
+Oh-oh-oh-oh-oh
+Oh-oh-oh `;
+const pictureCuriousityEpLyrics = `I could take a picture
+Of you and me together
+No one would believe me
+No one would believe me
+Say it in a whisper
+That, baby, it don't get much better
+Would I like to see you again?
+You name the day
+And I will pick the city
+We'll fly away
+Till then, call me when you miss me
+If you're asking if I'd really like to see you again
+I say ooh, just say when
+Tell me that you feel it
+This, you and me together
+No one would believe me
+Even I cannot believe it
+You kiss me like you mean it
+Oh, baby, it don't get much better
+Would I like to see you again?
+Oh, darling just say when
+You name the day
+And I will pick the city
+We'll fly away
+Till then, call me when you miss me
+If you're asking if I'd really like to see you again
+I say ooh, yeah, just say when
+Two different worlds
+I thought they'd keep us apart
+I'm ignoring my head
+Following my heart
+Oh, you pick the day, darling
+I will pick the city
+We'll fly away
+Till then, call me when you miss me
+I am willing to wait 'cuz I just gotta see you again
+So don't ask
+No, just say when
+You name the day
+And I will pick the city (yeah, just say when)
+We'll fly away
+Till then, call me when you miss me
+If you're asking if I'd really like to see you again
+I say ooh
+I could take a picture
+Of you and me together
+No one would believe me
+No one would believe me `;
+const talkToMeCuriousityEpLyrics = `Every morning
+As I go walking by
+I feel you looking
+That's why I take my time
+Oh oh yeah
+I can see what 'cha wanna do to me
+You can feel it something's gonna break
+Well I'm in if you're in
+Let's make a big mistake
+Talk to me, why won't you talk to me
+Can't you see I'm burning up
+When you look like that
+And I'm looking right back
+Why don't you talk to me
+Walk with me baby
+When he's singing his song
+Well all the young girls sigh
+And we'll be wearing those things
+That make a grown man cry
+Oh oh yeah yeah
+I can see what 'cha wanna do to me
+You can feel it something's gonna break
+Well, I'm in if you're in
+Let's make a big mistake
+Talk to me, why won't you talk to me
+Can't you see I'm burning up
+When you look like that
+And I'm looking right back
+Why don't you talk to me
+Walk with me baby
+Come on take me away
+I've been yours from the start
+Summer nights, Summer days
+I'll be your summer heart
+Come on take me away
+I've been yours from the start
+When it's love like that
+And you look like that
+Talk to me, why won't 'cha talk to me
+Can't you see I'm burning up
+When you look like that
+And I'm looking right back
+Why don't you talk to me, walk with me baby
+Come on take me away
+I've been yours from the start
+Summer nights, summer days
+I'll be your summer heart
+Come on take me away
+I've been yours from the start
+Talk to me, why won't you talk to me
+Can't you see I'm burning up
+When you look like that
+And I'm looking right back
+Why don't you talk to me talk to me
+Why won't 'cha talk to me `; 
+const justAStepAwayCuriousityEpLyrics = `In the space between the words
+In the silence of your eyes
+In the hands that know the touch
+It's the way I feel inside
+Here we are
+Dancing cross this floor together
+With every step I take I seem to want you more than ever
+You made me love you
+Look into my eyes
+I want to tell you
+I'll never let you down
+And I'll never go away
+And if you're ever feeling down
+I'm just a step away
+I'll never let you down
+And I'll never go away
+And if you're ever feeling down
+I'm just a step, just a step, just a step away
+It's the beating of your heart
+It's the tear I have to hide
+It's the sound of your guitar
+It's the way I feel inside
+Here we are
+Dancing cross this floor together
+With every step I take I seem to want you more than ever
+You made me love you
+Look into my eyes
+I want to tell you
+I'll never let you down
+And I'll never go away
+And if you're ever feeling down
+I'm just a step away
+I'll never let you down
+And I'll never go away
+And if you're ever feeling down
+I'm just a step, just a step, just a step away
+If you need a shoulder
+Or someone to hold you
+I'll keep my arms open wide
+I'll be the one who loves you
+I'll be right there by your side
+Here we are
+Dancing cross this floor together
+With every step I take I seem to want you more than ever
+You made me love you
+Look into my eyes
+I want to tell you
+I'll never let you down (I'll never let you down)
+And I'll never go away (And I'll never go away)
+And if you're ever feeling down (And if you're ever feeling down)
+I'm just a step away
+I'll never let you down
+And I'll never go away
+And if you're ever feeling down
+I'm just a step away
+I'll never let you down
+And I'll never go away
+And if you're ever feeling down
+I'm just a step, just a step, just a step away
+In the space between the words
+In the silence of your eyes
+In the hands that know the touch
+It's the way I feel inside `;
+const bothSideNowCuriousityEpLyrics = `Bows and flows of angel hair
+And ice cream castles in the air
+Feather canyons everywhere
+I've looked at clouds that way
+Now they only block the sun
+They rain and snow on everyone
+So many things I would have done
+But clouds got in my way
+I've looked at clouds from both sides now
+I've looked at clouds from both sides now
+From up and down and still somehow
+It's cloud's illusions I recall
+I really don't know clouds at all
+Moons, and Junes, and ferris wheels
+The dizzy, dancing way you feel
+When every fairy tale comes real
+I've looked at love that way
+Now it's just another show
+You leave 'em laughing when you go
+And if you care, don't let them know
+Don't give yourself away
+I've looked at love from both sides now
+From give and take and still somehow
+It's love's illusions I recall
+I really don't know love at all
+Tears and fears and feeling proud
+To say I love you right out loud
+Dreams and schemes and circus crowds
+I've looked at life that way
+But now old friends are acting strange
+They shake their heads
+They say I've changed
+Well, something's lost and something's gained in living every day
+I've looked at life from both sides now
+I've looked at life from both sides now
+From win and lose and still somehow
+It's life's illusions I recall
+I really don't know life
+I've looked at clouds from both sides now
+From up and down and still somehow
+It's cloud's illusions I recall
+I really don't know clouds at all
+I really don't know life at all`;
+
 /* Lyrics : KISS */
 const tinyLittleBowsLyrics = `Cupid, draw back your bow
 New York
@@ -4736,7 +5087,11 @@ God, I miss your hands over my body (keep away, away - keep away, away)`;
 
 
 /* Merge all lyrics from all albums (string) into one master string */
-let lyricsBank = tinyLittleBowsLyrics.concat(
+let lyricsBank = pictureCuriousityEpLyrics.concat(
+    talkToMeCuriousityEpLyrics,
+    justAStepAwayCuriousityEpLyrics,
+    bothSideNowCuriousityEpLyrics,
+    tinyLittleBowsLyrics,
     thisKissLyrics,
     callMeMaybeLyrics,
     curiousityLyrics,
@@ -4862,13 +5217,33 @@ console.table(sortable);
 
 /* Display Lyrics on site*/
 
+/* CURIOUSITY EP */
+let getCallMeMaybeCuriousityEpLyrics = document.getElementById("call-me-maybe-curiousity-ep").innerText = `CALL ME MAYBE \n \n ${callMeMaybeCuriousityEpLyrics} \n \n`;
+let getCuriousityCuriousityEpLyrics = document.getElementById("curiousity-curiousity-ep").innerText = `CURIOUSITY \n \n ${curiousityCuriousityEpLyrics} \n \n`;
+let getPictureCuriousityEpLyrics = document.getElementById("picture-curiousity-ep").innerText = `PICUTRE '\n \n ${pictureCuriousityEpLyrics} \n \n`;
+let getTalkToMeCuriousityEpLyrics = document.getElementById("talk-to-me-curiousity-ep").innerText = `TALK TO ME \n \n ${talkToMeCuriousityEpLyrics} \n \n`;
+let getJustAStepAwayCuriousityEpLyrics = document.getElementById("just-a-step-away-curiousity-ep").innerText = `JUST A STEP AWAY \n \n ${justAStepAwayCuriousityEpLyrics} \n \n`;
+let getBothSideNowCuriousityEpLyrics = document.getElementById("both-side-now-curiousity-ep").innerText = `BOTH SIDE NOW \n \n ${bothSideNowCuriousityEpLyrics} \n \n`;
+
 /* KISS */
 let getTinyLittleBowsLyrics = document.getElementById("tiny-little-bows").innerText = `TINY LITTLE BOWS \n \n ${tinyLittleBowsLyrics} \n \n`;
 let getThisKissLyrics = document.getElementById("this-kiss").innerText = `THIS KISS \n \n ${thisKissLyrics} \n \n`;
 let getCallMeMaybeLyrics = document.getElementById("call-me-maybe").innerText = `CALL ME MAYBE \n \n ${callMeMaybeLyrics} \n \n`;
 let getCuriousityLyrics = document.getElementById("curiousity").innerText = `CURIOUSITY \n \n ${curiousityLyrics} \n \n`;
 let getGoodTimeLyrics = document.getElementById("good-time").innerText = `GOOD TIME \n \n ${goodTimeLyrics} \n \n`;
-let getMoreThanAMemoryLyrics = document.getElementById("more-than-a-memory").innerText = `MORE THAN A MEMORY \n \n ${moreThanAMemoryLyrics}`;
+let getMoreThanAMemoryLyrics = document.getElementById("more-than-a-memory").innerText = `MORE THAN A MEMORY \n \n ${moreThanAMemoryLyrics} \n \n`;
+let getTurnMeUpLyrics = document.getElementById("turn-me-up").innerText = `TURN ME UP \n \n ${turnMeUpLyrics} \n \n`;
+let getHurtSoGoodLyrics = document.getElementById("hurt-so-good").innerText = `HURT SO GOOD \n \n ${hurtSoGoodLyrics} \n \n`;
+let getBeautifulLyrics = document.getElementById("beautiful").innerText = `BEAUTIFUL \n \n ${beautifulLyrics} \n \n`;
+let getTonightImGettingOverYouLyrics = document.getElementById("tonight-im-getting-over-you").innerText = `TONIGHT I'M GETTING OVER YOU \n \n ${tonightImGettingOverYouLyrics} \n \n`;
+let getGuitarStringWeddingRingLyrics = document.getElementById("guitar-string-wedding-ring").innerText = `GUITAR STRING / WEDDING RING \n \n ${guitarStringWeddingRingLyrics} \n \n`;
+let getYourHeartIsAMuscleLyrics = document.getElementById("your-heart-is-a-muscle").innerText = `YOUR HEART IS A MUSCLE \n \n ${yourHeartIsAMuscleLyrics} \n \n`;
+let getDriveLyrics = document.getElementById("drive").innerText = `DRIVE \n \n ${driveLyrics} \n \n`;
+let getWrongFeelsSoRightLyrics = document.getElementById("wrong-feels-so-right").innerText = `WRONG FEELS SO RIGHT \n \n ${wrongFeelsSoRightLyrics} \n \n`;
+let getSweetieLyrics = document.getElementById("sweetie").innerText = `SWEETIE \n \n ${sweetieLyrics} \n \n`;
+let getIKnowYouHaveAGirlfriendLyrics = document.getElementById("i-know-you-have-a-girlfriend").innerText = `I KNOW YOU HAVE A GIRLFRIEND \n \n ${iKnowYouHaveAGirlfriendLyrics} \n \n`;
+let getAlmostSaidItLyrics = document.getElementById("almost-said-it").innerText = `ALMOST SAID IT \n \n ${almostSaidItLyrics} \n \n`;
+let getMeltWithYouLyrics = document.getElementById("melt-with-you").innerText = `MELT WITH YOU \n \n ${meltWithYouLyrics} \n \n`;
 
 /* E.MO.TION */
 let getRunAwayWithMeLyrics = document.getElementById("run-away-with-me").innerText = `RUN AWAY WITH ME \n \n ${runAwayWithMeLyrics} \n \n`;
