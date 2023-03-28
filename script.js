@@ -1,3 +1,398 @@
+/* Lyrics : Tug Of War */
+const bucketLyrics = `Suns out we got a beach day
+Forget yourself say why don't we people watch?
+Kids are playin' 'round in the sand
+Oh no, he's got some troubles
+Got us laughing as he throws his shovel
+Nothings really going as planned
+I don't know how we're going to build a castle now
+Do you want to start again somehow?
+I'll stay until the sun comes down, down down
+Look over my shoulder
+See your laughter bubble over
+Lately you've been working too hard
+And I've been waiting to recognize
+That sparkle that's in your eye
+Those two dimples on your cheeks
+The joy that lights the fire
+I don't know how we're going to build a castle now
+Do you want to start again somehow?
+I'll stay until the sun comes down, down down
+There's a hole in my bucket,
+Dear Liza, Dear Liza
+There's a hole in my bucket,
+Dear Liza, a hole
+And I don't know how we're supposed to build a castle now
+Do you want to start again somehow?
+I'll stay until the sun comes down, down, down
+I'll stay until the sun comes
+I don't know how we're gonna build a castle now
+Do you want to start again somehow?
+I'll stay until the sun comes down, down down
+'till the sun comes down
+Sun's coming down, I'll stay
+(Sun's down, here come the waves, and there goes the carousel)
+Sun's coming down, I'll stay
+(Sun's down, here come the waves, and there goes the carousel)
+Sun's coming down, I'll stay
+(Sun's down, here come the waves, and there goes the carousel) `;
+const tugOfWarLyrics = `You seem too good
+Too good to be true
+You're holding me stronger
+Stronger than I'm used to
+Don't go out with the boys tonight
+I won't sleep a wink
+Wondering what you're doing
+Don't go out with the girls tonight
+I will turn to drink
+Wondering who you're screwing
+Tug of War
+Sweet as sin
+I let go
+I fell in
+Feel the pull
+Call your name
+I'm alone
+Once again
+You seem too
+You seem too good
+Too good to be true
+You're holding me stronger
+Stronger than I'm used to
+Don't go out with the boys tonight
+I won't sleep a wink
+Wondering what you're doing
+Don't go out with the girls tonight
+I will turn to drink
+Wondering who you're screwing
+Tug of war (don't go out with the boys tonight)
+Sweet as sin (you seem too good)
+I let go
+I fell in (too good to be true)
+Feel the pull (don't go out with the girls tonight)
+Call your name (I'm loving you longer)
+I'm alone (I will turn to drink)
+Once again (longer than I'm used to)
+Tug of war (don't go out with the boys tonight)
+Sweet as sin (you seem too good)
+I let go
+I fell in (too good to be true)
+Feel the pull (don't go out with the girls tonight)
+Call your name (I'm loving you longer)
+I'm alone (I will turn to drink)
+Once again (longer than I'm used to)
+Tug of war
+Feel the pull
+Tug of war
+Feel the pull `;
+const moneyAndTheEgoLyrics = `Make my house of bricks
+And I'll stick here when the world
+Comes crashing down around me
+Make your arms a willow tree
+And you can bend with me
+Anywhere I'm going
+Sometimes it's hard to see
+Anything lovely
+All the people around me
+Going for the money and the money
+And the ego
+How can you ask me why
+I need to know before I try?
+I've got to be sure there's more
+Than the money and the money
+And the ego
+Keep your eyes on me
+And I'll look to you so I can see
+What I am here for
+Pull the wool over my eyes
+Please kiss this day goodbye
+Only you can get me going
+Sometimes it's hard to see
+Anything lovely
+All the people around me
+Going for the money and the money
+And the ego
+How can you ask me why
+I need to know before I try?
+I've got to be sure there's more
+Than the money and the money
+And the ego
+When giving up is all you got
+And giving up is all you want
+You hear yourself say you lost the will
+The power
+When giving up is all you got
+And giving up is all you want
+Don't be afraid to sit down
+In your shower
+You can stay in there for hours
+Make my house of bricks
+And I'll stick here when the world
+Comes crashing down around me
+Sometimes it's hard to see
+Anything lovely
+All the people around me
+Going for the money and the money
+And the ego
+How can you ask me why
+I need to know before I try?
+I've got to be sure there's more
+Than the money and the money
+And the ego `;
+const tellMeLyrics = `Tell me
+Baby is it yes or no
+You've got a face that just don't show
+What's going on inside
+Tell me
+I swear I'll take it on the chin
+Don't sugar-coat where I fit in
+Whats going on
+Inside you there's a room
+A room with a door
+I finally come knocking
+And I've been here before
+Oh I've got this love for you
+But what is if for
+If you can't hear me then
+Tell me
+Last chance
+Hold me in your arms and say
+If you want this love to walk away
+Tell me and I'll say goodbye
+Inside you there's a room
+A room with a door
+I finally come knocking
+And I've been here before
+Oh I've got this love for you
+But what is if for
+If you can hear me then
+I'll make it easy, I'm counting to three
+Am I something you want or someone you need?
+baby
+(Tell me that you want me, tell me that you love me)
+Just tell me that you want me, tell me that you love me
+(Tell me that you want me, tell me that you love me)
+Tell me, darling won't you tell me
+I'm begging you to tell me
+Tell me and I'll say goodbye`;
+const heavyLiftingLyrics = `You undo me
+I'm a happy mess
+My dress slips to the floor
+And I pose, what an amateur
+To be like this! "exposed"
+You deny the other side of me
+That strips good love away
+And you kissed my mirror reflection
+When I looked at me today
+When you look at me the way you do
+My fingers tingle
+I can't breathe until we're skin on skin
+When you look at me the way you do
+My life moves in perfect motion
+You're doing all the heavy lifting
+Worlds collide
+I see a side of you
+I never saw before
+We can work it out, let's talk it out
+I want to know you more
+Just decided
+That I'd like to side with you
+Oh every time
+When you ask me how I'm feeling now
+You know I'm feeling fine
+When you look at me the way you do
+My fingers tingle
+I can't breathe until we're skin on skin
+When you look at me the way you do
+My life moves in perfect motion
+You're doing all the heavy lifting
+Oh, look at me the way you do
+Look at me the way you do
+Look at me the way you do
+Oh, look at me the way you do
+Look at me the way you do
+Look at me, look at me the way you do
+When you look at me the way you do
+My fingers tingle
+I can't breathe until we're skin on skin
+When you look at me the way you do
+My life moves in perfect motion
+You're doing all the heavy lifting
+Oh, look at me the way you do
+Look at me the way you do
+Look at me, look at me the way you do
+Oh, look at me the way you do
+Look at me the way you do
+Look at me the way you do
+When you look at me the way you do `;
+const sunshineOnMyShouldersLyrics = `Sunshine on my shoulders makes me happy
+Sunshine in my eyes can make me cry
+Sunshine on the water that is so lovely
+Sunshine almost always makes me high
+If I had a day that I could give you
+I would give a day sure to make you smile
+Sunshine on my shoulders makes me happy
+Sunshine almost makes me high
+If I had a day that I could give you
+I would give to you a day just like today
+Ah, and if I had a song that I could sing for you
+I would sing a song to make you feel this way, ooh
+Sunshine, ooh, sunshine
+La, la, la, la, la, la, la, la, la
+La, la, la, la
+La, la, la, la, la, la, la, la, la
+La, la, la, la
+Sunshine on my shoulders makes me happy
+Sunshine almost always makes me high
+Sunshine on my shoulders makes me happy
+Sunshine almost always makes me high `;
+const worldlyMattersLyrics = `Hot pink skies, twilight of the day
+I think that I've been going bout this the wrong way
+Kids on my street got it right man,
+Barefoot hide and seek
+My best friend she lives up the road
+Haven't talked to her in weeks
+Oh time don't blind me, I am so sorry
+I've been swept up in my own concerns
+And the worldly matters, they just don't matter at all
+No, not at all
+I keep on walking I stop
+Ditching all my plans
+I want to climb that cedar tree and leave me in good hands
+What happened to me on the way to something higher
+What will be left when I have all that I desire?
+Oh time don't blind me, I am so sorry
+I've been swept up in my own concerns
+And the worldly matters, they just don't matter at all
+No, not at all
+No, not at all `;
+const sweetTalkerLyrics = `I can see
+Sweet talk
+I'm not gonna stop you
+You talk so sweet
+Man, it's dribbling like honey
+It's just one taste
+I see what you're tryna do
+Oh-oh, yeah-yeah
+It's hard
+Stakes are getting higher
+No love for free, man
+It costs if you're the buyer
+My life for me
+I see what you're tryna do, oh-oh
+C'mon
+Lazy lover, oh you
+Slide me through your
+Slide me through your
+Lazy lover, I will slide me
+Through your window
+And I'll give you
+All the sweetest dreams you ever had
+Make your early morning not so bad
+I can see just what you're tryna do
+That's a nice house
+I like what you've done with the place
+Your gingerbread and that
+Greedy smile upon your face
+I can see just what you're tryna do, oh-oh
+C'mon
+Lazy lover, oh you
+Slide me through your
+Slide me through your
+Lazy lover, I will slide me
+Through your window
+And I'll give you
+All the sweetest dreams you ever had
+Make your early morning not so bad
+I can see what you're tryna do
+But don't worry
+I say get it over with
+'Cause what you want to know, you've got it
+On your fingertips
+Don't you ask for more
+That wave just tumbles me 'round
+Till I'm lost somewhere
+Where baby, I can't make a sound
+It's so unfortunate
+But I've already been through this
+And I can see just what you're tryna do, oh-oh
+I can see just what you need to do
+I can see just what you tryna do, oh-oh `;
+const hotelShampoosLyrics = `I survive on hotel shampoos
+I'll be runnin' out soon
+You've gone away again
+Gone to collect some more
+Your hands pressed hard into me
+I thought this summer you'd be gone away again
+Ooh, he's gone away again
+We were poor
+Yeah, we were dream chasers, baby
+Skyscrapers are not too tall
+He's gonna prove me right 'til I'm wrong
+Craving all the gold and the riches
+I don't want to wash my own dishes
+He's gone away again, hmm
+He's gone away again
+Driving in a sweet brand new car
+I'm living the life of a superstar
+I got my way again, hmm
+I got my way again
+We were poor
+Yeah, we were dream chasers, baby
+Skyscrapers are not too tall
+He's gonna prove me right 'til I'm wrong
+He says that he don't recognize us
+In all our pretty disguises
+In all our pretty disguises
+Work hard, oh, we work hard until we're sleeping
+And we sleep, but we're not dreaming
+Oh, we sleep, but we're not dreaming
+Where's his love? (Where's his love)
+Where's his kisses?
+He says, "Sorry, babe, this has got away from me"
+He's gone away from me
+We were poor
+Yeah, we were dream chasers, baby
+Skyscrapers are not too tall
+He's gonna prove me right
+I know he'll prove me right
+He's gonna prove me right 'til I'm wrong `;
+const sourCandyLyrics = `Sour candy endings
+Coffee stained but aware
+Oh, I'm so tangled up in my big sunglasses
+And bed hungry, second-day fare
+No, we went under
+The weight was too much to carry and
+I felt the thunder
+Mister, don't look so scared
+I never knew, I never knew that I could be so sad
+We went under
+And I've been very cautious
+Trying numbness instead of pain
+All your humor makes me, makes me nauseous
+What a twisted, twisted, twisted game
+No, we went under
+The weight was too much to carry and
+I felt the thunder
+Mister, don't look so scared
+I never knew, I never knew that I could be so sad
+We went under
+Oh, get yourself home
+You leave him alone
+On second thought, I regret the pink stiletto
+Ooh-ooh-ooh
+Sour candy endings
+And I was barely even there
+No, we went under
+The weight was too much to carry and
+I felt the thunder
+Mister, don't look so scared
+I never knew, I never knew that I could be so sad (we went under)
+So sad (we went under)
+So sad (we went under)
+So sad (we went under)
+So sad we went under`;
+
 /* Lyrics : CURIOUSITY EP */
 const callMeMaybeCuriousityEpLyrics = `I threw a wish in the well
 Don't ask me, I'll never tell
@@ -5074,20 +5469,30 @@ I'm trying to keep away from you
 I, can't control the things I do
 God, I miss your hands over my body though
 I'm trying to keep away from you
-I'm trying keep away from you (keep away, away - keep away, away)
+I'm trying keep away from you (keep away, away keep away, away)
 (Keep away, away - keep away, away)
-I'm trying keep away from you (keep away, away - keep away, away)
+I'm trying keep away from you (keep away, away keep away, away)
 Just one word from you and I run out of reasons
 Waking up, making up for the last time
 Just one word from you and I'm all out of reasons
 Close the door, I've been yours for the longest time
-God, I miss your hands over my body (keep away, away - keep away, away)
+God, I miss your hands over my body (keep away, away keep away, away)
 (Keep away, away - keep away, away)
-God, I miss your hands over my body (keep away, away - keep away, away)`;
+God, I miss your hands over my body (keep away, away keep away, away)`;
 
 
 /* Merge all lyrics from all albums (string) into one master string */
-let lyricsBank = pictureCuriousityEpLyrics.concat(
+let lyricsBank = bucketLyrics.concat(
+    tugOfWarLyrics,
+    moneyAndTheEgoLyrics,
+    tellMeLyrics,
+    heavyLiftingLyrics,
+    sunshineOnMyShouldersLyrics,
+    worldlyMattersLyrics,
+    sweetTalkerLyrics,
+    hotelShampoosLyrics,
+    sourCandyLyrics,
+    pictureCuriousityEpLyrics,
     talkToMeCuriousityEpLyrics,
     justAStepAwayCuriousityEpLyrics,
     bothSideNowCuriousityEpLyrics,
@@ -5179,7 +5584,7 @@ let lyricsBank = pictureCuriousityEpLyrics.concat(
     theLoneliestTimeLyrics,
     anxiousLyrics,
     noThinkingOverTheWeekendLyrics,
-    keepAwayLyrics
+    //keepAwayLyrics
     );
     
 /* Use RegEx to seperate all the words into an array */
@@ -5216,6 +5621,18 @@ sortable.sort(function(a, b) {
 console.table(sortable);
 
 /* Display Lyrics on site*/
+
+/* TUG OF WAR */
+let getBucketLyrics = document.getElementById("bucket").innerText = `BUCKET \n \n ${bucketLyrics} \n \n`;
+let getTugOfWarLyrics = document.getElementById("tug-of-war").innerText = `TUG OF WAR \n \n ${tugOfWarLyrics} \n \n`;
+let getMoneyAndTheEgoLyrics = document.getElementById("money-and-the-ego").innerText = `MONEY AND THE EGO \n \n ${moneyAndTheEgoLyrics} \n \n`;
+let getTellMeLyrics = document.getElementById("tell-me").innerText = `TELL ME \n \n ${tellMeLyrics} \n \n`;
+let getHeavyLiftingLyrics = document.getElementById("heavy-lifting").innerText = `HEAVY LIFTING \n \n ${heavyLiftingLyrics} \n \n`;
+let getSunshineOnMyShouldersLyrics = document.getElementById("sunshine-on-my-shoulders").innerText = `SUNSHINE ON MY SHOULDERS \n \n ${sunshineOnMyShouldersLyrics} \n \n`;
+let getWorldlyMattersLyrics = document.getElementById("worldly-matters").innerText = `WORLDLY MATTERS \n \n ${worldlyMattersLyrics} \n \n`;
+let getSweetTalkerLyrics = document.getElementById("sweeter-talker").innerText = `SWEET TALKER \n \n ${sweetTalkerLyrics} \n \n`;
+let getHotelShampoosLyrics = document.getElementById("hotel-shampoos").innerText = `HOTEL SHAMPOOS \n \n ${hotelShampoosLyrics} \n \n`;
+let getSourCandyLyrics = document.getElementById("sour-candy").innerText = `SOUR CANDY \n \n ${sourCandyLyrics} \n \n`;
 
 /* CURIOUSITY EP */
 let getCallMeMaybeCuriousityEpLyrics = document.getElementById("call-me-maybe-curiousity-ep").innerText = `CALL ME MAYBE \n \n ${callMeMaybeCuriousityEpLyrics} \n \n`;
