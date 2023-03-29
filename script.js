@@ -273,7 +273,7 @@ You talk so sweet
 Man, it's dribbling like honey
 It's just one taste
 I see what you're tryna do
-Oh-oh, yeah-yeah
+Oh oh, yeah yeah
 It's hard
 Stakes are getting higher
 No love for free, man
@@ -380,7 +380,7 @@ We went under
 Oh, get yourself home
 You leave him alone
 On second thought, I regret the pink stiletto
-Ooh-ooh-ooh
+Ooh ooh ooh
 Sour candy endings
 And I was barely even there
 No, we went under
@@ -1584,7 +1584,7 @@ Boy, I just might
 'Cause you rule my head
 I can't stop the motion
 I can't stop the motion
-I-I can't stop the motion
+I, I can't stop the motion
 Stop the motion, stop the motion
 Wrong feels so right
 This could be the night, wrong feels so right
@@ -3537,7 +3537,7 @@ How this goes (happy not)
 If this goes (I'm happy not)
 Well, I'm happy not knowing `;
 const iLLBeYourGirlLyrics = `Now you're in love, I can see you sold out
-Where was I, pic-picture, cut my eyes out
+Where was I, pic picture, cut my eyes out
 "He's so hypnotizing", said every girl you ever met
 Win or lose, win or lose, I hold out
 You're my baby
@@ -3908,7 +3908,7 @@ Only want a real, real love
 I'm not even scared about it
 All I want is real, real love
 But I don't know a thing about it
-All I want is real, real love` ;
+All I want is real, real love `;
 const forSureLyrics = `Six in the morning, can I hold you?
 Are we done talking? Do we have to?
 I've been thinking, we were over
@@ -4870,10 +4870,10 @@ I own it (da-da, da-da-da)
 I show it (da-da, da-da-da, da-da-da, da-da-da-da)
 I'm feeling dramatic
 I like the moon and the magic of this
-Oh, I, Oh, I, I-
+Oh, I, Oh, I, I 
 I'm feeling dramatic
 I like the moon and the magic of this
-Oh, I, Oh, I, I- `;
+Oh, I, Oh, I, I `;
 const talkingToYourselfLyrics = `I was always invisible
 Consequences are difficult to face
 Could've been something beautiful, mmm
@@ -5172,7 +5172,7 @@ La, la, la, la-la
 La, la, la, la-la (la, la, la, la)
 La, la, la, la-la (give me all of the reasons)
 La, la, la, la-la (all of the reasons)
-(So ni-ni-ni)
+(So ni ni ni)
 He's my cup of tea
 Sugar on my street
 Hope he never leaves
@@ -5445,40 +5445,61 @@ No thinking (this love has no limits) `;
 const keepAwayLyrics = `Hands touch all night, I remember
 I stayed behind and you were tender
 In my whole life, I wish I never knew this kind of love
-I'm keeping company
+
+I'm keepin' company
 Company with all the friends I got from you
-It's not easy, you said, I think you're onto me
+It's not easy to sever
+Think you're onto me
 Hard to keep it cool, I know you want me too
-I, I'm trying to keep away from you
+
+I, I'm tryin' to keep away from you
 Gonna need some land between our bodies though
-I'm trying to keep away from you
-I, can't control the things I do
+I'm tryin' to keep away from you
+I can't control the things I do
 God, I miss your hands over my body though
-I'm trying to keep away from you
-Think of this time, it's now or never
+I'm tryin' to keep away from you
+
+Wake up this time, it's now or never
 You've made your mind up and I surrender
 My heart was blind, I wish I never knew this kind of love
-I'm keeping company
+
+I'm keepin' company
 Company with all the friends I got from you
-It's not easy, you said, I think you're onto me
-It's hard to keep it cool, I know you want me too
-It takes over my pain
-I, I'm trying to keep away from you
+It's not easy to sever
+Think you're onto me
+Hard to keep it cool, I know you want me too
+It takes all of my pride
+
+I, I'm tryin' to keep away from you
 We're gonna need some land between our bodies though
-I'm trying to keep away from you
-I, can't control the things I do
+I'm tryin' to keep away from you
+I can't control the things I do
 God, I miss your hands over my body though
-I'm trying to keep away from you
-I'm trying keep away from you (keep away, away keep away, away)
-(Keep away, away - keep away, away)
-I'm trying keep away from you (keep away, away keep away, away)
-Just one word from you and I run out of reasons
-Waking up, making up for the last time
+I'm tryin' to keep away from you
+
+(Keep away, away, keep away, away)
+(Keep away, away, keep away, away)
+Keep away, away, keep away, away
+Keep away, away, keep away, away
+Keep away, away, keep away, away (Been tryin' to keep away from you)
+Keep away, away, keep away, away
+Keep away, away, keep away, away (Been tryin' keep away from you)
+Keep away, away, keep away, away
 Just one word from you and I'm all out of reasons
+(Keep away, away, keep away, away)
+Wakin' up, makin' up for the lost time
+(Keep away, away, keep away, away)
+Just one word from you and I'm all out of reasons
+(Keep away, away, keep away, away)
 Close the door, I've been yours for the longest time
-God, I miss your hands over my body (keep away, away keep away, away)
-(Keep away, away - keep away, away)
-God, I miss your hands over my body (keep away, away keep away, away)`;
+(Keep away, away, keep away, away)
+
+Keep away, away, keep away, away
+God, I miss your hands over my body
+Keep away, away, keep away, away
+Keep away, away, keep away, away
+God, I miss your hands over my body
+Keep away, away, keep away, away`;
 
 
 /* Merge all lyrics from all albums (string) into one master string */
@@ -5591,11 +5612,15 @@ let lyricsBank = bucketLyrics.concat(
 const getAllLyrics = lyricsBank
     .replace(/(\r\n|\n|\r)/gm, " ")
     .replaceAll(',', '')
-    .replaceAll('-', '')
+    //.replaceAll('-', '')
     .replaceAll('?', '')
     .replaceAll('(', '')
     .replaceAll(')', '')
     .replaceAll('"', '')
+    .replaceAll('!', '')
+    .replaceAll('...', '')
+    .replaceAll('&', 'and')
+    .normalize("NFD").replace(/[\u0300-\u036f]/g, "")
     .toLowerCase()
     .split(" ");
 console.log(getAllLyrics);
