@@ -5501,6 +5501,86 @@ Keep away, away, keep away, away
 God, I miss your hands over my body
 Keep away, away, keep away, away`;
 
+/* Lyrics : THE LOVELIEST TIME */
+const anythingToBeWithYouLyrics = ``;
+const kamikazeLyrics = ``;
+const afterLastNightLyrics = ``;
+const aeroplanesLyrics = ``;
+const shyBoyLyrics = `You're pretty, we're drinkin', so I say what I'm thinkin'
+"How come everybody's dancin' but you?"
+A deep conversation, a last minute invitation
+Yeah, I'm gonna make this easy for you
+But it's like this
+I put you on my list, so come downtown if you're around
+I hope you do
+Baby, I insist that I don't care what they say about you
+So sick of everybody tellin' me what to do
+When all I need is your eyes across the room, yeah
+Those eyes across the room
+Shy boy, stir me up
+Get a lil' somethin' for your morning cup
+Woah, oh, oh, oh
+Woah
+Shy boy, stir me up
+You didn't even know you got the Midas touch
+Touch, touch, touch, touch
+Woah (Come pick me up)
+Shy boy, boy, boy, boy
+Woah
+Shy boy, boy, boy
+Woah
+You show up, you show late
+The room spins, thе earth quakes
+I admit that I was waiting for you
+My friends want to meet ya
+But thеy're only gonna tease ya
+'Cause we made a bet you wouldn't come through
+But it's like this
+I put you on my list, so come downtown if you're around
+I hope you do
+Baby, I insist that I don't care what they say about you
+So sick of everybody tellin' me what to do
+All I need is your eyes across the room, yeah (Hey)
+Those eyes across the room
+Shy boy, stir me up (Stir me up)
+Get a lil' somethin' for your morning cup
+Woah, oh, oh, oh
+Woah
+Shy boy, stir me up (Stir me up)
+You didn't even know you got the Midas touch
+Touch, touch, touch, touch
+Woah (Come pick me up)
+Shy boy, boy, boy, boy
+Woah
+Shy boy, boy, boy
+Woah
+He's got the Midas touch (Stir me up)
+Everything he touch turns to gold or sugar
+He's got the Midas touch
+Everything he touch turns to gold or sugar
+Shy boy, stir me up (Stir me up)
+Get a lil' somethin' for your morning cup
+Woah, oh, oh, oh
+Woah (He's got the Midas touch)
+Shy boy, stir me up
+You didn't even know you got the Midas touch
+Touch, touch, touch, touch (Turns to gold)
+Woah
+Stir me up
+You can touch my body
+(Touch, touch)
+You can touch my body
+He's got the Midas touch
+Stir me up
+Everything he touch turns to gold `;
+const kollageLyrics = ``;
+const shadowLyrics = ``;
+const psychedelicSwitchLyrics = ``;
+const soRightLyrics = ``;
+const comeOverLyrics = ``;
+const putItToRestLyrics = ``;
+const stadiumLoveLyrics = ``;
+const weekendLoveLyrics = ``;
 
 /* Merge all lyrics from all albums (string) into one master string */
 let lyricsBank = bucketLyrics.concat(
@@ -5605,7 +5685,20 @@ let lyricsBank = bucketLyrics.concat(
     theLoneliestTimeLyrics,
     anxiousLyrics,
     noThinkingOverTheWeekendLyrics,
-    //keepAwayLyrics
+    keepAwayLyrics,
+    anythingToBeWithYouLyrics,
+    kamikazeLyrics,
+    afterLastNightLyrics,
+    aeroplanesLyrics,
+    shyBoyLyrics,
+    kollageLyrics,
+    shadowLyrics,
+    psychedelicSwitchLyrics,
+    soRightLyrics,
+    comeOverLyrics,
+    putItToRestLyrics,
+    stadiumLoveLyrics,
+    weekendLoveLyrics
     );
     
 /* Use RegEx to seperate all the words into an array */
@@ -5767,6 +5860,21 @@ let getTheLoneliestTimeLyrics = document.getElementById("the-loneliest-time").in
 let getAnxiousLyrics = document.getElementById("anxious").innerText = `ANXIOUS \n \n ${anxiousLyrics} \n \n`;
 let getNoThinkingOverTheWeekendLyrics = document.getElementById("no-thinking-over-the-weekend").innerText = `NO THINKING OVER THE WEEKEND \n \n ${noThinkingOverTheWeekendLyrics} \n \n`;
 let getKeepAwayLyrics = document.getElementById("keep-away").innerText = `KEEP AWAY \n \n ${keepAwayLyrics} \n \n`
+
+/* THE LOVELIEST TIME */
+let getAnythingToBeWithYouLyrics = document.getElementById("antyhing-to-be-with-you").innerText = `ANYTHING TO BE WITH YOU \n \n ${anythingToBeWithYouLyrics} \n \n`;
+let getKamikazeLyrics = document.getElementById("kamikaze").innerText = `KAMIKAZE \n \n ${kamikazeLyrics} \n \n`;
+let getAfterLastNightLyrics = document.getElementById("after-last-night").innerText = `AFTER LAST NIGHT \n \n ${afterLastNightLyrics} \n \n`;
+let getAeroplanesLyrics = document.getElementById("aeroplanes").innerText = `AEROPLANES \n \n ${aeroplanesLyrics} \n \n`;
+let getShyBoyLyrics = document.getElementById("shy-boy").innerText = `SHY BOY \n \n ${shyBoyLyrics} \n \n`;
+let getKollageLyrics = document.getElementById("kollage").innerText = `KOLLAGE \n \n ${kollageLyrics} \n \n`;
+let getShadowLyrics = document.getElementById("shadow").innerText = `SHADOW \n \n ${shadowLyrics} \n \n`;
+let getPsychedelicSwitchLyrics = document.getElementById("psychedelic-switch").innerText = `PSYCHEDELIC SWITCH \n \n ${psychedelicSwitchLyrics} \n \n`;
+let getSoRightLyrics = document.getElementById("so-right").innerText = `SO RIGHT \n \n ${soRightLyrics} \n \n`;
+let getComeOverLyrics = document.getElementById("come-over").innerText = `COME OVER \n \n ${comeOverLyrics} \n \n`;
+let getPutItToRestLyrics = document.getElementById("put-it-to-rest").innerText = `PUT IT TO REST \n \n ${putItToRestLyrics} \n \n`;
+let getStadiumLoveLyrics = document.getElementById("stadium-love").innerText = `STADIUM LOVE \n \n ${stadiumLoveLyrics} \n \n`;
+let getWeekendLoveLyrics = document.getElementById("weekend-love").innerText =`WEEKEND LOVE \n \n ${weekendLoveLyrics} \n \n`;
 
 /* Display Word Count on site */
 function makeTable(array) {
