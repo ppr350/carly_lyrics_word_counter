@@ -5502,11 +5502,214 @@ God, I miss your hands over my body
 Keep away, away, keep away, away`;
 
 /* Lyrics : THE LOVELIEST TIME */
-const anythingToBeWithYouLyrics = ``;
-const kamikazeLyrics = ``;
-const afterLastNightLyrics = ``;
-const aeroplanesLyrics = ``;
-const shyBoyLyrics = `You're pretty, we're drinkin', so I say what I'm thinkin'
+const anythingToBeWithYouLyrics = `Never over, never over
+Never over, never, never over
+Anything you wanna do
+I really wanna do with you
+I could be friends with your friends, your friends
+Anything to be with you
+Anything you wanna feel
+I really wanna feel with you
+I could be down when you're down, you're down
+Anything to be with you (woo)
+I feel like I know love
+Some second chance almost slipped away
+When it comes to me, boy
+Fallin' for you is never over
+Never, never over
+Never over
+Never over, never, never over
+Never, never over
+Never over
+Never over, never, never over
+Anywhere you wanna go (woo)
+I really wanna roll with you
+We can make love in your town, my town
+Anything to be with you
+(Anything, anything, anything, anything)
+If you wanna dance (da da da, dance)
+I really wanna groove with you
+(I'm fallin' for you, yeah, I'm fallin' for you)
+I could get down when you're down, you're down
+Anything to be with you
+(Anything, anything, anything, anything)
+I feel like I know love
+Some second chance almost slipped away
+When it comes to me, boy
+Fallin' for you is never over
+Never, never over
+Never over
+Never over, never, never over
+Never, never over
+Never over
+Never over, never, never over
+Never, never over
+Never over
+Never over, never, never over
+Never, never over
+Never over
+Never over, never, never over
+Appetite for stars tonight
+And you're the reason
+You're the reason (the reason)
+There's something right in lover's eyes
+And you're the reason, you're the reason
+And you're the reason
+If anything you wanna do
+I really wanna do with you
+I could be friends
+With your friends, your friends
+Anything to be with you
+Anything you wanna feel
+I really wanna feel with you
+Anything you wanna do
+Anything to be with you `;
+const kamikazeLyrics = `I saw you in the deep end
+A shipwreck underwater
+And I know I shouldn't want that
+I'm just here for the weekend
+A wordless kind of offer
+And I'm hoping that you saw that
+'Cause I see you
+I fall back into the feeling like we've just begun
+Tell me, ooh
+Are you tired of being alone?
+You're not the only one
+I know it sounds fatal, I know we made fires
+The end is real clear and it won't take us higher
+Tonight, I might need to
+Come kamikaze crash into your way (kamikaze, kamikaze)
+I love the beginning, the moonlight is calling
+I know we'll go up but we'll end up freefalling
+You might think I need to
+Come kamikaze crash into your way (kamikaze)
+Crash into your way, way, way
+You kiss me on the cheek and
+We say hello like it's goodbye
+I should've called that
+But I still feel the heat like
+A secret kind of language
+When your fingers fall down my back (mm)
+Tell me, ooh
+Are you tired of being alone?
+You're not the only one
+I know it sounds fatal, I know we made fires
+The end is real clear and it won't take us higher
+Tonight, I might need to
+Come kamikaze crash into your way (kamikaze, kamikaze)
+I love the beginning, the moonlight is calling
+I know we'll go up but we'll end up freefalling
+You might think I need to
+Come kamikaze crash into your way (kamikaze)
+Crash into your way, way, way
+Tonight, I need to come crash into your way, way, way
+Crash into your way (kamikaze) `;
+const afterLastNightLyrics = `Gravity is not enough to keep me on your street
+Walking twenty feet above the ground
+I need you to hold my hand
+Every kiss we start feels somehow incomplete
+Secrets in the corner of your mouth
+Things I wanna understand
+Then you said, hey, before we make a big mistake
+Is there some place where we can go right now?
+I don't think that it can wait
+After last night, things look different
+In the pale moonlight
+In the moment, I was hypnotized
+You can go ahead and open your eyes
+Yeah, I see you
+And I think it's gonna change my life
+Not afraid of getting close this time
+You can go ahead and open your eyes
+The consequences of dancing with his insecurities
+Tell me what you want and I'll reply
+I can tell the truth, don't bite
+Then you said, hey, before we make a big mistake
+Is there some place where we can go right now?
+There's something I need to say
+After last night, things look different
+In the pale moonlight
+In the moment, I was hypnotized
+You can go ahead and open your eyes
+Yeah, I see you
+And I think it's gonna change my life
+Not afraid of getting close this time
+You can go ahead and open your eyes
+Yeah, yeah
+Yeah, yeah
+Yeah, yeah
+Yeah, I see you
+Yeah, yeah
+Yeah, yeah
+Yeah, yeah (oh)
+Yeah, I see you
+After we spent the night
+The moon was shining extra bright
+We kinda opened up inside
+After we spent the night
+We crossed into the other side
+And manifested something bright
+After last night, things look different
+In the pale moonlight
+In the moment, I was hypnotized
+You can go ahead and open your eyes
+Yeah, I see you
+And I think it's gonna change my life
+Not afraid of getting close this time
+You can go ahead and open your eyes
+It's always in you, really, always
+And it's no surprise
+I was never so hypnotized
+You can go ahead and open your eyes `;
+const aeroplanesLyrics = `Dream slow
+I want you to be the one for me, you know
+And when the light inside your eyes begins to glow
+I won't hold you back from anything you want to be
+I want you to be the one
+Speak nice
+I had a funeral for us and for my life
+If I could be the way you wanted me tonight
+But I won't hold you back from anything
+I want to give you everything you wanted, babe
+I can see diamonds in the rough
+I would fly aeroplanes in the ocean for your touch
+Didn't you ever dream of us?
+One look in your eyes and it's not me
+I can see diamonds in the rough
+I would fly aeroplanes in the ocean for your touch
+Didn't you ever dream of us?
+One look in your eyes and it's not me
+We grow colder, the nights were feeling
+The fantasy of the way it could have been
+So, I want you to look inside my head
+And now see me, with a candle at your table
+We're peaceful, too quiet to mean anything
+I want to give you everything you want, babe
+I can see diamonds in the rough
+I would fly aeroplanes in the ocean for your touch
+Didn't you ever dream of us?
+One look in your eyes and it's not me
+I can see diamonds in the rough
+I would fly aeroplanes in the ocean for your touch (your touch)
+Didn't you ever dream of us?
+One look in your eyes and it's not me
+We're gonna have to make time
+We're gonna have to build each other's lives
+We're only earth angels
+And every day, I want you
+We're gonna have to make time
+We're gonna have to build each other's lives
+We're only earth angels
+And every day, I want you (and every day, I want you)
+We're gonna have to make time
+We're gonna have to build each other's lives
+We're only earth angels (we're only earth angels)
+And every day, I want you (and every day, I want you)
+We're gonna have to make time
+We're gonna have to build each other's lives
+We're only earth angels
+And every day, I want you `;
+const shyBoyLyrics = `You're pretty, we're drinkin', so I say what I'm thinkin '
 "How come everybody's dancin' but you?"
 A deep conversation, a last minute invitation
 Yeah, I'm gonna make this easy for you
@@ -5573,14 +5776,369 @@ You can touch my body
 He's got the Midas touch
 Stir me up
 Everything he touch turns to gold `;
-const kollageLyrics = ``;
-const shadowLyrics = ``;
-const psychedelicSwitchLyrics = ``;
-const soRightLyrics = ``;
-const comeOverLyrics = ``;
-const putItToRestLyrics = ``;
-const stadiumLoveLyrics = ``;
-const weekendLoveLyrics = ``;
+const kollageLyrics = `Tryin' to paint a picture of the sun with all its flowers
+Reaching closer past the surface
+Like I'm slowly getting closer to you
+Living with uncertainty like nothing really matters
+Past the future on my way
+To working for myself back in bed with you
+Give it all some time, paralyzed devotion
+Give it all some time
+I've been in the dark, paralyzed emotion
+Lost in wintertime
+Did I do it to myself? Hard to know for sure
+Did I hurt somebody else?
+'Cause you're the one thing
+Nothing really matters
+But it matters if it matters to you
+It's hard to know for sure
+But I believe you're always in my corner
+I did it to myself, I did it to you
+I can be enchanted by the simple things
+I watch the way the fire's burning all my letters
+All the words I try to forget
+Leaving you was certainly the hardest part of all
+But I was living like a servant to a secret
+I was trying to protect, mm
+Give it all some time, paralyzed devotion
+Give it all some time
+I'm still in the dark, paralyzed emotions
+Lost in wintertime
+Did I do it to myself? It's hard to know for sure
+Did I hurt somebody else?
+'Cause you're the one thing
+Nothing really matters
+But it matters if it matters to you
+It's hard to know for sure
+But I believe you're always in my corner
+I did it to myself, I did it to you
+Did I do it to myself? `;
+const shadowLyrics = `Don't say I didn't warn you
+I'm something like a shadow
+It takes a ghost to know one
+And we're so good when we're in motion
+I want to tell you something so hard to say
+I think you might already know
+I think about you almost every day
+There's not a place that you don't go
+And in no time
+I'll be coming to you
+I'll be flying to you
+Moon on my shoulder
+The architecture of this connection
+Is your reflection, it's always following me
+City to city, heartbeat to heartbeat, body to body
+And I keep contemplating our situation
+There's no escaping, your words are following me
+City to city, heartbeat to heartbeat
+You got me, you got me
+Life flickers past the ocean
+Daydreaming on an airplane
+A kiss, yeah, it was instinct
+Sometimes it's better to not think
+I want to tell you something so hard to say
+I think you might already know
+I think about you almost every day
+There's not a place that you don't go (baby)
+The architecture of this connection
+Is your reflection, it's always following me
+City to city, heartbeat to heartbeat, body to body
+And I keep contemplating our situation
+There's no escaping, your words are following me
+City to city, heartbeat to heartbeat
+You got me, you got me
+And in no time
+I'll be coming to you
+I'll be flying to you
+Moon on my shoulder
+(Heartbeat to heartbeat)
+(You got me, you got me)
+City to city, you got me
+Heartbeat to heartbeat, you got me, you got me `;
+const psychedelicSwitchLyrics = `It's like a psychedelic, it's like a psychedelic
+It's like a psych-, it's like a psychedelic, lucid
+It's like a psychedelic, it's like a psychedelic
+It's like a psych-, it's like a psychedelic, lucid
+It's like a psychedelic, it's like a psychedelic
+It's like a psych-, it's like a psychedelic, lucid
+I think all my life
+I never met anybody like you
+Sunrise all the time
+When I touch you
+It's like I'm waking up in a euphoria
+My insecurities are things I never was
+I was a sad, sad song before we met
+But boy, your live is such a trip
+It's like a psychedelic switch
+Don't wake me 'cause I'm lucid dreaming
+Meditating on your lips
+'Cause baby, I'd be satisfied forever
+With a couple years of this
+Make me feel like in my birthday suit
+With you, I'm Puttin' on the Ritz
+It's like a psychedelic switch (it's like a psych-, it's like a psychedelic, lucid)
+I'm in paradise
+I never met anybody like you
+I don't wanna hide when I'm with you
+It's like I'm waking up in a euphoria
+My insecurities are things I never was
+It's like my whole life now is making sense
+I'm on the wildest trip and this
+It's like a psychedelic switch
+Don't wake me 'cause I'm lucid dreaming
+Meditating on your lips
+'Cause baby, I'd be satisfied forever
+With a couple years of this
+Make me feel like in my birthday suit
+With you, I'm Puttin' on the Ritz
+It's like a psychedelic switch
+You feel just like home
+I'm not scare to show ya
+You feel just like home
+I'm not scare to show ya
+You feel just like home
+I'm not scare to show ya
+Yeah, all my insecurities
+Can't stand the way you look at me
+You loving me, it's hard to resist
+It's like a psychedelic switch
+It's like a psychedelic switch
+It's like a psychedelic switch
+It's like a psychedelic switch
+(It's like a psychedelic, it's like a psychedelic)
+(It's like a psych-, it's like a psychedelic, lucid)
+It's like a psychedelic switch
+Don't wake me 'cause I'm lucid dreaming
+Meditating on your lips
+'Cause baby, I'd be satisfied forever
+With a couple years of this
+Make me feel like in my birthday suit
+With you, I'm Puttin' on the Ritz
+It's like a psychedelic switch
+It's like a psych-, it's like a psych
+It's like a psych-, it's like a psychedelic, lucid
+It's like a psych-, it's like a psych
+It's like a psych-, it's like a psychedelic, lucid
+It's like a psych-, it's like a psych
+It's like a psych-, it's like a psychedelic, lucid
+It's like a psych-, it's like a psych
+It's like a psych-, it's like a psychedelic, lucid `;
+const soRightLyrics = `Do you really think this is a good idea?
+I mean, no, probably not but yeah
+Alright, see you at my place
+'Kay, see ya
+I'm complimented by your invitation
+Did we crash into each other's lives again overnight?
+I don't blame you for your hesitation
+Will we only make each other cry again?
+I get so real when I'm with you
+You follow me high, don't follow me low
+'Cause on the occasion the ones need a two
+I'm ready to ride wherever you go
+I was wrong, I'm still into it
+Did I lose your love? When it's physical
+Sometimes we get it so right
+We can get it so right
+I was wrong, no one's innocent
+Did we fuck this up when it's critical?
+Sometimes we get it so right (so right)
+Baby, we can get it so right (so right, it's so right)
+Got in trouble with a new location
+When you moved into my place
+I'm new to someone all the time
+After dinner there was conversation
+Dripped in paranoia
+And it always turned into a fight
+But you know the deal (you know the deal)
+When I'm with you (when I'm with you)
+You follow me high (high), don't follow me low
+'Cause on the occasion (occasion) the ones need a two
+I'm ready to ride wherever you go (ooh)
+I was wrong, I'm still into it
+Did I lose your love? When it's physical
+Sometimes we get it so right (so right)
+We can get it so right (so right, it's so right)
+I was wrong, no one's innocent
+Did we fuck this up when it's critical?
+Sometimes we get it so right (so right)
+Baby, we can get it so right (so right, it's so right)
+(Sometimes we get it so-)
+Move closer to me 'cause I know you see through me
+Like I want you to read between the lines (lines)
+Don't say you're sorry and I won't say I'm sorry
+Yeah, we don't need the words to make it right
+Sometimes we get it so right
+We can get it so right
+Sometimes we get it so right
+Baby, we can get it so right (did we fuck this up? did we fuck this up?)
+Sometimes we get it so right (move closer to me 'cause I know)
+We can get it so right (I want you to read between the lines)
+Sometimes we get it so right (don't say you're sorry and I won't)
+Baby, we can get it so right (we don't need the words to make it right)
+Sometimes we get it so right `;
+const comeOverLyrics = `Close my eyes, I see you, you, you
+You got it, I feel butterflies trying hard to escape
+Can't deny, there's a feeling, yeah
+You kinda make me wanna try
+Couple nights, couple days
+'Cause you do something to my patience
+I can't hardly wait
+Come over, come over
+I'm ready to see you
+Whatever you're scheming, I'm already dreaming
+Come over, come over
+And don't keep me waiting
+Got nothing on my mind but the two of us
+Come over, come over
+Come over, come over
+After hours, there's a space for you in heaven
+Picnic on the floor by a warm fireplace
+Up 'til now, there were tens but you're eleven
+Let me show you how you fit right into place
+'Cause you do something to my patience
+I can't hardly wait
+Come over, come over
+I'm ready to see you
+Whatever you're scheming, I'm already dreaming
+Come over, come over
+And don't keep me waiting
+Got nothing on my mind but the two of us
+Come over, come over
+Come over, come over
+Come over, come over
+Forever is just fine
+Baby, don't waste my time
+Wanna see you tonight, oh, oh
+Come over, come over
+I'm ready to see you
+Whatever you're scheming, I'm already dreaming
+Come over, come over
+And don't keep me waiting
+Got nothing on my mind but the two of us
+Come over, come over
+Come over, come over
+Come over, come over `;
+const putItToRestLyrics = `Faces, lost in time like a faded magazine
+I've been hard to find
+I've been close but out of reach
+When you're next to me
+Put it to rest or the rest won't follow me
+Put it to rest or the rest won't follow me
+The ones I loved and left behind
+Put it to rest with with the rest
+Put it to rest or the rest won't follow me
+The ones I loved and left behind
+Feel some change again
+Like your wound won't let me sleep
+Got my way again
+Got so close I couldn't breathe
+When you're next to me
+Put it to rest or the rest won't follow me
+Put it to rest or the rest won't follow me
+The ones I loved and left behind
+Put it to rest with with the rest
+Put it to rest or the rest won't follow me
+The ones I loved and left behind
+But I never even told you
+That I only ever wanted you
+Then I wake up in the morning
+In the emptiest of empty rooms
+The ones I loved and left behind
+Put it to rest or the rest won't follow me
+Put it to rest or the rest won't follow me
+The ones I loved and left behind
+Put it to rest with with the rest
+Put it to rest or the rest won't follow me `;
+const stadiumLoveLyrics = `Hey Carly, watch this!
+(Here we go)
+(Tried to be better, uh)
+(Watch this)
+Got you on my mind for the second time
+Got you on my mind, but it's not enough
+These are little words, but I'm feeling that stadium love
+Gimme some
+Am I the only one who's insatiable?
+Waiting for someone who's untouchable
+These are little dreams, but I'm wanting that stadium love
+Gimme some
+This is for the weekend lovers
+Ones you can't imagine you'll forget
+Wishing you a speed recovery
+Sliding doors goodbye, hello, goodbye
+On just two nights
+One summertime
+Just sliding doors goodbye, hello, goodbye
+Dreams, dreams, dreams
+A wish, a wish
+To be broken, broken
+So you better hurry up
+Yeah, come and pick me up
+Hey! Boy! Saw you on the weekend
+Full stop, now I'm in the deep end
+Hey! Look! Now I'm only feeling
+Stadium love
+Hey! Boy! Saw you on the weekend
+Full stop, now I'm in the deep end
+Hey! You! Now I'm only feeling
+Stadium love
+Watch this!
+Dreams, dreams, dreams
+A wish, a wish
+To be broken, broken
+So you better hurry up
+And come and pick me up
+Come and pick me up
+I got you on my
+Ooh, not enough
+Got you on my mind, but it's not enough
+Give me stadium love
+Stadium love
+Stadium love
+Watch this
+What a night
+Got you on my mind, but it's not enough `;
+const weekendLoveLyrics = `Weekend love
+Eyes like invitations
+One seat left, and you moved over
+And it was on
+Conversation was
+More than ordinary
+Young girl bought the things you sold her
+And on and on
+Summertime flies and
+We got a little bit older
+Got me so high but
+Everybody comes down
+Working it out, working it out
+Alright, guess it was a past life
+I haven't seen you around
+But it's alright, I'm alright
+Ah-ah-ah-ah-ah
+Soft light hits me on the high line
+So go on fooling around
+I'll be alright, I'm alright
+Ah-ah-ah-ah-ah
+Life goes on
+New York, new arrangements
+No more sleeping on your shoulder
+I'm moving on
+In the park, there's a
+Violin beginning
+Like a movie kind of closure
+And on and on
+Summertime flies and
+We got a little bit older
+Got me so high but
+Everybody comes down
+Working it out, working it out
+Alright, guess it was a past life
+I haven't seen you around
+But it's alright, I'm alright
+Ah-ah-ah-ah-ah
+Soft light hits me on the high line
+So go on fooling around
+I'll be alright, I'm alright
+Ah-ah-ah-ah-ah`;
 
 /* Merge all lyrics from all albums (string) into one master string */
 let lyricsBank = bucketLyrics.concat(
